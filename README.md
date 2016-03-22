@@ -68,7 +68,7 @@ GCompris má administrativní rozhraní, kde můžete které úlohy budou žáci
 
 <img src="./images/gcompris-ovladej-hadici.png" height="80" alt="kočička - myš - ovládej hadici"> *Ovládej hadici.* Přesné táhnutí myši po klikaté dráze. (8 minut)
 
-<img src="./images/gcompris-dvojklik.png" height="80" alt="kočička - myš - dvojité klikání myší"> *Dvojité klikání myší.* Nácvik dvojkliku na velkých tlačítkách. (8 minut)
+<img src="./images/gcompris-dvojklik.png" height="120" alt="kočička - myš - dvojité klikání myší"> *Dvojité klikání myší.* Nácvik dvojkliku na velkých tlačítkách. (8 minut)
 
 #### Práce s klávesnicí
 
