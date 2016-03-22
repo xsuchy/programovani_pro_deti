@@ -64,6 +64,8 @@ GCompris má administrativní rozhraní, kde můžete které úlohy budou žáci
 
 #### Pamětové aktivity
 
+<img src="./images/gcompris-pamet.png" height="60" alt="tučňák > slon > mašinka">
+
 ![tučňák > slon > mašinka](./images/gcompris-pamet.png =x60) Pamětová hra s vláčky.
 
 #### Prostorová orientace
