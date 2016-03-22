@@ -70,7 +70,7 @@ GCompris má administrativní rozhraní, kde můžete které úlohy budou žáci
 
 <img src="./images/gcompris-dvojklik.png" height="120" alt="kočička - myš - dvojité klikání myší"> *Dvojité klikání myší.* Nácvik dvojkliku na velkých tlačítkách. (8 minut)
 
-<img src="./images/gcompris-dolovani.png" height="120" alt="kočička - myš - dolování zlata"> *Dolování zlata.* Procvičení skrolovacího kolečka.
+<img src="./images/gcompris-dolovani.png" height="120" alt="kočička - myš - dolování zlata"> *Dolování zlata.* Procvičení skrolovacího kolečka. (8 minut)
 
 #### Práce s klávesnicí
 
