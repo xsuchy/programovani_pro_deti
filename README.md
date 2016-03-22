@@ -37,14 +37,15 @@ Ačkoliv dělím příručku na různé věkové třídy, tak to dělení rozhod
 
 ### GCompris
 
-Program [GCompris] obsahuje mnoho edukačních úkolů pro děti ve věku od 2 do 10 let. Je ideální pro seznámení s počítačem a jeho ovládáním.
+Program [GCompris](http://gcompris.net/index-cs.html) obsahuje mnoho edukačních úkolů pro děti ve věku od 2 do 10 let. Je ideální pro seznámení s počítačem a jeho ovládáním.
 
 Instalace:
-* Fedora: dnf install gcompris gcompris-sound-cs
-* Ubuntu: apt-get install gcompris gcompris-sound-cs
+* Fedora: `dnf install gcompris gcompris-sound-cs`
+* Ubuntu: `apt-get install gcompris gcompris-sound-cs`
 * Windows: http://gcompris.net/download/
 * MacOS: https://itunes.apple.com/us/app/gcompris-educational-game/id1019161041
 * Android: https://play.google.com/store/apps/details?id=net.gcompris
+
 Program je k dispozici zdarma.
 
 Počítejte s časovou dotací 8 minut na jednu úlohu. Tj. maximálně 5 úloh během jedné vyučovací hodiny.
