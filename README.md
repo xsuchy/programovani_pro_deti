@@ -62,7 +62,7 @@ GCompris má administrativní rozhraní, kde můžete které úlohy budou žáci
 
 <img src="./images/gcompris-hybej-mysi.png" height="80" alt="kočička - myš - hýbej myší"> Hýbej myší. Děti musí pohybem myši pokrýt celou plochu obrazovky. (8 minut)
 
-
+<img src="./images/gcompris-klikej-mysi.png" height="80" alt="kočička - myš - hýbej myší"> Klikej myší. Děti musí kliknout na různých místech plochy. Plocha na kterou mají kliknout je velká, takže motorika nemusí být tak jemná.
 
 #### Práce s klávesnicí
 
