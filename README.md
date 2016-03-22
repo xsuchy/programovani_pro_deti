@@ -66,6 +66,9 @@ GCompris má administrativní rozhraní, kde můžete které úlohy budou žáci
 
 <img src="./images/gcompris-klikni-kresli.png" height="120" alt="kočička - myš - hýbej myší"> *Klikněte a kreslete.* Plocha na kliknutí je měnší a děti musí na objekty kliknout v daném pořadí. (8 minut)
 
+<img src="./images/gcompris-ovladej-hadici.png" height="80" alt="kočička - myš - ovládej hadici"> *Ovládej hadici.* Přesné táhnutí myši po klikaté dráze. (8 minut)
+
+
 #### Práce s klávesnicí
 
 #### Pamětové aktivity
