@@ -64,9 +64,11 @@ GCompris má administrativní rozhraní, kde můžete které úlohy budou žáci
 
 #### Pamětové aktivity
 
-<img src="./images/gcompris-pamet.png" height="80" alt="tučňák - slon - mašinka"> Pamětová hra s vláčky.
+<img src="./images/gcompris-pamet.png" height="80" alt="tučňák - slon - mašinka"> Pamětová hra s vláčky. (8 minut)
 
 #### Prostorová orientace
+
+<img src="./images/gcompris-bludiste.png" height="80" alt="tučňák - bludiště - bludiště"> Bludiště. To první je jednoduší bludiště, kdy pohyb je relativní k obrazovce (šipka nahoru je pohyb nahoru po monitoru). Až to děti zvládnou tak mohou vyzkoušet druhé bludiště, kdy pohyb je relativní (šipka nahoru je pohyb vpřed, což záleží na tom kam je tučňák zrovna natočený). (2krát 8 minut).
 
 #### Algoritmy
 
