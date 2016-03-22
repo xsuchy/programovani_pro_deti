@@ -7,6 +7,8 @@ Tento text není a nebude učebnicí programovaní a není pro děti. Slouží p
 
 Nemám potřebu vytvářet nějaký nový učební systém na programovaní. Už jich existuje plno. Budu zde na ně uvádět odkazy. A budu je také odstraňovat tak jak budou některé z nich zanikat a jiné místo nich vznikat. Pokud naleznete nějaký skvělý výukový program, tak budu rád když mi dáte vědět.
 
+** Tato příručka teprve vzniká. Píši je veřejně. Můžete ji používat, komentovat, přispívat k ní - akorát mějte na paměti, že ještě není hotová. **
+
 ### Věk žáků
 
 Tento text je zaměřen na děti v prvních ročnících základních škol. Pokud hledáte příručku pro střední školy a případně poslední ročníky základních škol tak vám doporučuji [Informatiku pro každého](http://popelka.ms.mff.cuni.cz/~lessner/mw/index.php/U%C4%8Debnice/%C3%9Avod/P%C5%99edmluva_pro_u%C4%8Ditele), která je pro starší děti vhodnější.
