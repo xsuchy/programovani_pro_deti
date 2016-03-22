@@ -60,19 +60,21 @@ GCompris má administrativní rozhraní, kde můžete které úlohy budou žáci
 
 #### Práce s myší
 
-<img src="./images/gcompris-hybej-mysi.png" height="80" alt="kočička - myš - hýbej myší"> Hýbej myší. Děti musí pohybem myši pokrýt celou plochu obrazovky. (8 minut)
+<img src="./images/gcompris-hybej-mysi.png" height="80" alt="kočička - myš - hýbej myší"> *Hýbej myší.* Děti musí pohybem myši pokrýt celou plochu obrazovky. (8 minut)
 
-<img src="./images/gcompris-klikej-mysi.png" height="80" alt="kočička - myš - hýbej myší"> Klikej myší. Děti musí kliknout na různých místech plochy. Plocha na kterou mají kliknout je velká, takže motorika nemusí být tak jemná.
+<img src="./images/gcompris-klikej-mysi.png" height="80" alt="kočička - myš - hýbej myší"> *Klikej myší.* Děti musí kliknout na různých místech plochy. Plocha na kterou mají kliknout je velká, takže motorika nemusí být tak jemná. (8 minut)
+
+<img src="./images/gcompris-klikni-kresli.png" height="120" alt="kočička - myš - hýbej myší"> *Klikněte a kreslete.* Plocha na kliknutí je měnší a děti musí na objekty kliknout v daném pořadí. (8 minut)
 
 #### Práce s klávesnicí
 
 #### Pamětové aktivity
 
-<img src="./images/gcompris-pamet.png" height="80" alt="tučňák - slon - mašinka"> Pamětová hra s vláčky. Rozlišovnání vzorů a trénink krátkodobé paměti. (8 minut)
+<img src="./images/gcompris-pamet.png" height="80" alt="tučňák - slon - mašinka"> *Pamětová hra s vláčky.* Rozlišovnání vzorů a trénink krátkodobé paměti. (8 minut)
 
 #### Prostorová orientace
 
-<img src="./images/gcompris-bludiste.png" height="80" alt="tučňák - bludiště - bludiště"> Bludiště. To první je jednoduší bludiště, kdy pohyb je relativní k obrazovce (šipka nahoru je pohyb nahoru po monitoru). Až to děti zvládnou tak mohou vyzkoušet druhé bludiště, kdy pohyb je relativní (šipka nahoru je pohyb vpřed, což záleží na tom kam je tučňák zrovna natočený). (2krát 8 minut).
+<img src="./images/gcompris-bludiste.png" height="80" alt="tučňák - bludiště - bludiště"> *Bludiště.* To první je jednoduší bludiště, kdy pohyb je relativní k obrazovce (šipka nahoru je pohyb nahoru po monitoru). Až to děti zvládnou tak mohou vyzkoušet druhé bludiště, kdy pohyb je relativní (šipka nahoru je pohyb vpřed, což záleží na tom kam je tučňák zrovna natočený). (2krát 8 minut).
 
 #### Algoritmy
 
