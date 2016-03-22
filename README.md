@@ -60,11 +60,15 @@ GCompris má administrativní rozhraní, kde můžete které úlohy budou žáci
 
 #### Práce s myší
 
+<img src="./images/gcompris-hybej-mysi.png" height="80" alt="kočička - myš - hýbej myší"> Hýbej myší. Děti musí pohybem myši pokrýt celou plochu obrazovky. (8 minut)
+
+
+
 #### Práce s klávesnicí
 
 #### Pamětové aktivity
 
-<img src="./images/gcompris-pamet.png" height="80" alt="tučňák - slon - mašinka"> Pamětová hra s vláčky. (8 minut)
+<img src="./images/gcompris-pamet.png" height="80" alt="tučňák - slon - mašinka"> Pamětová hra s vláčky. Rozlišovnání vzorů a trénink krátkodobé paměti. (8 minut)
 
 #### Prostorová orientace
 
