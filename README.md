@@ -96,3 +96,22 @@ GCompris má administrativní rozhraní, kde můžete které úlohy budou žáci
 
 <img src="./images/gcompris-posouvani-bloku.png" height="120" alt="panda - autíčko"> *Posouvání bloků.* Jednoduchý problém k vyřešení. (8 minut)
 
+### Kurz 2 z Code.org
+
+Nyní se děti mohou už vrhnout na vlastní programování. Začněte s kurzy se [Studio.Code.org](https://studio.code.org/). Nyní záleží na tom jak moc dobře děti umí číst. Pokud umí číst po písmenách, tak můžete začít rovnou u [kurzu 2](https://studio.code.org/s/course2). Zde je sice vyžadovaná znalost čtení - protože příkazy jsou napsané textově a děti je jenom přetahují. Ale příkazů není mnoho a děti mnohdy "podvádějí" a pamutují co příkaz dělá podle prvního písmena. Pokud si myslíte, že děti by to čtení nezvládli, tak můžete zkusit začít s [kurzem 1](https://studio.code.org/s/course1), který využívá intuitivních ikonek, ale jinak jsou oba kurzy velmi podobné - po jejich dokončení by děti měli chápat posloupnost příkazů a cykly.
+
+Jelikož jsou oba kurzy obsahově podobné, tak je možné začít s prvním kurzem a v polovině přejít do poloviny (nebo třetiny) druhého kurzu.
+
+Časová dotace je 19 hodin.
+
+Na offline aktivity je nutné se dopředu připravit a nachystat si prostor - v některých učebnách se vám budou špatně realizovat a je možná lepší je provést v obyčejné třídě.
+
+Kurzy na Code.org umožnují sledovat váš postup (které úlohy jste úspěšně dokončily). Ale má to háček. Buď se musíte přihlásit (více o tom níže). Nebo nesmíte mít sdílený počítač - což se ve školních učebnách téměř nedá splnit. Naopak jednoduché to je při domácí výuce, kde dítě má svůj vlastní počítač.
+
+A jak s tím přihlašováním ve školní třídě? Nejjednodušší je zřídít každému dítěti školní email. Pokud byste zřídili email na nějakém freemailu, tak narazíte na to, že děti relativně často zapomenou své heslo a vy mu ho musíte obnovit. Což je jednak časově náročné a také musíte porušít bezpečností pravidlo (např. znáte jeho bezpečností otázku/odpověď). Pokud vaše škola nemá vlastní emaily, tak doporučuji [Google Apps for Education](https://www.google.com/edu/products/productivity-tools/), které vám umožní zprovoznit email (kalendář a další služby) na vaší školní doméně. Vy jako učitel můžete kdykoliv vytvářet libovolný počet uživatelů a lehce jim resetovat hesla. Celé to poskytuje Google zdarma a nastavení nevyžaduje velké technické dovednosti.
+
+### Scratch
+
+## 2. třída
+
+
