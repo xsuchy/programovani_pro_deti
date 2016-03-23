@@ -88,7 +88,9 @@ GCompris má administrativní rozhraní, kde můžete které úlohy budou žáci
 
 #### Algoritmy
 
-<img src="./images/gcompris-plavebni komora.png" height="80" alt="prasátko - lodička s kruhem"> *Pracuj s plavební komorou.* Činnost je potřeba vykonat v učité posloupnosti.
+<img src="./images/gcompris-plavebni komora.png" height="80" alt="prasátko - lodička s kruhem"> *Pracuj s plavební komorou.* Činnost je potřeba vykonat v učité posloupnosti. (8 minut)
 
-<img src="./images/gcompris-sestiuhelnik.png" height="80" alt="medvěd - šestiúhelníky"> *Šestiúhelník.* Aproximace dat a postupné připbližování se k výsledku.
+<img src="./images/gcompris-sestiuhelnik.png" height="80" alt="medvěd - šestiúhelníky"> *Šestiúhelník.* Aproximace dat a postupné připbližování se k výsledku. (8 minut)
+
+<img src="./images/gcompris-scitani.png" height="80" alt="ovečka - tabule s křídou - kalkulačka - sčítání"> *Procvič si operaci sčítání.* Jednoduchá algebraická operace. (8 minut)
 
