@@ -76,6 +76,8 @@ GCompris má administrativní rozhraní, kde můžete které úlohy budou žáci
 
 <img src="./images/gcompris-pismena.png" height="80" alt="kočička - klávesníce - jednotlivá písmena"> *Jednotlivá písmena.* Základy orientace na alfanumerické klávesnice. (8 minut)
 
+<img src="./images/gcompris-cisla.png" height="80" alt="kočička - klávesníce - čísla na kostce"> *Čísla na kostce.* Základy orientace na numerické klávesnici. (8 minut)
+
 #### Pamětové aktivity
 
 <img src="./images/gcompris-pamet.png" height="80" alt="tučňák - slon - mašinka"> *Pamětová hra s vláčky.* Rozlišovnání vzorů a trénink krátkodobé paměti. (8 minut)
