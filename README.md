@@ -94,3 +94,5 @@ GCompris má administrativní rozhraní, kde můžete které úlohy budou žáci
 
 <img src="./images/gcompris-scitani.png" height="80" alt="ovečka - tabule s křídou - kalkulačka - sčítání"> *Procvič si operaci sčítání.* Jednoduchá algebraická operace. (8 minut)
 
+<img src="./images/gcompris-posouvani-bloku.png" height="120" alt="panda - autíčko"> *Posouvání bloků.* Jednoduchý problém k vyřešení.
+
