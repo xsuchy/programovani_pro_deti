@@ -88,3 +88,5 @@ GCompris má administrativní rozhraní, kde můžete které úlohy budou žáci
 
 #### Algoritmy
 
+<img src="./images/gcompris-plavebni komora.png" height="80" alt="prasátko - lodička s kruhem"> *Pracuj s plavební komorou.* Činnost je potřeba vykonat v učité posloupnosti.
+
