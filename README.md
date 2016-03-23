@@ -114,4 +114,10 @@ A jak s tím přihlašováním ve školní třídě? Nejjednodušší je zříd�
 
 ## 2. třída
 
+### Kurz 3 z Code.org
+
+[Kurz 3 z Code.org](https://studio.code.org/s/course3) navazuje na [kurzu 2](https://studio.code.org/s/course2), ale obsahuje 21 hodin. Což je docela hodně (2/3 školního roku) a děti to nebude tak dlouho bavit, takže je vhodné to prokládat jinými aktivitami. Takže realně asi stihnete dodělat tak polovinu tohoto kurzu.
+
+### CodeCombat.org
+
 
