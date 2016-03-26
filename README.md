@@ -155,4 +155,10 @@ Z podobného soudku jako Lightbot je i [The Foos](http://thefoos.com/). Odlehče
 
 
 
+## Další zdroje
+
+Zde uvádím odkazy na další zdroje na které jsem narazil s mým krátkým komentářem.
+
+[Baltík](http://www.sgpsys.com/cz/) - program, který byl vzorem pro Scratch. Bohužel je dostupný jenom pro Windows. Jeho ovládání je mnohem složitější a v licence je poměrně drahá.
+
 
