@@ -110,6 +110,12 @@ Kurzy na Code.org umožnují sledovat váš postup (které úlohy jste úspěšn
 
 A jak s tím přihlašováním ve školní třídě? Nejjednodušší je zřídít každému dítěti školní email. Pokud byste zřídili email na nějakém freemailu, tak narazíte na to, že děti relativně často zapomenou své heslo a vy mu ho musíte obnovit. Což je jednak časově náročné a také musíte porušít bezpečností pravidlo (např. znáte jeho bezpečností otázku/odpověď). Pokud vaše škola nemá vlastní emaily, tak doporučuji [Google Apps for Education](https://www.google.com/edu/products/productivity-tools/), které vám umožní zprovoznit email (kalendář a další služby) na vaší školní doméně. Vy jako učitel můžete kdykoliv vytvářet libovolný počet uživatelů a lehce jim resetovat hesla. Celé to poskytuje Google zdarma a nastavení nevyžaduje velké technické dovednosti.
 
+#### Bezpečnost na internetu
+
+K heslu si děti musí vymyslet heslo. Nejlepší je když si vymyslí krátkou větu ze čtyř slov - např. "Moje heslo je silne", "Nas dum je zeleny". Bez diakritiky a bez speciálních znamének. Takové heslo je jednodušší k zapamatování a těžší k uhodnutí (viz [XKCD](https://xkcd.com/936/)).
+
+Pokud chcete děti poučit o internetové bezpečnosti obecně, pak doporučuji libovolný výstup z projektu [Web Rangers](http://www.webrangers.cz/).
+
 ### Scratch
 
 ## 2. třída
@@ -118,6 +124,8 @@ A jak s tím přihlašováním ve školní třídě? Nejjednodušší je zříd�
 
 [Kurz 3 z Code.org](https://studio.code.org/s/course3) navazuje na [kurzu 2](https://studio.code.org/s/course2), ale obsahuje 21 hodin. Což je docela hodně (2/3 školního roku) a děti to nebude tak dlouho bavit, takže je vhodné to prokládat jinými aktivitami. Takže realně asi stihnete dodělat tak polovinu tohoto kurzu.
 
-### CodeCombat.org
+### CodeCombat.com
+
+
 
 
