@@ -118,6 +118,25 @@ Pokud chcete děti poučit o internetové bezpečnosti obecně, pak doporučuji 
 
 ### Scratch
 
+Jedno z nejlepších programátorských prostředí pro ději je bezesporu [Scratch](https://scratch.mit.edu/). Program se tvoří stejnou metodou skládání bloku jako v Code.org. Akorát příkazy už jsou mnohem obecnější a pestřejší, takže lze vytvořit velkou škálu programů, které už mají i smyslupnou činnost.
+
+Programy můžete vytvářet buď přímo na stránce na adrese [scratch.mit.edu/projects/editor/](https://scratch.mit.edu/projects/editor/). Bohužel webová verze vyžaduje nainstalovaný Flash, který se v dnešní době nedoporučuje mít nainstalovaný, protože je s ním spojeno mnoho bezpečnostních problémů. Je možné si stáhnout a nainstalovat [offline editor](https://scratch.mit.edu/scratch2download/). Starší verze (1.4) jsou běžně součástí většiny linuxových distribucí.
+
+Na stránkách [ScratchEd](http://scratched.gse.harvard.edu/) je mnoho příkladů a materiálu pro učitele.
+
+Uvedu zde několik vhodných úloh pro prvňáky. Samozřejmě se nekladou meze různým variacím, které vás napadnou.
+
+* Kocourek běhá za kurzorem myši
+* Kocourek je ovládaný šipkami na klávesnici
+* Míček poletuje mezi stěnami a odráží se
+* Míček padá shora a kocourek ho chytá; pohybuje se vlevo a vpravo podle pohybu myši
+* Dvě postavičky spolu mluví
+* Čaroděj co začaruje jinou postavičku
+* Nakreslí si labyrint, zmenšený kocourek je ovládán šipkami a má projít bludištěm
+* kocourek kope balón přes překážku do branky
+* chodec se vyhýbá autům (variace na The Frog), včetně počítání skóre
+* variace na Nibbles (žížaly)
+
 ## 2. třída
 
 ### Kurz 3 z Code.org
