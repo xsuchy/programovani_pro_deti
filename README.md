@@ -129,8 +129,8 @@ Uvedu zde několik vhodných úloh pro prvňáky. Samozřejmě se nekladou meze 
 * [Kocourek běhá za kurzorem myši](examples/scratch/01-kocour_za_mysi.sb)
 * [Kocourek je ovládaný šipkami na klávesnici](examples/scratch/02-kocourek-ovladany-sipkami.sb)
 * [Míček poletuje mezi stěnami a odráží se](examples/scratch/03-micek-se-odrazi.sb)
+* [Dvě postavičky spolu mluví](examples/scratch/04-povidani.sb)
 * Míček padá shora a kocourek ho chytá; pohybuje se vlevo a vpravo podle pohybu myši
-* Dvě postavičky spolu mluví
 * Čaroděj co začaruje jinou postavičku
 * Nakreslí si labyrint, zmenšený kocourek je ovládán šipkami a má projít bludištěm
 * kocourek kope balón přes překážku do branky
