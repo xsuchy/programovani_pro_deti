@@ -160,6 +160,8 @@ Z podobného soudku jako Lightbot je i [The Foos](http://thefoos.com/). Odlehče
 
 Ovládání a programování lze buď z potřeba buď z proprietárního WeDo software. Což stojí další 2500 Kč za licenci (9500 Kč pro celou učebnu). Nebo můžete použít na [programování WeDo program Scratch](http://wiki.scratch.mit.edu/wiki/LEGO%C2%AE_WeDo%E2%84%A2_Construction_Set#LEGO_WeDo_with_Scratch_2.0). Což je asi i vhodnější neb pro děti intuitivnější. Scratch verze 1.4 neumí ovládat světelné bloky.
 
+K dispozici je [8 návodů zdarma](http://www.eduxe.cz/download/wedo-aktivity/).
+
 Pozn: i když je fyzicky možné připojit k počítači více prvků, tak použitý protokol neumožnuje pracovat s více než dvěma prvky. Takže např. motor a jeden sensor nebo dva sensory, ale už ne motor a dva sensory.
 
 ## Další zdroje
