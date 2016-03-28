@@ -155,7 +155,7 @@ Z podobného soudku jako Lightbot je i [The Foos](http://thefoos.com/). Odlehče
 
 [CodeCombat](https://codecombat.com/) vypadá jako hra na hrdiny. Akorát neovládáte hrdinu přímo, ale jeho pohyb a souboje musíte naprogramovat. Už se neprogramuje přetahováním bloků jako ve Scratchi a Code.org, ale žáci píší příkazy přímo na klávesnici. Příkazy jsou anglicky, ale funguje tam automatické doplňování, která vyváží případnou nejistotu žáků. Prostředí, zadání a příklady jsou většinou česky (aktuálně je přeloženo 33% - [pomoc s překladem](http://codecombat.com/i18n/) je vítaná). Programuje se už v konkrétním jazyku. Doporučuji začít s jazykem Python, na který můžete později snadno navázat. Kromě Pythonu je možné použít JavaScript, Lua, CoffeeScript, Clojure a Io. 
 
-V druhé třídě asi stihnete pouze první úrověň "Kobka Kithgardu", který se skládá asi z 20 úkolů. Za jednu vyučovací hodinu žáci stihnou tak 2 až 3 úkoly.
+V druhé třídě asi stihnete pouze první úrověň "Kobka Kithgardu", který se skládá asi z 20 úkolů a pokrývá základní syntaxy, metody, parametry, řetězce, cykly a proměnné. Za jednu vyučovací hodinu žáci stihnou tak 2 až 3 úkoly. Takže časová dotace jedné úrovně je tak 6 hodin.
 
 Hra je zdarma. Za 9,90 USD mesíčně se vám otevře cca 7 úkolů na každé úrovni (a dostane 3500 drahokamů), ale pro potřeby výuky je to naprosto zbytné. CodeCombat nabízí i učitelské prostředí, které umožní sledovat postup žáků. Dříve to stálo 4 USD za žáka, což bylo docela únosné. Nedávno to změnili na 49 USD za žáka, což je už dle mého názoru neúnosné. A při výuce se lze bez tohoto obejít.
 
@@ -176,3 +176,8 @@ Zde uvádím odkazy na další zdroje na které jsem narazil s mým krátkým ko
 [Baltík](http://www.sgpsys.com/cz/) - program, který byl vzorem pro Scratch. Bohužel je dostupný jenom pro Windows. Jeho ovládání je mnohem složitější a v licence je poměrně drahá.
 
 [Kano](http://eu.kano.me/) - Počítač postavený na RaspberryPi. Přijde rozložený a dítě si ho musí samo složit (8 letá dcera to zvládla).  K počítači je přiložená speciální Linuxová distribuce, která se umí sama aktualizovat. Je tam několik her, které si mohou děti zahrát a následně průvodce, kteří je povedou k tomu si tu hru naprogramovat. Samozřejmě obsahuje i např. Scratch a internetový prohlížeč a je možné ho používat jako normální počítač.
+
+[Blockly](https://developers.google.com/blockly/) - knihovna pro vizuální programování jako je Code.org a Scratch. Pomocí Blockly můžete vytvářet vlastní kurzy podobně jako na Code.org. Ale i složitější rozhraní jako je např. programování jednočipů nebo telefonů.
+
+[MIT App Inventor](https://developers.google.com/blockly/) - je webové aplikace vytvořená pomocí Blockly, která vám umožní vizuálním stylem vytvořit aplikace pro telefony a tablety s Androidem.
+
