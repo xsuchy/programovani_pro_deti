@@ -158,7 +158,7 @@ Z podobného soudku jako Lightbot je i [The Foos](http://thefoos.com/). Odlehče
 
 [Lego WeDo](https://education.lego.com/en-us/products/lego-education-wedo-construction-set/9580) je sada s motorkem a několika sensory. A je možné ji kombinovat s běžnými Lego kostky. Sada je vhodná pro děti od 7 let. Nemám dobré zkušenosti s tím, když je více dětí na jednu sadu. A pořízení jedné sady pro každé dítě v učebně je poměrně nákladné - základní sada stojí cca 4000 Kč. V ČR lze zakoupit od [Eduxe](http://www.eduxe.cz/mladsi-skolni-vek/robotika-wedo/)
 
-Ovládání a programování lze buď z potřeba buď z proprietárního WeDo software. Což stojí další 2500 Kč za licenci (9500 Kč pro celou učebnu). Nebo můžete použít na [programování WeDo program Scratch](http://wiki.scratch.mit.edu/wiki/LEGO%C2%AE_WeDo%E2%84%A2_Construction_Set#LEGO_WeDo_with_Scratch_2.0). Scratch verze 1.4 neumí ovládat světelné bloky.
+Ovládání a programování lze buď z potřeba buď z proprietárního WeDo software. Což stojí další 2500 Kč za licenci (9500 Kč pro celou učebnu). Nebo můžete použít na [programování WeDo program Scratch](http://wiki.scratch.mit.edu/wiki/LEGO%C2%AE_WeDo%E2%84%A2_Construction_Set#LEGO_WeDo_with_Scratch_2.0). Což je asi i vhodnější neb pro děti intuitivnější. Scratch verze 1.4 neumí ovládat světelné bloky.
 
 Pozn: i když je fyzicky možné připojit k počítači více prvků, tak použitý protokol neumožnuje pracovat s více než dvěma prvky. Takže např. motor a jeden sensor nebo dva sensory, ale už ne motor a dva sensory.
 
