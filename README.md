@@ -153,6 +153,11 @@ Z podobného soudku jako Lightbot je i [The Foos](http://thefoos.com/). Odlehče
 
 ### CodeCombat.com
 
+[CodeCombat](https://codecombat.com/) vypadá jako hra na hrdiny. Akorát neovládáte hrdinu přímo, ale jeho pohyb a souboje musíte naprogramovat. Už se neprogramuje přetahováním bloků jako ve Scratchi a Code.org, ale žáci píší příkazy přímo na klávesnici. Příkazy jsou anglicky, ale funguje tam automatické doplňování, která vyváží případnou nejistotu žáků. Prostředí, zadání a příklady jsou většinou česky (aktuálně je přeloženo 33% - [pomoc s překladem](http://codecombat.com/i18n/) je vítaná). Programuje se už v konkrétním jazyku. Doporučuji začít s jazykem Python, na který můžete později snadno navázat. Kromě Pythonu je možné použít JavaScript, Lua, CoffeeScript, Clojure a Io. 
+
+V druhé třídě asi stihnete pouze první úrověň "Kobka Kithgardu", který se skládá asi z 20 úkolů. Za jednu vyučovací hodinu žáci stihnou tak 2 až 3 úkoly.
+
+Hra je zdarma. Za 9,90 USD mesíčně se vám otevře cca 7 úkolů na každé úrovni (a dostane 3500 drahokamů), ale pro potřeby výuky je to naprosto zbytné. CodeCombat nabízí i učitelské prostředí, které umožní sledovat postup žáků. Dříve to stálo 4 USD za žáka, což bylo docela únosné. Nedávno to změnili na 49 USD za žáka, což je už dle mého názoru neúnosné. A při výuce se lze bez tohoto obejít.
 
 ### Lego WeDo
 
