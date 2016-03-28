@@ -127,7 +127,7 @@ Na stránkách [ScratchEd](http://scratched.gse.harvard.edu/) je mnoho příklad
 Uvedu zde několik vhodných úloh pro prvňáky. Samozřejmě se nekladou meze různým variacím, které vás napadnou. Každou z těchto úloh jsou schopni děti naprogramovat zhruba za jednu vyučovací hodinu.
 
 * [Kocourek běhá za kurzorem myši](examples/scratch/01-kocour_za_mysi.sb)
-* Kocourek je ovládaný šipkami na klávesnici
+* [Kocourek je ovládaný šipkami na klávesnici](examples/scratch/02-kocourek-ovladany-sipkami.sb)
 * Míček poletuje mezi stěnami a odráží se
 * Míček padá shora a kocourek ho chytá; pohybuje se vlevo a vpravo podle pohybu myši
 * Dvě postavičky spolu mluví
