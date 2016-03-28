@@ -130,9 +130,9 @@ Uvedu zde několik vhodných úloh pro prvňáky. Samozřejmě se nekladou meze 
 * [Kocourek je ovládaný šipkami na klávesnici](examples/scratch/02-kocourek-ovladany-sipkami.sb)
 * [Míček poletuje mezi stěnami a odráží se](examples/scratch/03-micek-se-odrazi.sb)
 * [Dvě postavičky spolu mluví](examples/scratch/04-povidani.sb)
-* Míček padá shora a kocourek ho chytá; pohybuje se vlevo a vpravo podle pohybu myši
-* Čaroděj co začaruje jinou postavičku
+* [Čaroděj co začaruje jinou postavičku](examples/scratch/05-carodej-caruje.sb)
 * Nakreslí si labyrint, zmenšený kocourek je ovládán šipkami a má projít bludištěm
+* Míček padá shora a kocourek ho chytá; pohybuje se vlevo a vpravo podle pohybu myši
 * kocourek kope balón přes překážku do branky
 * chodec se vyhýbá autům (variace na The Frog), včetně počítání skóre
 * variace na Nibbles (žížaly)
