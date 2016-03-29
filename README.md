@@ -181,3 +181,4 @@ Zde uvádím odkazy na další zdroje na které jsem narazil s mým krátkým ko
 
 [MIT App Inventor](https://developers.google.com/blockly/) - je webové aplikace vytvořená pomocí Blockly, která vám umožní vizuálním stylem vytvořit aplikace pro telefony a tablety s Androidem.
 
+[Lego MindStorms](http://mindstorms.lego.com/) - vývojově navazuje Lego WeDo. Má více sensorů a motorů, lze jich zapojit a ovládat více najednou. Programování je už složitější a vhodné pro až děti od 13 let.
