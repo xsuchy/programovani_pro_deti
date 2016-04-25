@@ -137,7 +137,7 @@ Uvedu zde několik vhodných úloh pro prvňáky. Samozřejmě se nekladou meze 
 * [Čaroděj co začaruje jinou postavičku](examples/scratch/05-carodej-caruje.sb)
 * [Nakreslí si labyrint, zmenšený kocourek je ovládán šipkami a má projít bludištěm](examples/scratch/06-labyrint.sb)
 * [Míček padá shora a kocourek ho chytá; pohybuje se vlevo a vpravo podle pohybu myši](examples/scratch/07-pada-mic.sb)
-* kocourek kope balón přes překážku do branky
+* [kocourek kope balón přes překážku do branky](examples/scratch/08-gol.sb)
 * chodec se vyhýbá autům (variace na The Frog), včetně počítání skóre
 * variace na Nibbles (žížaly)
 
