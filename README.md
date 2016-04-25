@@ -138,7 +138,7 @@ Uvedu zde několik vhodných úloh pro prvňáky. Samozřejmě se nekladou meze 
 * [Nakreslí si labyrint, zmenšený kocourek je ovládán šipkami a má projít bludištěm](examples/scratch/06-labyrint.sb)
 * [Míček padá shora a kocourek ho chytá; pohybuje se vlevo a vpravo podle pohybu myši](examples/scratch/07-pada-mic.sb)
 * [kocourek kope balón přes překážku do branky](examples/scratch/08-gol.sb)
-* chodec se vyhýbá autům (variace na The Frog), včetně počítání skóre
+* [chodec se vyhýbá autům (variace na The Frog), včetně počítání skóre](examples/scratch/09-auta.sb)
 * variace na Nibbles (žížaly)
 
 Můžete také použít [projekty](http://projects.codeclubworld.org/) z [Code Club](https://www.codeclub.org.uk/).
