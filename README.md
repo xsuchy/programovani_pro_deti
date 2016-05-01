@@ -190,3 +190,5 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 [Lego MindStorms](http://mindstorms.lego.com/) - vývojově navazuje Lego WeDo. Má více sensorů a motorů, lze jich zapojit a ovládat více najednou. Programování je už složitější a vhodné pro děti od 13 let.
 
 [GEG](http://www.gug.cz/cs/geg) - skupina pedagogů kolem GoogleApps zaměřující se spíše na uživatelské ovládání počítačů (vytváření videií, dokumentů...).
+
+[Cubetto](https://www.primotoys.com/) - robot-želva programovaný zasouváním fyzických kostiček do dřevěného rámu. Žádná obrazovka, žádna klávesnice. Jenom dřevo a plast. [Návody do hodin](https://www.primotoys.com/resources/).
