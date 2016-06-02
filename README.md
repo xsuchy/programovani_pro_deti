@@ -193,4 +193,4 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [Cubetto](https://www.primotoys.com/) - robot-želva programovaný zasouváním fyzických kostiček do dřevěného rámu. Žádná obrazovka, žádna klávesnice. Jenom dřevo a plast. [Návody do hodin](https://www.primotoys.com/resources/).
 
-[BBC Micro:Bit](https://www.microbit.co.uk/) - jednočipový počítač specialně navržený pro 7+ děti. [Zprávička](http://www.abclinuxu.cz/zpravicky/vyuka-programovani-s-vyuzitim-bbc-micro-bitu-a-vyvojoveho-prostredi-mu-na-fedore) a [článek na FedoraMagazine](https://fedoramagazine.org/learn-programming-using-micro-bit-fedora/).
+[BBC Micro:Bit](https://www.microbit.co.uk/) - jednočipový počítač specialně navržený pro 7+ děti. [Zprávička](http://www.abclinuxu.cz/zpravicky/vyuka-programovani-s-vyuzitim-bbc-micro-bitu-a-vyvojoveho-prostredi-mu-na-fedore) a [článek na FedoraMagazine](https://fedoramagazine.org/learn-programming-using-micro-bit-fedora/). [Kde koupit](http://www.pcadvisor.co.uk/new-product/pc-components/what-is-bbc-microbit-year7-3619250/) - předobjednávky budou vyřízené v srpnu 2016.
