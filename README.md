@@ -192,3 +192,5 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 [GEG](http://www.gug.cz/cs/geg) - skupina pedagogů kolem GoogleApps zaměřující se spíše na uživatelské ovládání počítačů (vytváření videií, dokumentů...).
 
 [Cubetto](https://www.primotoys.com/) - robot-želva programovaný zasouváním fyzických kostiček do dřevěného rámu. Žádná obrazovka, žádna klávesnice. Jenom dřevo a plast. [Návody do hodin](https://www.primotoys.com/resources/).
+
+[BBC Micro:Bit](https://www.microbit.co.uk/) - jednočipový počítač specialně navržený pro 7+ děti. [Zprávička](http://www.abclinuxu.cz/zpravicky/vyuka-programovani-s-vyuzitim-bbc-micro-bitu-a-vyvojoveho-prostredi-mu-na-fedore) a [článek na FedoraMagazine](https://fedoramagazine.org/learn-programming-using-micro-bit-fedora/).
