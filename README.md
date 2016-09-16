@@ -171,7 +171,7 @@ Druhou aktivitou, kterou určitě doporučím je [programování na milimetrové
 
 V druhé třídě asi stihnete pouze první úrověň "Kobka Kithgardu", který se skládá asi z 20 úkolů a pokrývá základní syntaxi, metody, parametry, řetězce, cykly a proměnné. Za jednu vyučovací hodinu žáci stihnou tak 2 až 3 úkoly. Takže časová dotace jedné úrovně je cca 6 hodin.
 
-Hra je zdarma. Existuje možnost si zaplatit 9,90 USD měsíčně a za tuto částku se vám otevře cca 7 úkolů na každé úrovni (a dostanete 3500 drahokamů), ale pro potřeby výuky to není vůbec nutné. CodeCombat nabízí i učitelské prostředí, které umožní sledovat postup žáků. Dříve to stálo 4 USD za žáka, ovšem nedávno cenu zvýšili na 49 USD za žáka, což je už dle mého názoru neúnosné. Při výuce se lze naštěstí bez tohoto obejít.
+Hra je zdarma. Existuje možnost si připlatit, ale jelikož nedávno podražili a jejich cenová politika je netransparentní (poslední cena byla 49 USD za žáka), tak doporučuji další úrovně nedokupovat a neplatit si za učitelské prostředí, které tam existuje. Při výuce se lze naštěstí bez tohoto obejít.
 
 ### Lego WeDo
 
