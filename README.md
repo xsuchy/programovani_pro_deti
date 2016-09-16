@@ -151,6 +151,14 @@ Můžete také použít [projekty](http://projects.codeclubworld.org/) z [Code C
 
 Z podobného soudku jako Lightbot je i [The Foos](http://thefoos.com/). Odlehčenou verzi je možné hrát přímo v internetovém prohlížeči, ale plnohodnotnou verzi je nutné hrát na tabletu (iPad nebo Android). Hra je zdarma, ale obsahuje možná až moc gamifikace, takže se dle mého názoru na školní výuku nehodí a opět je to spíše vhodný doplněk na domácí hraní-programování.
 
+### Offline aktivity
+
+Je dobré občas proložit hodinu offline aktivitou. Zde naleznete [seznam nápadů na offline aktivity na Code.org](https://code.org/curriculum/unplugged). Je vhodné mít nastudovanou alespoň jednu aktivitu do zásoby, tak abyste mohli uskutečnit hodinu i když nenadále vypadne elektřina nebo internet. Některé aktivity obsahují velmi silný [aha zážitek](https://cs.wikipedia.org/wiki/Aha_efekt).
+
+Po dvou až třech lekcích se Scratch doporučuji zařadit následující aktivitu: Děti se postaví do řady do jednoho třídy. První bude dělat kocourka ze Scratche a bude poslouchat to co mu říká žák za ním a bude to přesně vykonávat. Druhý žák má za úkol zadávat povely a dovést prvního žáka do protilehlého rohu (diagonálně). Povely musí být jednoduché - krok vpřed, otoč se vpravo... Dohlédněte aby první student vykonával příkazy přesně. Pokud v důsledku povelu má narazit do židle nebo lavice, tak by do ní měl narazit. Při této aktivitě si žáci uvědomí, že počítač vykoná přesně to co mu zadáte a nic víc. Aktivitu můžete buď zjednodušit (přejít z bodu do bodu a mezi nimi je jenom jedna židle) nebo ztížit (více překážek, hodně otoček).
+
+Druhou aktivitou, kterou určitě doporučím je [programování na milimetrovém papíře](https://studio.code.org/s/course2/stage/1/puzzle/1). Tato aktivita málokdy vyjde. O to větší je to zážitek. Při zápisu děti velmi často vytvoří nové vlastní značky. Značky nezapisují po řádcích a zleva doprava. A pokud se to už někomu povede správně zapsat, tak druhý žák špatně zápis špatně interpretuje. Zde si žáci uvědomí, že to co je zřejmé pro ně. Nemusí být zřejmé pro druhé.
+
 ## 2. třída
 
 ### Kurz 3 z Code.org
