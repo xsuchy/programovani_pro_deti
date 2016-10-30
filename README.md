@@ -205,3 +205,6 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [Cube Composer](http://david-peter.de/cube-composer/) - úvod do funkcionálního programování formou hádanek. Anglicky, spíše pro starší.
 
+## Stručný přehled
+
+<img src="./images/vek-infografika.png" height="840" alt="infografika"> 
