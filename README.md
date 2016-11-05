@@ -183,6 +183,12 @@ K dispozici je [8 návodů zdarma](http://www.eduxe.cz/download/wedo-aktivity/).
 
 Pozn: i když je fyzicky možné připojit k počítači více prvků, tak použitý protokol neumožnuje pracovat s více než dvěma prvky. Takže např. motor a jeden sensor nebo dva sensory, ale už ne motor a dva sensory.
 
+### BBC Micro:Bit
+
+[BBC Micro:Bit](http://microbit.org/) - je jednočipový počítač specialně navržený pro 10+ děti. Ve Velké Británii je distribuován zdarma všem dětem v 7. třídě (odpovídá naší 5-6. třídě). Počítač vypadá jako malá destička a stojí 12 liber (cca 350 Kč). Je vybaven procesorem ARM. Obsahuje pole 5x5 diod na kterém je možné zobrazovat piktogramy nebo text. Má dvě tlačítka a 22 elektrických pinů. Navíc ještě kompas, akcelerometr, USB a bluetooth rozhraní. K počítači se připojí pomocí USB kabelu a operační systém ho vidí jako disk (mass-storage). Ve <a href="http://microbit.org/code/">webovém editoru</a> (doporučuji začít s CK Javascript nebo Microsoft Block Editor) vytvoříte program a po kompilaci si můžete stáhnout HEX soubor. Ten uložíte na ten disk (micro:bitu). Micro:bit si automaticky načte nový firmware z tohoto souboru a restartuje se. Aplikace je možné vytvářet i z mobilu (<a href="https://play.google.com/store/apps/details?id=com.samsung.microbit">GooglePlay</a>) a nahrávat bezdrátově přes bluetooth - ovšem není to moc komfortní. K dostání je v <a href="https://kitronik.co.uk/bbc-micro-bit-accessories/bbc-micro-bit.html">Kitronik</a>.
+
+<a href="https://www.codeclubprojects.org/en-GB/microbit/">Výukové projekty</a> od CodeClub.
+
 ## Další zdroje
 
 Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
@@ -200,8 +206,6 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 [GEG](http://www.gug.cz/cs/geg) - skupina pedagogů kolem GoogleApps zaměřující se spíše na uživatelské ovládání počítačů (vytváření videií, dokumentů...).
 
 [Cubetto](https://www.primotoys.com/) - robot-želva programovaný zasouváním fyzických kostiček do dřevěného rámu. Žádná obrazovka, žádna klávesnice. Jenom dřevo a plast. [Návody do hodin](https://www.primotoys.com/resources/).
-
-[BBC Micro:Bit](https://www.microbit.co.uk/) - jednočipový počítač specialně navržený pro 7+ děti. [Zprávička](http://www.abclinuxu.cz/zpravicky/vyuka-programovani-s-vyuzitim-bbc-micro-bitu-a-vyvojoveho-prostredi-mu-na-fedore) a [článek na FedoraMagazine](https://fedoramagazine.org/learn-programming-using-micro-bit-fedora/). [Kde koupit](http://www.pcadvisor.co.uk/new-product/pc-components/what-is-bbc-microbit-year7-3619250/) - předobjednávky budou vyřízené v srpnu 2016.
 
 [Cube Composer](http://david-peter.de/cube-composer/) - úvod do funkcionálního programování formou hádanek. Anglicky, spíše pro starší.
 
