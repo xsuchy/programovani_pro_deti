@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1450271018685" ID="ID_1071336423" MODIFIED="1458650306465" TEXT="Programov&#xe1;n&#xed; pro d&#x11b;ti">
+<node CREATED="1450271018685" ID="ID_1071336423" MODIFIED="1475678255091" TEXT="Programov&#xe1;n&#xed; pro d&#x11b;ti">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -9,24 +9,8 @@
     <p>
       33 tydnu
     </p>
-    <p>
-      https://vyzkumnik.seznam.cz/zpravodaj/jake-jsou-internetove-deti-1-co-si-odnesou-z-hodin-informatiky
-    </p>
-    <p>
-      http://wvc.pf.jcu.cz/ki/?article=/katedra/o-katedre.html
-    </p>
-    <p>
-      http://www.petrinyjih.cz/stranka-rozsirena-vyuka-informatiky-66
-    </p>
-    <p>
-      http://www.ceskaskola.cz/2015/12/e-kniha-pro-vas-vyuka-zakladu.html
-    </p>
-    <p>
-      http://popelka.ms.mff.cuni.cz/~lessner/mw/index.php/U%C4%8Debnice/%C3%9Avod/P%C5%99edmluva_pro_u%C4%8Ditele
-    </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1450271078908" ID="ID_985409642" MODIFIED="1450271095711" POSITION="right" TEXT="http://www.progetiiger.ee/">
 <node CREATED="1450271100689" ID="ID_420309428" MODIFIED="1450271104772" TEXT="Estonsko"/>
 <node CREATED="1450271109922" ID="ID_544670532" MODIFIED="1450271168735" TEXT="Tieto z Finska"/>
@@ -346,5 +330,59 @@
 <node CREATED="1458677264631" ID="ID_215889508" MODIFIED="1458677269538" POSITION="right" TEXT="Blockly"/>
 <node CREATED="1458677278695" ID="ID_1264707900" MODIFIED="1458677286554" POSITION="left" TEXT="code.org"/>
 <node CREATED="1458677317422" ID="ID_49654056" MODIFIED="1458677324336" POSITION="right" TEXT="Lego MindStorm"/>
+<node CREATED="1475670466682" ID="ID_1310466468" MODIFIED="1475678261488" POSITION="left" TEXT="Literatura">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    V&#253;uka algoritmizace pat&#345;&#237; p&#345;edev&#353;&#237;m do informatiky J. Van&#237;&#269;ek http://www.pocitacveskole.cz/system/files/soubory/sbornik/2016/vanicek1.pdf
+
+    <p>
+      
+    </p>
+    <p>
+      <font color="#000000" face="monospace">ERNOCHOV&#193;, M., VAN&#205;&#268;EK, J. Informatics education: current state and perspectives of development within the system of Field didactics in the Czech Republic. ICTE Journal, Vol. 4, No. 3, 2015, p. 14 - 31. ISSN 1805-3726.</font><font face="monospace"><br />Dostupn&#233; z https://periodicals.osu.eu/ictejournal/dokumenty/2015-03/ictejournal-2015-3-article-2.pdf.<br /><br /></font>
+    </p>
+    <p>
+      https://vyzkumnik.seznam.cz/zpravodaj/jake-jsou-internetove-deti-1-co-si-odnesou-z-hodin-informatiky
+    </p>
+    <p>
+      http://wvc.pf.jcu.cz/ki/?article=/katedra/o-katedre.html
+    </p>
+    <p>
+      http://www.petrinyjih.cz/stranka-rozsirena-vyuka-informatiky-66
+    </p>
+    <p>
+      http://www.ceskaskola.cz/2015/12/e-kniha-pro-vas-vyuka-zakladu.html
+    </p>
+    <p>
+      http://popelka.ms.mff.cuni.cz/~lessner/mw/index.php/U%C4%8Debnice/%C3%9Avod/P%C5%99edmluva_pro_u%C4%8Ditele
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1478376285546" ID="ID_1347265913" MODIFIED="1478377816385" POSITION="right" TEXT="Didaktika">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Kognitivn&#237; v&#253;voj podle Piageta:
+    </p>
+    <p>
+      4 a&#382; 7/8 let - n&#225;zorov&#233; (prelogick&#233;) my&#353;len&#237;
+    </p>
+    <p>
+      7 a&#382; 11/12 let&#160;&#160;- konkr&#233;tn&#237; logick&#233; operace - z&#225;kl&#225;dn&#237; z&#225;kony logiky v&#225;z&#225;ny na konkr&#233;tn&#237; realitu, objektivn&#283;j&#353;&#237;, dovede respektovat v&#237;ce faktor&#367;, reverzibilita - vratnost operac&#237; (inverze a+b=c =&gt; c-a=b, reciprocita - &#269;okol&#225;da za 10 K&#269; =&gt; za 10 K&#269; &#269;okol&#225;du)
+    </p>
+    <p>
+      nad 11/12 let - form&#225;ln&#237; logick&#233; operace - uvoln&#283;n&#253; z vazby na realitu, schopnost odli&#353;it formu a obsah, manipulovat s abstraktn&#237;mi formami - vytv&#225;&#345;en&#237; a ov&#283;&#345;ov&#225;n&#237; hypot&#233;z
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </map>
