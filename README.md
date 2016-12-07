@@ -211,6 +211,8 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [Cubetto](https://www.primotoys.com/) - robot-želva programovaný zasouváním fyzických kostiček do dřevěného rámu. Žádná obrazovka, žádna klávesnice. Jenom dřevo a plast. [Návody do hodin](https://www.primotoys.com/resources/).
 
+[Bee Bot](https://www.bee-bot.us/) - robot-včelka. Programuje se stisknutím tlačítek na zádech a po stisknutí zeleného tlačítka se příkazy vykonají.
+
 [Cube Composer](http://david-peter.de/cube-composer/) - úvod do funkcionálního programování formou hádanek. Anglicky, spíše pro starší.
 
 ## Stručný přehled
