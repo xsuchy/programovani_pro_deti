@@ -195,6 +195,8 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [Tablexia](https://www.tablexia.cz/cs/) - hra na telefon/tablet. Je primárně určena pro dyslektiky. Obsahuje několik her, které rozvíjejí kognitívní schopnosti. Hra "Potmě" je zaměřena na schopnost serializovat. Ve hře potmě se dostáváme do role lupiče, který si musí předem přesně naplánovat průchod domem až k trezoru plného peněz.
 
+[RoboRally](http://www.zatrolene-hry.cz/spolecenska-hra/roborally-111/) - desková hra, kde plánujete pohyb svého robota, ale je třeba brát v úvahu pohyby robotů ostatních hráčů. Hra je sice uvedena jako 12+, ale děti, které si vyzkoušeli nějaké programování (např. Hour of Code) ji zvládají.
+
 [Baltík](http://www.sgpsys.com/cz/) - program, který byl vzorem pro Scratch. Bohužel je dostupný jenom pro Windows. Jeho ovládání je mnohem složitější a licence je poměrně drahá.
 
 [Kano](http://eu.kano.me/) - Počítač postavený na RaspberryPi. Přijde rozložený a dítě si ho musí samo složit (8 letá dcera to zvládla). K počítači je přiložená speciální Linuxová distribuce, která se umí sama aktualizovat. Je tam několik her, které si mohou děti zahrát. A také průvodci, kteří je povedou k tomu si tu hru naprogramovat. Samozřejmě obsahuje i např. Scratch a internetový prohlížeč a je možné ho používat jako normální počítač.
