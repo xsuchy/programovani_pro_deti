@@ -39,9 +39,11 @@ Ke Cubettovi se dodávají hrací plátna, po kterých se Cubetto může pohybov
 
 [Původní Bee Bot](https://www.bee-bot.us/beebot.html) je možné programovat pouze tlačítky na zádech včelky. Zvládne až 40 příkazů. A po položení na zem a stisku tlačítka "Go" se rozjede a pohybuje se v zadaných směrech.
 
-[Blue Bot](https://www.bee-bot.us/bluebot.html) funguje stejně, ale navíc ho můžete ovládat přes Bluetooth. Buď přes [TacTile Reader](https://www.bee-bot.us/bee-bot/accessories/tactile-reader.html) nebo z tabletu (iPad, Android) nebo z PC (Mac, Windows).
+[Blue Bot](https://www.bee-bot.us/bluebot.html) funguje stejně, ale navíc ho můžete ovládat přes Bluetooth. Buď přes [TacTile Reader](https://www.bee-bot.us/bee-bot/accessories/tactile-reader.html) nebo z tabletu (iPad, Android) nebo z PC (Mac, Windows). S TacTile Reader dostanete základní sadu kartiček (dopředu, dozadu, otočit se) a pak Blue Bot funguje stejně jako Cubetto. Sice nemá funkční blok, ale můžete propojit více TacTile čteček za sebe pomocí přiloženého kabelu a vytvářet delší programy. V [rozšičující sadě kartiček](http://www.tts-group.co.uk/blue-bot-tactile-reader-tiles-extension-pack/1009828.html) naleznete mj. kartičku opakování a závorky - ty vám umožní dát kus kódu do závorek a opakovat tu závorku. Např. `[ vpřed vlevo ] x4`.
 
-Osobně mi přijde vizuální zpětná vazba lepší u Cubetta, ale Bee-Bot dokáže být levnější pokud nakupujete více kusů pro celou třídu.
+Osobně mi přijde vizuální zpětná vazba lepší u Cubetta, ale Bee-Bot dokáže být levnější pokud nakupujete více kusů pro celou třídu. Objednávat je asi nejlepší u [TTS Group z UK](http://www.tts-group.co.uk/primary/ict-computing/bee-bot-blue-bot-pro-bot/)
+
+Velkou výhodou je, že Bee Bot a Cubetto má stejný krok, takže jejich podložky jsou zaměnitelné.
  
 
 ### Velikost třídy
