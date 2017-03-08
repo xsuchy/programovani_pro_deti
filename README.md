@@ -244,4 +244,13 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 ## Stručný přehled
 
-<img src="./images/vek-infografika.png" height="840" alt="infografika"> 
+<img src="./images/vek-infografika.png" height="840" alt="infografika">
+
+## Volnočasové kroužky
+
+Bez záruky kvality:
+
+* Brno
+  * [Programování](http://www.krouzek-programovani.cz/)
+  * [Robotárna](http://www.robotikabrno.cz/)
+* [Lázně Toušeň](https://www.programovanihrou.cz/)
