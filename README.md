@@ -17,6 +17,8 @@ První úlohy nevyžadují ani znalosti čtení ani psaní, takže jsou vhodné 
 
 Pokud hledáte příručku pro střední školy, případně poslední ročníky základních škol, tak vám doporučuji [Informatiku pro každého](http://popelka.ms.mff.cuni.cz/~lessner/mw/index.php/U%C4%8Debnice/%C3%9Avod/P%C5%99edmluva_pro_u%C4%8Ditele), která je pro starší děti vhodnější.
 
+Pokud jste dospělák a hledáte jak začít sami, tak vám doporučuji spíše materiály z [Python.cz](https://python.cz/zacatecnici/) nebo materiály od [PyLadies](http://pyladies.cz/) v [Praze](http://pyladies.cz/praha/), [Brně](http://pyladies.cz/brno/) a [Ostravě](http://pyladies.cz/ostrava/) - kam se navzdory názvu mohou přihlásit i muži. A pro ženy pořádá plno kurzů [Czechitas](http://www.czechitas.cz/).
+
 #### Předškolní děti
 
 U dětí ve věku 5 let a méně zřejmě nelze  programování resp. algoritmizaci provádět, protože dle [Piageta](https://cs.wikipedia.org/wiki/Jean_Piaget) se nacházejí ve stádiu "názorového (prelogického) myšlení", kdy plně nerespektuje logiku. Názorně no můžete vidět na tomto [experimentu](https://www.youtube.com/watch?v=tQLpysTbFso). Toto období dle Piageta trvá až do 7 let. Ale dle mé osobní zkušenosti je možné začít pracovat s nadanými žáky začít již kolem 5-6 roku. Je nutno dbát na použití pomůcek, které mají okamžitou vizuální vazbu. Např. GCompris pro seznámení se s ovládáním počítače (viz dále) nebo Cubetto či BeeBot.
