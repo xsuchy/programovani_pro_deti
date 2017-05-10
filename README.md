@@ -25,7 +25,7 @@ U dětí ve věku 5 let a méně zřejmě nelze  programování resp. algoritmiz
 
 [Cubetto](https://www.primotoys.com/) je robot-želva programovaný zasouváním fyzických kostiček do dřevěného rámu. Žádná obrazovka, žádna klávesnice. Jenom dřevo a plast. [Návody do hodin](https://www.primotoys.com/resources/).
 
-Do dřevěné ovládací desky se vkládají plastové bloky (malé destičky), které mají tvar šipek (rovně/vlevo/vpravo) a po jejich vložení a zmáčknutí tlačítka Start se robot Cubetto vydá zadaným směrem. Neexistují zde podmínky ani cykly. Vše je maximálně intuitivní. Robot vykonává příkazi postupně a na ovládácí desce vždy svítí světélko pod blokem, který je zrovna robotem vykonáván.
+Do dřevěné ovládací desky se vkládají plastové bloky (malé destičky), které mají tvar šipek (rovně/vlevo/vpravo) a po jejich vložení a zmáčknutí tlačítka Start se robot Cubetto vydá zadaným směrem. Neexistují zde podmínky ani cykly. Vše je maximálně intuitivní. Robot vykonává příkazy postupně a na ovládácí desce vždy svítí světélko pod blokem, který je zrovna robotem vykonáván.
 
 Na ovládací desce je místo na 12 příkazů. Plus funkční blok na 4 příkazy. Na vyvolání funkce slouží modré bloky. Při spuštění funkce svítí světlo pod modrým blokem i pod právě vykonávaným blokem v té funkci, což umožní dětem vizuálně pochopit jak fungují funkce nebo dokonce rekurze. Funkční blok samozřejmě není vhodný pro předškolní věk, ale je možné se ke Cubettovi vráti později během prvního stupně ZŠ.
 
