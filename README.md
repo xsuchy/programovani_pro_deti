@@ -157,15 +157,15 @@ Na stránkách [ScratchEd](http://scratched.gse.harvard.edu/) je mnoho příklad
 
 Uvedu zde několik vhodných úloh pro prvňáky. Samozřejmě se nekladou meze různým variacím, které vás napadnou. Každou z těchto úloh jsou schopni děti naprogramovat zhruba za jednu vyučovací hodinu.
 
-* Kocourek běhá za kurzorem myši [stáhnout](examples/scratch/01-kocour_za_mysi.sb) [[online](https://scratch.mit.edu/projects/165224527/#player)]
-* Kocourek je ovládaný šipkami na klávesnici [stáhnout](examples/scratch/02-kocourek-ovladany-sipkami.sb) [[online](https://scratch.mit.edu/projects/165225622/#player)]
-* Míček poletuje mezi stěnami a odráží se [stáhnout](examples/scratch/03-micek-se-odrazi.sb) [[online](https://scratch.mit.edu/projects/165226697/#player)]
-* Dvě postavičky spolu mluví [stáhnout](examples/scratch/04-povidani.sb) [[online](https://scratch.mit.edu/projects/165227369/#player)]
-* Čaroděj co začaruje jinou postavičku [stáhnout](examples/scratch/05-carodej-caruje.sb) [[online](https://scratch.mit.edu/projects/165228299/#player)]
-* Nakreslí si labyrint, zmenšený kocourek je ovládán šipkami a má projít bludištěm [stáhnout](examples/scratch/06-labyrint.sb) [[online](https://scratch.mit.edu/projects/165229008/#player)]
-* Míček padá shora a kocourek ho chytá; pohybuje se vlevo a vpravo podle pohybu myši [stáhnout](examples/scratch/07-pada-mic.sb) [[online](https://scratch.mit.edu/projects/165233453/#player)]
-* Kocourek kope balón přes překážku do branky [stáhnout](examples/scratch/08-gol.sb) [[online](https://scratch.mit.edu/projects/165234140/#player)]
-* Chodec se vyhýbá autům (variace na The Frog), včetně počítání skóre [stáhnout](examples/scratch/09-auta.sb) [[online](https://scratch.mit.edu/projects/165234470/#player)]
+* Kocourek běhá za kurzorem myši [[stáhnout](examples/scratch/01-kocour_za_mysi.sb)] [[online](https://scratch.mit.edu/projects/165224527/#player)]
+* Kocourek je ovládaný šipkami na klávesnici [[stáhnout](examples/scratch/02-kocourek-ovladany-sipkami.sb)] [[online](https://scratch.mit.edu/projects/165225622/#player)]
+* Míček poletuje mezi stěnami a odráží se [[stáhnout](examples/scratch/03-micek-se-odrazi.sb)] [[online](https://scratch.mit.edu/projects/165226697/#player)]
+* Dvě postavičky spolu mluví [[stáhnout](examples/scratch/04-povidani.sb)] [[online](https://scratch.mit.edu/projects/165227369/#player)]
+* Čaroděj co začaruje jinou postavičku [[stáhnout](examples/scratch/05-carodej-caruje.sb)] [[online](https://scratch.mit.edu/projects/165228299/#player)]
+* Nakreslí si labyrint, zmenšený kocourek je ovládán šipkami a má projít bludištěm [[stáhnout](examples/scratch/06-labyrint.sb)] [[online](https://scratch.mit.edu/projects/165229008/#player)]
+* Míček padá shora a kocourek ho chytá; pohybuje se vlevo a vpravo podle pohybu myši [[stáhnout](examples/scratch/07-pada-mic.sb)] [[online](https://scratch.mit.edu/projects/165233453/#player)]
+* Kocourek kope balón přes překážku do branky [[stáhnout](examples/scratch/08-gol.sb)] [[online](https://scratch.mit.edu/projects/165234140/#player)]
+* Chodec se vyhýbá autům (variace na The Frog), včetně počítání skóre [[stáhnout](examples/scratch/09-auta.sb)] [[online](https://scratch.mit.edu/projects/165234470/#player)]
 * Variace na Nibbles (žížaly)
 
 Můžete také použít [projekty](http://projects.codeclubworld.org/) z [Code Club](https://www.codeclub.org.uk/).
