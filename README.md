@@ -15,7 +15,7 @@ První úlohy nevyžadují ani znalosti čtení ani psaní, takže jsou vhodné 
 
 Pokud hledáte příručku pro střední školy, případně poslední ročníky základních škol, tak vám doporučuji [Informatiku pro každého](http://popelka.ms.mff.cuni.cz/~lessner/mw/index.php/U%C4%8Debnice/%C3%9Avod/P%C5%99edmluva_pro_u%C4%8Ditele), která je pro starší děti vhodnější.
 
-Pokud jste dospělák a hledáte jak začít sami, tak vám doporučuji spíše materiály z [Python.cz](https://python.cz/zacatecnici/) nebo materiály od [PyLadies](http://pyladies.cz/) v [Praze](http://pyladies.cz/praha/), [Brně](http://pyladies.cz/brno/) a [Ostravě](http://pyladies.cz/ostrava/) - kam se navzdory názvu mohou přihlásit i muži. A pro ženy pořádá plno kurzů [Czechitas](http://www.czechitas.cz/).
+Pokud jste dospělák a hledáte jak začít sami, tak vám doporučuji spíše materiály z [Python.cz](http://naucse.python.cz/), kde jsou i odkazy na kurzy. A pro ženy pořádá plno kurzů [Czechitas](http://www.czechitas.cz/).
 
 #### Předškolní děti
 
