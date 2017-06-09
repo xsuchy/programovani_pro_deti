@@ -240,7 +240,7 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [Cube Composer](http://david-peter.de/cube-composer/) - úvod do funkcionálního programování formou hádanek. Anglicky, spíše pro starší.
 
-[OzoBot](http://ozobot.com/) - robůtek, který sleduje čáru. Různé vzory barev na čáře fungují jako příkazy, takže robůtka můžete programovat čistě tužkou a papírem. [Rezenze](https://www.youtube.com/watch?v=Aw_qJp6jm8I).
+[OzoBot](http://ozobot.com/) - robůtek, který sleduje čáru. Různé vzory barev na čáře fungují jako příkazy, takže robůtka můžete programovat čistě tužkou a papírem. [Rezenze](https://www.youtube.com/watch?v=Aw_qJp6jm8I). [Materi8lály pro učitele](http://ozobot.com/stem-education/stem-lessons). Pomocí [OzoBlockly](http://ozoblockly.com/) můžete robůtka naprogramovat podobně jako ve Scratchi a program do něj flashnout blikáním přes obrazovku ([howto](https://www.youtube.com/watch?v=fwIrAzZfvRc))
 
 ## Stručný přehled
 
