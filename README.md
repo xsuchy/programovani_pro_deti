@@ -43,7 +43,7 @@ Ke Cubettovi se dodávají hrací plátna, po kterých se Cubetto může pohybov
 
 Osobně mi přijde vizuální zpětná vazba lepší u Cubetta, ale Bee-Bot dokáže být levnější pokud nakupujete více kusů pro celou třídu. Objednávat je asi nejlepší u [TTS Group z UK](http://www.tts-group.co.uk/primary/ict-computing/bee-bot-blue-bot-pro-bot/)
 
-Velkou výhodou je, že Bee Bot a Cubetto má stejný krok, takže jejich podložky jsou zaměnitelné.
+Velkou výhodou je, že Bee Bot a Cubetto má stejnou délku kroku, takže jejich podložky jsou zaměnitelné.
  
 
 ### Velikost třídy
