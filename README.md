@@ -218,6 +218,8 @@ Lego WeDo je nutné mít připojeno k počítači USB kabelem. Tohle omezení u�
 
 <a href="https://www.codeclubprojects.org/en-GB/microbit/">Výukové projekty</a> od CodeClub.
 
+[Aplikace od Microla.cz](http://microla.cz/aplikace/).
+
 ## Další zdroje
 
 Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
