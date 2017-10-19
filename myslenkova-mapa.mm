@@ -381,8 +381,37 @@
       nad 11/12 let - form&#225;ln&#237; logick&#233; operace - uvoln&#283;n&#253; z vazby na realitu, schopnost odli&#353;it formu a obsah, manipulovat s abstraktn&#237;mi formami - vytv&#225;&#345;en&#237; a ov&#283;&#345;ov&#225;n&#237; hypot&#233;z
     </p>
   </body>
+</html></richcontent>
+</node>
+<node CREATED="1507267977519" ID="ID_1229776238" MODIFIED="1507267983495" POSITION="left" TEXT="karty">
+<node CREATED="1507267984377" ID="ID_1066349784" MODIFIED="1507267987525" TEXT="www.bitsandbytes.cards/"/>
+<node CREATED="1507267992937" ID="ID_508582291" MODIFIED="1507305236482" TEXT="http://littlecodr.com/">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      www.robotnik.cz/littlecodr-coding-game-for-kids.html
+    </p>
+  </body>
 </html>
 </richcontent>
+</node>
+<node CREATED="1507268026457" ID="ID_355079704" MODIFIED="1507268029765" TEXT="http://www.codecards.io/"/>
+<node CREATED="1507268412044" ID="ID_1331031702" MODIFIED="1507268452030" TEXT="Potato Pirates">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      https://www.kickstarter.com/projects/codomo/potato-pirates-the-tastiest-coding-card-game
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </map>

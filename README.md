@@ -220,6 +220,22 @@ Lego WeDo je nutné mít připojeno k počítači USB kabelem. Tohle omezení u�
 
 [Aplikace od Microla.cz](http://microla.cz/aplikace/).
 
+[Příklady od Micro:bit.org](http://microbit.org/en/2017-03-07-javascript-block-resources/).
+
+Moje příklady:
+
+ * [Zobrazení ikon](https://makecode.microbit.org/_8dfAyLWpH6mX) - po stisknutí tlačítka se zobrazí ikona, text, číslo. Žáci si můžou vyzkoušet různé ikony a vytvořit vlastní obrazce. Vyzkouší si jak se nahrává program na Micro:bit.
+ * [Elektronická kostka](https://makecode.microbit.org/_bit5bTWak43m) - po zatřesení z Micro:bite zobrazí číslo od 1 do 6. Výzva: Jak zajistit aby se neukazovala nula? Pro starší: Jak místo čísla zobrazit tečky jako na kostce?
+ * [Temploměr](https://makecode.microbit.org/_JX3Cs63dqYVR) - po nahrání kódu do Micro:bitu, ho žáci mohou odpojit od počítače a napojit na baterky a zjisti jak se teplota bude měnit, pokud ho zahřejí dechem. Jaká je teplota venku a jaká v ledničce.
+ * [Animace](https://makecode.microbit.org/_K84UV2cqiegM) - zobrazit animaci padajících kapek. Žáci si mohou vytvořit vlastní animaci: auto, skakajicí míč...
+ * [Krokoměr](https://makecode.microbit.org/_U50gtMc89a14) - práce s proměnnou. Co se stane pokud zobrazím proměnnou hned po té co ji inkrementuji? (začnu ztrácet kroky po dosažení desítky, protože další otřes se bude počítat až po dorolování čísla). Opět je možno přepojit na baterie a zkoušet přesnost měření.
+ * [Měření světla](https://makecode.microbit.org/_1raTgrEF9fDP) - práce s podmínkou. Jaké je vhodné číslo aby se smajlík změnil při pouhém zakrytí světla? Výzva: zobraz různé obrázky pro různou intenzitu světla nebo tmy.
+ * Stopky - TBD
+ * [Kde je sever?](https://makecode.microbit.org/_9c2dRriuMLUT) - zobraz šipku aby ukazovala stále k severu. Vícenásobný "if" se udělá kliknutím na ozubené kolečko u "if". Diskutujte o podmínkách. Jde tu šipku udělat přesnější?
+ * Ovládej kuličku - TBD
+ * [Morseovka](https://makecode.microbit.org/_AHY7gtcWz9bJ) - udělat z Micro:bita vysílač a přijímač morseovky. Co se stane když si změním "radio group"? Proč je na konci "clear screen"? Co když tam nebude a pošlu stejný kód za sebou? Jak daleko dokážete vysílat?
+ * [Kdo je rychlejší?](https://makecode.microbit.org/_A91LEKbmycxz) - po náhodné době se zobrazí srdíčko. Kdo stiskne tlačítko první, dostane bod. Ale nesmí zmáčknout dříve než se ukáže (Pozn. tohle je těžké).
+
 ## Další zdroje
 
 Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
