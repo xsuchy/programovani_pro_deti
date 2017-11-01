@@ -33,6 +33,22 @@ Pro úplnost dodám, že existují dva další bloky (byli distribuovány jako p
 
 Ke Cubettovi se dodávají hrací plátna, po kterých se Cubetto může pohybovat - jeden jeho krok, je přesně jeden čtverece na plátně. V robotovi není žádné optické čidlo, které by rozpoznávalo něco na tomto plátně. Cubetto se může stejně dobře pohybovat po čisté zemi nebo po papíru, který si pokreslíte sami. Plátna od Primotoys vám akorát ulehčí vymýšlení příběhů. Můžete zadávat úlohy "dojdi ze zámku na kopec, ale vyhni se vodě", "dojdi od sfingy k pyramidě" nebo "dojdi z planety na hvězdu, ale vyhni se sopce a meteorům".
 
+Cubetta je možno zakoupit buď v [Alze](https://www.alza.cz/hracky/cubetto-d4993130.htm) nebo na [Malý Programátor](https://www.malyprogramator.cz/cubetto/). Existují i levnější hračky podobného principu, ale co jsem vyzkoušel, tak mají problémy s otočením o přesně 90°, takže po několika krocích jedou úplně mimo.
+
+Na kroužcích se mi osvědčila práce ve dvojcích. Několik příkladů:
+
+<img src="./images/cubbeto-world-1.png" height="256">
+Jednoduchý posun, otočení a posun. Zde si děti obvykle ujasní, že otočení je na místě a neznamená to úkrok.
+
+<img src="./images/cubbeto-world-2.png" height="256">
+Přesuň se z "G" na "hory", ale vyhni se "vodě". Děti si musí najít vlastní cestu a zjistí, že je více než jedna možná cesta. Po této úloze je obykle nechám vzájmně si zadávat úkoly: kam se mají dostat a čemu se vyhnout nebo přes co musí projet.
+
+<img src="./images/cubbeto-world-3.png" height="256">
+Rébus: mají dostat Cubetta z "P" na "Y", ale takovým způsobem, že až tam Cubetto dojede, tak po zmáčknutí modrého tlačítka se (bez lidského zásahu) dostane na "G". Zde si musí přijít na to, že ačkoliv se jedná o stejný program, tak Cubetto musí být i ve stejné startovní pozici (tj. po dojetí se musí ještě natočit).
+
+<img src="./images/cubbeto-world-4.png" height="256"> 
+Ať děti zkusí obkroužit čtverec 4x4. Zjistí, že jim nestačí dílky a místo na ovládácím panelu. Super přiležitost ukázat funkční blog a jak uspoří místo.
+
 ##### Bee Bot
 
 [Bee Bot](https://www.bee-bot.us/) - robot-včelka. Programuje se stisknutím tlačítek na zádech a po stisknutí zeleného tlačítka se příkazy vykonají.
