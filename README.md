@@ -268,6 +268,8 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [Blockly](https://developers.google.com/blockly/) - knihovna pro vizuální programování jako je Code.org a Scratch. Pomocí Blockly můžete vytvářet vlastní kurzy podobně jako na Code.org. Ale i složitější rozhraní jako je např. programování jednočipů nebo telefonů.
 
+[Robomise](https://robomise.cz/) - Podobné jako studio.code.org, akorát je tam méně úkolů a tudíž se náročnost mezi jednotlivými úrovněmi docela strmě stoupá.
+
 [MIT App Inventor](http://appinventor.mit.edu/explore/) - je webové aplikace vytvořená pomocí Blockly, která vám umožní vizuálním stylem vytvořit aplikace pro telefony a tablety s Androidem. Výslednou aplikaci je možné přenést do telefonu oskenováním QR kódu. Podobně vypadá i [AppLab](https://code.org/educate/applab), ale ten neumožňuje přenést výslednou aplikaci na české telefony.
 
 [Lego MindStorms](http://mindstorms.lego.com/) - vývojově navazuje Lego WeDo. Má více sensorů a motorů, lze jich zapojit a ovládat více najednou. Programování je už složitější a vhodné pro děti od 13 let.
