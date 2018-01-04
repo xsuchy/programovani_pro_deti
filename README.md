@@ -284,6 +284,8 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [Swift Playgroung](https://www.apple.com/swift/playgrounds/) - zábavná výuka programování postavená nad jazykem [Swift](https://cs.wikipedia.org/wiki/Swift_(programovac%C3%AD_jazyk)). Bohužel je to dostupné jenom pro Apple.
 
+[CS First](https://csfirst.withgoogle.com) od Google - plány lekcí do Scratche od Google.
+
 ## Stručný přehled
 
 <img src="./images/vek-infografika.png" height="840" alt="infografika">
