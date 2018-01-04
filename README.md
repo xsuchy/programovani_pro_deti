@@ -270,6 +270,8 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [Robomise](https://robomise.cz/) - Podobné jako studio.code.org, akorát je tam méně úkolů a tudíž se náročnost mezi jednotlivými úrovněmi docela strmě stoupá.
 
+[Google Doodle Coding](https://www.google.com/doodles/celebrating-50-years-of-kids-coding) - Na oslavu výročí vytvořil Goodle [doodle](https://www.google.com/doodles/about), kde si mohou děti naprogramovat králička, aby sebral mrkvičky. Ta hrací plocha je hodně malá, ale je možné si ji zvětšit pomocí Ctrl +.
+
 [MIT App Inventor](http://appinventor.mit.edu/explore/) - je webové aplikace vytvořená pomocí Blockly, která vám umožní vizuálním stylem vytvořit aplikace pro telefony a tablety s Androidem. Výslednou aplikaci je možné přenést do telefonu oskenováním QR kódu. Podobně vypadá i [AppLab](https://code.org/educate/applab), ale ten neumožňuje přenést výslednou aplikaci na české telefony.
 
 [Lego MindStorms](http://mindstorms.lego.com/) - vývojově navazuje Lego WeDo. Má více sensorů a motorů, lze jich zapojit a ovládat více najednou. Programování je už složitější a vhodné pro děti od 13 let.
