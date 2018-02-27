@@ -238,6 +238,8 @@ Lego WeDo je nutné mít připojeno k počítači USB kabelem. Tohle omezení u�
 
 [Příklady od Micro:bit.org](http://microbit.org/en/2017-03-07-javascript-block-resources/).
 
+[Další příklady od Micro:bit.org](https://makecode.microbit.org/projects). Zejména doporučuji: [Flashing Heart](https://makecode.microbit.org/projects/flashing-heart), [Magic button trick](https://makecode.microbit.org/projects/magic-button-trick), [Banana keyboard](https://makecode.microbit.org/projects/banana-keyboard), [Guitar](https://makecode.microbit.org/projects/guitar), [Soil Moisture](https://makecode.microbit.org/projects/soil-moisture), [Plant Watering](https://makecode.microbit.org/projects/plant-watering), [Reaction Time](https://makecode.microbit.org/projects/reaction-time), [Hot Or Cold](https://makecode.microbit.org/projects/hot-or-cold), [Voting Machine](https://makecode.microbit.org/projects/voting-machine), [Infection](https://makecode.microbit.org/projects/infection), [Fireflies](https://makecode.microbit.org/projects/fireflies) a [Compass](https://makecode.microbit.org/projects/compass). Případně příklady využívající motor (nutno přikoupit): [Inchworm](https://makecode.microbit.org/projects/fireflies) a [https://makecode.microbit.org/projects/milk-carton-robot](Milk Cartoon Robot).
+
 Moje příklady:
 
  * [Zobrazení ikon](https://makecode.microbit.org/_8dfAyLWpH6mX) - po stisknutí tlačítka se zobrazí ikona, text, číslo. Žáci si můžou vyzkoušet různé ikony a vytvořit vlastní obrazce. Vyzkouší si jak se nahrává program na Micro:bit.
