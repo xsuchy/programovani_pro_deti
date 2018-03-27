@@ -288,6 +288,7 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [CS First](https://csfirst.withgoogle.com) od Google - plány lekcí do Scratche od Google.
 
+[UmímeProgramovat](https://www.umimeprogramovat.cz/) - kurzy založené na adaptivním učení.
 ## Stručný přehled
 
 <img src="./images/vek-infografika.png" height="840" alt="infografika">
