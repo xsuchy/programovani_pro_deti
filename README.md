@@ -49,6 +49,7 @@ Rébus: mají dostat Cubetta z "P" na "Y", ale takovým způsobem, že až tam C
 <img src="./images/cubbeto-world-4.png" height="256"> 
 Ať děti zkusí obkroužit čtverec 4x4. Zjistí, že jim nestačí dílky a místo na ovládácím panelu. Super přiležitost ukázat funkční blog a jak uspoří místo.
 
+
 ##### Bee Bot
 
 [Bee Bot](https://www.bee-bot.us/) - robot-včelka. Programuje se stisknutím tlačítek na zádech a po stisknutí zeleného tlačítka se příkazy vykonají.
@@ -59,8 +60,13 @@ Ať děti zkusí obkroužit čtverec 4x4. Zjistí, že jim nestačí dílky a m�
 
 Osobně mi přijde vizuální zpětná vazba lepší u Cubetta, ale Bee-Bot dokáže být levnější pokud nakupujete více kusů pro celou třídu. Výrobce je [TTS Group z UK](http://www.tts-group.co.uk/primary/ict-computing/bee-bot-blue-bot-pro-bot/), ale je to paradoxně těžké od něj objednat v malých objemech. V Česku doporučuji objednávat např. od [vyuka-vzdelavani.cz](http://www.vyuka-vzdelavani.cz/vzdelavaci-pomucky/bee-bot.html).
 
-Velkou výhodou je, že Bee Bot a Cubetto má stejnou délku kroku, takže jejich podložky jsou zaměnitelné.
- 
+Velkou výhodou je, že Bee Bot a Cubetto má stejnou délku kroku, takže jejich podložky jsou zaměnitelné. Například na podložce Cubetta je možné s Bee Botem řešit tyto úlohy:
+
+<img src="./images/cubbeto-world-5.png" height="256">
+Tři včelky na jedné podložce musí vystartovat ve stejný čas. Dojít na příslušné políčko a přitom nesmí jet přes vodu nebo přes hory. A nesmí se srazit. Pokud žák hlásí, že on už má program hotový, ale jeho spolužáci ne, tak jim zdůrazněte, že záleží na celku a musí být všechny programy vpořádku. Ať poradí spolužákům (ale neprogramuje za ně). Tak aby celý tým splnil úkol. Nápověda: při tomto úkolu je vhodné použít pauzy. Jako výzvu je možné udělat stejné zadání, ale bez použití pauzy.
+
+<img src="./images/cubbeto-world-6.png" height="256">
+Dvě včelky vyrazí ze svého místa a musí dojít na parník a zpět. Přitom se musí vyhnout vodě a samozřejmě do sebe nesmí narazit.
 
 ### Velikost třídy
 
