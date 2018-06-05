@@ -260,11 +260,39 @@ Moje příklady:
  * [Morseovka](https://makecode.microbit.org/_AHY7gtcWz9bJ) - udělat z Micro:bita vysílač a přijímač morseovky. Co se stane když si změním "radio group"? Proč je na konci "clear screen"? Co když tam nebude a pošlu stejný kód za sebou? Jak daleko dokážete vysílat?
  * [Kdo je rychlejší?](https://makecode.microbit.org/_A91LEKbmycxz) - po náhodné době se zobrazí srdíčko. Kdo stiskne tlačítko první, dostane bod. Ale nesmí zmáčknout dříve než se ukáže (Pozn. tohle je těžké).
 
+## Hry na telefon
+
+Mnoho rodičů se mě ptá na "rozumné" hry na tablet či telefon. Nechtějí nechat hrát děti bezduché střílečky nebo freemium hry jako je farmaření. Zde je seznam her s kterými mám dobré zkušenosti. V abecedním pořadí:
+
+### Pro předškolní děti
+
+* [Kids Socks](https://play.google.com/store/apps/details?id=com.vedox.socksdonate)
+* [GCompris](https://play.google.com/store/apps/details?id=net.gcompris.full)
+* Nějaká [omalovánka](https://play.google.com/store/search?q=coloring+kids&c=apps&rating=1)
+
+### Pro školní děti
+
+* [Apparatus](https://play.google.com/store/apps/details?id=com.bithack.apparatus)
+* [BlowUp](https://play.google.com/store/apps/details?id=com.camelgames.blowup)
+* [Burn the Rope](https://play.google.com/store/apps/details?id=com.bbb.btr2free&hl=en_US)
+* [Dreamcage](https://play.google.com/store/apps/details?id=air.com.mescape.dreamcageescape)
+* [FishFillets](https://play.google.com/store/apps/details?id=cz.ger.ffng)
+* [Galaxy Trucker](https://play.google.com/store/apps/details?id=com.czechgames.galaxytrucker)
+* [Lightbot](https://play.google.com/store/apps/details?id=com.lightbot.lightbot) - Viz popis výše. Hodí se i do výuky.
+* [Monument Valley](https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley)
+* [SpacePhysics](https://play.google.com/store/apps/details?id=com.rottzgames.comet.android)
+* [Tablexia](https://www.tablexia.cz/cs/) - hra na telefon/tablet. Je primárně určena pro dyslektiky. Obsahuje několik her, které rozvíjejí kognitívní schopnosti. Hra "Potmě" je zaměřena na schopnost serializovat. Ve hře potmě se dostáváme do role lupiče, který si musí předem přesně naplánovat průchod domem až k trezoru plného peněz.
+* [The Foos](https://play.google.com/store/apps/details?id=org.codespark.thefoos) - Viz popis výše. Hodí se i do výuky.
+* [TileStorm](https://play.google.com/store/apps/details?id=com.jakyl.tilestormhd)
+* [Where's My Water](https://play.google.com/store/apps/details?id=com.disney.WMW)
+* [Wold of Goo](https://play.google.com/store/apps/details?id=com.twodboy.worldofgoofull)
+
+A cokoliv od [Amanita Design](https://play.google.com/store/apps/dev?id=7745268094426388671).
+
 ## Další zdroje
 
 Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
-[Tablexia](https://www.tablexia.cz/cs/) - hra na telefon/tablet. Je primárně určena pro dyslektiky. Obsahuje několik her, které rozvíjejí kognitívní schopnosti. Hra "Potmě" je zaměřena na schopnost serializovat. Ve hře potmě se dostáváme do role lupiče, který si musí předem přesně naplánovat průchod domem až k trezoru plného peněz.
 
 [RoboRally](http://www.zatrolene-hry.cz/spolecenska-hra/roborally-111/) - desková hra, kde plánujete pohyb svého robota, ale je třeba brát v úvahu pohyby robotů ostatních hráčů. Hra je sice uvedena jako 12+, ale děti, které si vyzkoušeli nějaké programování (např. Hour of Code) ji zvládají.
 
@@ -295,6 +323,7 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 [CS First](https://csfirst.withgoogle.com) od Google - plány lekcí do Scratche od Google.
 
 [UmímeProgramovat](https://www.umimeprogramovat.cz/) - kurzy založené na adaptivním učení.
+
 ## Stručný přehled
 
 <img src="./images/vek-infografika.png" height="840" alt="infografika">
