@@ -279,7 +279,9 @@ Mnoho rodičů se mě ptá na "rozumné" hry na tablet či telefon. Nechtějí n
 * [FishFillets](https://play.google.com/store/apps/details?id=cz.ger.ffng)
 * [Galaxy Trucker](https://play.google.com/store/apps/details?id=com.czechgames.galaxytrucker)
 * [Lightbot](https://play.google.com/store/apps/details?id=com.lightbot.lightbot) - Viz popis výše. Hodí se i do výuky.
+* [Mekorama](https://play.google.com/store/apps/details?id=com.martinmagni.mekorama)
 * [Monument Valley](https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley)
+* [Shadowmatic](https://play.google.com/store/apps/details?id=com.triadastudio.shadowmatic)
 * [SpacePhysics](https://play.google.com/store/apps/details?id=com.rottzgames.comet.android)
 * [Tablexia](https://www.tablexia.cz/cs/) - hra na telefon/tablet. Je primárně určena pro dyslektiky. Obsahuje několik her, které rozvíjejí kognitívní schopnosti. Hra "Potmě" je zaměřena na schopnost serializovat. Ve hře potmě se dostáváme do role lupiče, který si musí předem přesně naplánovat průchod domem až k trezoru plného peněz.
 * [The Foos](https://play.google.com/store/apps/details?id=org.codespark.thefoos) - Viz popis výše. Hodí se i do výuky.
