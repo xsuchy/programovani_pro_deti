@@ -283,6 +283,7 @@ Mnoho rodičů se mě ptá na "rozumné" hry na tablet či telefon. Nechtějí n
 * [SpacePhysics](https://play.google.com/store/apps/details?id=com.rottzgames.comet.android)
 * [Tablexia](https://www.tablexia.cz/cs/) - hra na telefon/tablet. Je primárně určena pro dyslektiky. Obsahuje několik her, které rozvíjejí kognitívní schopnosti. Hra "Potmě" je zaměřena na schopnost serializovat. Ve hře potmě se dostáváme do role lupiče, který si musí předem přesně naplánovat průchod domem až k trezoru plného peněz.
 * [The Foos](https://play.google.com/store/apps/details?id=org.codespark.thefoos) - Viz popis výše. Hodí se i do výuky.
+* [The Room](https://play.google.com/store/apps/details?id=com.FireproofStudios.TheRoom) a jeho pokračování.
 * [TileStorm](https://play.google.com/store/apps/details?id=com.jakyl.tilestormhd)
 * [Where's My Water](https://play.google.com/store/apps/details?id=com.disney.WMW)
 * [Wold of Goo](https://play.google.com/store/apps/details?id=com.twodboy.worldofgoofull)
