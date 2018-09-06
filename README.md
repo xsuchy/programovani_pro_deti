@@ -327,6 +327,12 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [UmímeProgramovat](https://www.umimeprogramovat.cz/) - kurzy založené na adaptivním učení.
 
+[Učebnice informatiky](http://imysleni.cz/ucebnice-a-vyukove-materialy/)
+
+[Lego Coding Express](https://www.zive.cz/clanky/lego-chce-s-vlackem-coding-express-naucit-nejmensi-deti-zakladum-kodovani/sc-3-a-194812/default.aspx)
+
+[NÚV: Návrh revizí rámcových vzdělávacích programů v oblasti informatiky a informačních a komunikačních technologií ](http://www.pedagogicke.info/2018/08/nuv-navrh-revizi-ramcovych-vzdelavacich.html)
+
 ## Stručný přehled
 
 <img src="./images/vek-infografika.png" height="840" alt="infografika">
@@ -338,4 +344,4 @@ Bez záruky kvality:
 * Brno
   * [Programování](http://www.krouzek-programovani.cz/)
   * [Robotárna](http://www.robotikabrno.cz/)
-* [Lázně Toušeň](https://www.programovanihrou.cz/)
+  * [Lázně Toušeň](https://www.programovanihrou.cz/)
