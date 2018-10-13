@@ -7,6 +7,9 @@ Tento text není a nebude učebnicí programovaní a není pro děti. Slouží p
 
 Nemám potřebu vytvářet nějaký nový učební systém na programovaní. Už jich existuje plno. Budu zde na ně uvádět odkazy. A budu je také odstraňovat tak jak budou některé z nich zanikat a jiné místo nich vznikat. Pokud naleznete nějaký skvělý výukový program, tak budu rád když mi dáte vědět.
 
+Oficiální učebnice a výukové materiály pro ZŠ a SŠ najdete na [iMyšlení](http://imysleni.cz/ucebnice-a-vyukove-materialy/).
+
+
 ### Věk žáků
 
 Tento text je zaměřen na děti v prvních ročnících základních škol.
