@@ -260,7 +260,7 @@ Moje příklady:
  * Stopky - TBD
  * [Kde je sever?](https://makecode.microbit.org/_9c2dRriuMLUT) - zobraz šipku aby ukazovala stále k severu. Vícenásobný "if" se udělá kliknutím na ozubené kolečko u "if". Diskutujte o podmínkách. Jde tu šipku udělat přesnější?
  * Ovládej kuličku - TBD
- * [Morseovka](https://makecode.microbit.org/_AHY7gtcWz9bJ) - udělat z Micro:bita vysílač a přijímač morseovky. Co se stane když si změním "radio group"? Proč je na konci "clear screen"? Co když tam nebude a pošlu stejný kód za sebou? Jak daleko dokážete vysílat?
+ * [Morseovka](https://makecode.microbit.org/_Yv6guE6UwWzj) [offline](microbit-Morseovka.hex) - udělat z Micro:bita vysílač a přijímač morseovky. Co se stane když si změním "radio group"? Proč je na konci "clear screen"? Co když tam nebude a pošlu stejný kód za sebou? Jak daleko dokážete vysílat?
  * [Kdo je rychlejší?](https://makecode.microbit.org/_A91LEKbmycxz) - po náhodné době se zobrazí srdíčko. Kdo stiskne tlačítko první, dostane bod. Ale nesmí zmáčknout dříve než se ukáže (Pozn. tohle je těžké).
 
 ## Hry na telefon
