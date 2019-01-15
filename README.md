@@ -336,6 +336,8 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [NÚV: Návrh revizí rámcových vzdělávacích programů v oblasti informatiky a informačních a komunikačních technologií ](http://www.pedagogicke.info/2018/08/nuv-navrh-revizi-ramcovych-vzdelavacich.html)
 
+[Dojo Resources](https://projects.raspberrypi.org/en/coderdojo) - zdroje z Coder Dojo
+
 ## Stručný přehled
 
 <img src="./images/vek-infografika.png" height="840" alt="infografika">
