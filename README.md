@@ -22,7 +22,7 @@ Pokud jste dospělák a hledáte jak začít sami, tak vám doporučuji spíše 
 
 #### Předškolní děti
 
-U dětí ve věku 5 let a méně zřejmě nelze programování resp. algoritmizaci provádět, protože dle [Piageta](https://cs.wikipedia.org/wiki/Jean_Piaget) se nacházejí ve stádiu "názorového (prelogického) myšlení", kdy plně nerespektuje logiku. Názorně no můžete vidět na tomto [experimentu](https://www.youtube.com/watch?v=tQLpysTbFso). Toto období dle Piageta trvá až do 7 let. Ale dle mé osobní zkušenosti je možné začít pracovat s nadanými žáky začít již kolem 5-6 roku. Je nutno dbát na použití pomůcek, které mají okamžitou vizuální vazbu. Např. GCompris pro seznámení se s ovládáním počítače (viz dále) nebo Cubetto či BeeBot.
+U dětí ve věku 5 let a méně zřejmě nelze programování resp. algoritmizaci vyučovat, protože dle [Piageta](https://cs.wikipedia.org/wiki/Jean_Piaget) se nacházejí ve stádiu "názorového (prelogického) myšlení", kdy plně nerespektují logiku. Názorně to můžete vidět na tomto [experimentu](https://www.youtube.com/watch?v=tQLpysTbFso). Toto období dle Piageta trvá až do 7 let. Ale dle mé osobní zkušenosti je možné začít pracovat s nadanými žáky již kolem 5-6 roku. Je nutno dbát na použití pomůcek, které mají okamžitou vizuální vazbu. Např. GCompris pro seznámení se s ovládáním počítače (viz dále) nebo Cubetto či BeeBot.
 
 ##### Cubetto
 
