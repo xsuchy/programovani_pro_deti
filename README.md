@@ -338,6 +338,8 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [Dojo Resources](https://projects.raspberrypi.org/en/coderdojo) - zdroje z Coder Dojo
 
+[Slajdy Aktivní učitel](./AktivniUcitel.pdf) - Štěpánka Baierlová a Roman Podlena o tom kde berou inspiraci.
+
 ## Stručný přehled
 
 <img src="./images/vek-infografika.png" height="840" alt="infografika">
