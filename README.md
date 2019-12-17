@@ -9,6 +9,7 @@ Příručka pro pedagogy a rodiče o výuce programování dětí na prvním stu
   * [Předškolní děti](#předškolní-děti)
 * [Velikost třídy](#velikost-třídy)
 * [Učebna a pomůcky](#učebna-a-pomůcky)
+* [Organizace výuky](#organizace-vyuky)
 * [Začátky](#začátky)
   * [Cubetto](#cubetto)
   * [Bee Bot](#bee-bot)
@@ -56,7 +57,7 @@ Pokud hledáte příručku pro střední školy, případně poslední ročníky
 
 Pokud jste dospělák a hledáte jak začít sami, tak vám doporučuji spíše materiály z [Python.cz](http://naucse.python.cz/), kde jsou i odkazy na kurzy. A pro ženy pořádá plno kurzů [Czechitas](http://www.czechitas.cz/).
 
-#### Předškolní děti
+### Předškolní děti
 
 U dětí ve věku 5 let a méně zřejmě nelze programování resp. algoritmizaci vyučovat, protože dle [Piageta](https://cs.wikipedia.org/wiki/Jean_Piaget) se nacházejí ve stádiu "názorového (prelogického) myšlení", kdy plně nerespektují logiku. Názorně to můžete vidět na tomto [experimentu](https://www.youtube.com/watch?v=tQLpysTbFso). Toto období dle Piageta trvá až do 7 let. Ale dle mé osobní zkušenosti je možné začít pracovat s nadanými žáky již kolem 5-6 roku. Je nutno dbát na použití pomůcek, které mají okamžitou vizuální vazbu. Např. GCompris pro seznámení se s ovládáním počítače (viz dále) nebo Cubetto či BeeBot.
 
@@ -66,7 +67,7 @@ Zatímco na střední škole lze zvládnout výuku s poloviční třídou (cca 1
 
 Tato velikost byla ověřena mnoha lektory v různých třídách a kroužcích. Při více jak osmi dětech na lektora se výuka stává frontální. Musí se postupovat v jednotném tempu a čekat na nejslabšího žáka ve třídě a děti taková výuka nebaví.
 
-### Učebna a pomůcky
+## Učebna a pomůcky
  
 Příručka počítá s počítačovou učebnou. Většinou stačí libovolný OS, protože se bude používat pouze internetový prohlížeč. Pokud se používá nějaká aplikace, tak jsem se snažil vybrat takovou, kterou lze nainstalovat jak na Linux, Apple, tak i na Windows.
 
@@ -115,7 +116,7 @@ Rébus: mají dostat Cubetta z "P" na "Y", ale takovým způsobem, že až tam C
 Ať děti zkusí obkroužit čtverec 4x4. Zjistí, že jim nestačí dílky a místo na ovládácím panelu. Super přiležitost ukázat funkční blok a ukázat jak uspoří místo.
 
 
-##### Bee Bot
+### Bee Bot
 
 [Bee Bot](https://www.bee-bot.us/) - robot-včelka. Programuje se stisknutím tlačítek na zádech a po stisknutí zeleného tlačítka se příkazy vykonají.
 
@@ -136,9 +137,6 @@ Tři včelky na jedné podložce musí vystartovat ve stejný čas. Dojít na p�
 Dvě včelky vyrazí ze svého místa a musí dojít na parník a zpět. Přitom se musí vyhnout vodě a samozřejmě do sebe nesmí narazit.
 
 [![BeeBot video](images/BeeBotVideo.png)](http://www.youtube.com/watch?v=KAwW8uFiwKw "BeeBot video")
-
-
-## 1. třída
 
 ### GCompris
 
@@ -198,7 +196,7 @@ GCompris má administrativní rozhraní, kde můžete nastavit, které úlohy bu
 
 <img src="./images/gcompris-posouvani-bloku.png" height="120" alt="panda - autíčko"> *Posouvání bloků.* Jednoduchý problém k vyřešení. (8 minut)
 
-### Offline aktivity
+## Offline aktivity
 
 Je dobré občas proložit hodinu offline aktivitou. Zde naleznete [seznam nápadů na offline aktivity na Code.org](https://code.org/curriculum/unplugged). Je vhodné mít nastudovanou alespoň jednu aktivitu do zásoby, tak abyste mohli uskutečnit hodinu i když nenadále vypadne elektřina nebo internet. Některé aktivity obsahují velmi silný [aha zážitek](https://cs.wikipedia.org/wiki/Aha_efekt).
 
@@ -212,6 +210,9 @@ Velmi oblíbenou aktivitou je "Přesné plnění instrukcí". Vše zřejmě odst
 
 Během jedné hodiny jsem vždy spotřeboval dvě balení chleba - nezáleží na tom, kolik máte dětí.
 
+## 1. rok
+
+V této části jsou aktivity, které dělám s dětmi během jejich prvního roku výuky. Nezáleží jestli mají 7 let. Nebo zda mají 11 roků. Je to prostě jejich první seznámení s algoritmizací.
 
 ### Kurz 2 z Code.org
 
@@ -266,6 +267,8 @@ Z podobného soudku jako Lightbot je i [The Foos](http://thefoos.com/). Odlehče
 
 ## 2. třída
 
+Toto jsou aktivity, které s nimi dělám během jejich druhého roku seznamování s algoritmizací. Dle úvážení lektora můžete aktivitu nasadit i dříve. Zejména pokud se jedná o věkově starší žáky.
+
 ### Kurz 3 z Code.org
 
 [Kurz 3 z Code.org](https://studio.code.org/s/course3) navazuje na [kurzu 2](https://studio.code.org/s/course2), ale obsahuje 21 hodin. Což je docela hodně (2/3 školního roku) a děti to pravděpodobně nebude tak dlouho bavit. Proto je vhodné to prokládat i jinými aktivitami. Z toho vyplývá, že stihnete dodělat asi tak polovinu tohoto kurzu.
@@ -316,7 +319,7 @@ Moje příklady:
  * [Morseovka](https://makecode.microbit.org/_Yv6guE6UwWzj) [⭳](microbit-Morseovka.hex) - udělat z Micro:bita vysílač a přijímač morseovky. Co se stane když si změním "radio group"? Proč je na konci "clear screen"? Co když tam nebude a pošlu stejný kód za sebou? Jak daleko dokážete vysílat?
  * [Kdo je rychlejší?](https://makecode.microbit.org/_A91LEKbmycxz) - po náhodné době se zobrazí srdíčko. Kdo stiskne tlačítko první, dostane bod. Ale nesmí zmáčknout dříve než se ukáže (Pozn. tohle je těžké).
 
-## MeetEdison
+### MeetEdison
 
 Robot [Edison](https://meetedison.com/) pochází z dílny australské společnosti Microbric. Edison je programovatelný robot. Podporuje tři programovací jazyky (EdBlocks, EdPy a EdScratch) vč. čárových kódů, obsahuje několik vestavných senzorů, dokáže komunikovat s ostatními roboty Edison a je kompatibilní s oblíbenou stavebnicí LEGO.
 
