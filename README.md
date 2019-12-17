@@ -38,6 +38,8 @@ Ke Cubettovi se dodávají hrací plátna, po kterých se Cubetto může pohybov
 
 Cubetta je možno zakoupit buď od [vyuka-vzdelavani.cz](https://www.vyuka-vzdelavani.cz/cubetto.html). Existují i levnější hračky podobného principu, ale co jsem vyzkoušel, tak mají problémy s otočením o přesně 90°, takže po několika krocích jedou úplně mimo.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JWHUiYpsbnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Na kroužcích se mi osvědčila práce ve dvojcích. Několik příkladů:
 
 <img src="./images/cubbeto-world-1.png" height="256">
@@ -50,7 +52,7 @@ Přesuň se z "G" na "hory", ale vyhni se "vodě". Děti si musí najít vlastn�
 Rébus: mají dostat Cubetta z "P" na "Y", ale takovým způsobem, že až tam Cubetto dojede, tak po zmáčknutí modrého tlačítka se (bez lidského zásahu) dostane na "G". Zde si musí přijít na to, že ačkoliv se jedná o stejný program, tak Cubetto musí být i ve stejné startovní pozici (tj. po dojetí se musí ještě natočit).
 
 <img src="./images/cubbeto-world-4.png" height="256"> 
-Ať děti zkusí obkroužit čtverec 4x4. Zjistí, že jim nestačí dílky a místo na ovládácím panelu. Super přiležitost ukázat funkční blog a jak uspoří místo.
+Ať děti zkusí obkroužit čtverec 4x4. Zjistí, že jim nestačí dílky a místo na ovládácím panelu. Super přiležitost ukázat funkční blok a ukázat jak uspoří místo.
 
 
 ##### Bee Bot
@@ -71,9 +73,13 @@ Tři včelky na jedné podložce musí vystartovat ve stejný čas. Dojít na p�
 <img src="./images/cubbeto-world-6.png" height="256">
 Dvě včelky vyrazí ze svého místa a musí dojít na parník a zpět. Přitom se musí vyhnout vodě a samozřejmě do sebe nesmí narazit.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KAwW8uFiwKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Velikost třídy
 
 Zatímco na střední škole lze zvládnout výuku s poloviční třídou (cca 15 dětí), tak menší děti jsou živější a osobně mi přišlo 8 dětí na třídu jako limitní množství. Optimum se mi zdá cca 6 dětí na třídu. Resp. na jednoho učitele. Jelikož děti zpracovávají úlohy samostatně, je možné postavit třídu o 30 dětech na které budou 4 učitelé (resp. kombinace učitel a asistent).
+
+Tato velikost byla ověřena mnoha lektory v různých třídách a kroužcích. Při více jak osmi dětech na lektora se výuka stává frontální. Musí se postupovat v jednotném tempu a čekat na nejslabšího žáka ve třídě a děti taková výuka nebaví.
 
 ### Učebna a pomůcky
 
