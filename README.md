@@ -249,7 +249,7 @@ Na [FI MUNI](https://www.fi.muni.cz/) - vznikl projekt [Robomise](https://robomi
 
 V rámci Umíme Programovat jsou dostupné různé druhy úloh. Já s dětmi začínám [Šipkovanou](https://www.umimeprogramovat.cz/sipkovana). Obrázek od Radka Pelánka, který vám pomůže s výběrem vhodné úlohy:
 
-![úlohy Umíme Programovat a vhodný věk](images/umimeprogramovat.jpg)]
+![úlohy Umíme Programovat a vhodný věk](images/umimeprogramovat.jpg)
 
 ### Scratch
 
