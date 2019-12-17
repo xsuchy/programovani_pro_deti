@@ -206,6 +206,8 @@ Po dvou až třech lekcích se Scratch doporučuji zařadit následující aktiv
 
 Druhou aktivitou, kterou určitě doporučím je [programování na milimetrovém papíře](https://studio.code.org/s/course2/stage/1/puzzle/1). Tato aktivita málokdy vyjde. O to větší je to zážitek. Při zápisu děti velmi často vytvoří nové vlastní značky. Značky nezapisují po řádcích a zleva doprava. A pokud se to už někomu povede správně zapsat, tak druhý žák špatně zápis špatně interpretuje. Zde si žáci uvědomí, že to co je zřejmé pro ně. Nemusí být zřejmé pro druhé.
 
+Velkým zdrojem inspirace je i kniha [Computer Science Unplugged](https://classic.csunplugged.org/books/), jejíž [český překlad](http://www.ceskaskola.cz/2014/09/e-kniha-pro-vas-computer-science.html) je zdarma ke stažení.
+
 Velmi oblíbenou aktivitou je "Přesné plnění instrukcí". Vše zřejmě odstartoval Josh Darnit. Doporučuji shlédnout jeho [playlist Exact Instructions Challenge](https://www.youtube.com/playlist?list=PL2tgThFV6OzlR3yFLtH1m8LAzzl-JVrFR). Já se inspiroval jeho [návodem jak vytvořit sendwitch](https://www.youtube.com/watch?v=cDA3_5982h8&list=PL2tgThFV6OzlR3yFLtH1m8LAzzl-JVrFR&index=2&t=0s) a natočil kousek mojí hodiny:
 
 [![Udělej mi sendvič](images/UdelejMiSendvicVideo.png)](https://www.youtube.com/watch?v=RO0Mj1eahw0 "Udělej mi sendvič video")
@@ -418,6 +420,8 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [CGS Papírový počítač](http://mmm.webz.cz/pocitadla/cgs.html) - papírový simulátor registrů v počítači. Původně vyšel v ABC a později ve VTM. [Více informací](https://cs.wikipedia.org/wiki/Papírový_počítač_CGS).
 
+[Bobřík informatiky](https://www.ibobr.cz/) - informatická soutěž pro žáky základních a středních škol.
+
 ### Bezpečnost na internetu
 
 Inspirující video o bezpečnosti na internetu a kyberšikaně:
@@ -427,6 +431,16 @@ Inspirující video o bezpečnosti na internetu a kyberšikaně:
 [#martyisdead](https://www.mall.tv/martyisdead) - 8dílný seriál o kyberšikaně, která skončila smrtí.
 
 [Shut Up and Dance](https://en.wikipedia.org/wiki/Shut_Up_and_Dance_(Black_Mirror)) - třetí díl třetí série seriálu Black Mirror. Více brutálnější. Pro první stupeň nevhodné. Pro druhý stupeň vhodné pokud bude doprovázený společnou diskusí.
+
+### Konference
+
+[didinfo](http://www.didinfo.net/) - mezinárodní konference o vyučování informatiky
+
+[Počítač ve škole](https://www.pocitacveskole.cz/) - pravidelná konference konající se na začátku dubna v Novém Městě na Moravě.
+
+[učIT jinak](https://www.ucit-jinak.cz/) - konference nejen pro učitele informatiky. Koná se na konci března v Praze.
+
+[OpenAlt](https://openalt.cz/) - Otevřeným přístupem k otevřené společnosti. Původně čistě informatická konference nyní obsahuje track věnovaný vzdělávání. Koná se na začátku listopadu.
 
 ## Stručný přehled
 
