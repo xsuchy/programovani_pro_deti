@@ -41,7 +41,7 @@ Ke Cubettovi se dodávají hrací plátna, po kterých se Cubetto může pohybov
 
 Cubetta je možno zakoupit buď od [vyuka-vzdelavani.cz](https://www.vyuka-vzdelavani.cz/cubetto.html). Existují i levnější hračky podobného principu, ale co jsem vyzkoušel, tak mají problémy s otočením o přesně 90°, takže po několika krocích jedou úplně mimo.
 
-[![Cubetto video](http://img.youtube.com/vi/JWHUiYpsbnI/0.jpg)](http://www.youtube.com/watch?v=JWHUiYpsbnI "Cubetto video")
+[![Cubetto video](images/CubettoVideo.png)](http://www.youtube.com/watch?v=JWHUiYpsbnI "Cubetto video")
 
 Na kroužcích se mi osvědčila práce ve dvojcích. Několik příkladů:
 
