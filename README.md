@@ -27,6 +27,7 @@ Příručka pro pedagogy a rodiče o výuce programování dětí na prvním stu
   * [Pro školní děti](#pro-školní-děti)
 * [Další zdroje](#další-zdroje)
 * [Stručný přehled](#další-zdroje)
+* [Volnočasové kroužky](#volnočasové-kroužky)
 
 ## O příručce
 
@@ -384,4 +385,5 @@ Bez záruky kvality:
 * Brno
   * [Programování](http://www.krouzek-programovani.cz/)
   * [Robotárna](http://www.robotikabrno.cz/)
+* Lázně Toušeň
   * [Lázně Toušeň](https://www.programovanihrou.cz/)
