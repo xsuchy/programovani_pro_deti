@@ -444,6 +444,8 @@ Inspirující video o bezpečnosti na internetu a kyberšikaně:
 
 [OpenAlt](https://openalt.cz/) - Otevřeným přístupem k otevřené společnosti. Původně čistě informatická konference nyní obsahuje track věnovaný vzdělávání. Koná se na začátku listopadu.
 
+[Rozcestník pro učitele informatiky](https://www.pedagogicke.info/2019/10/rozcestnik-pro-ucitele-informatiky.html)
+
 ## Stručný přehled
 
 <img src="./images/vek-infografika.png" height="840" alt="infografika">
