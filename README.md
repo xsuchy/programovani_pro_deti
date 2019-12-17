@@ -238,6 +238,8 @@ K emailu si děti musí vymyslet heslo. Nejlepší je, když si vymyslí krátko
 
 Pokud chcete děti poučit o internetové bezpečnosti obecně, pak doporučuji libovolný výstup z projektu [Web Rangers](http://www.webrangers.cz/).
 
+Pokud se chcete sami poučit o heslech, tak doporučuji shlédnout [prezentaci Radomíra Orkáče - Hesla? Hesla! Hesla?](https://youtu.be/RR9CMsae9d8).
+
 ### Scratch
 
 Jedno z nejlepších programátorských prostředí pro děti je bezesporu [Scratch](https://scratch.mit.edu/). Program se tvoří stejnou metodou skládání bloku jako v Code.org. Ovšem příkazy už jsou mnohem obecnější a pestřejší, takže lze vytvořit velkou škálu programů, které už mají i smysluplnou činnost.
