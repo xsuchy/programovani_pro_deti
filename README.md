@@ -125,7 +125,9 @@ Ať děti zkusí obkroužit čtverec 4x4. Zjistí, že jim nestačí dílky a m�
 
 Osobně mi přijde vizuální zpětná vazba lepší u Cubetta, ale Bee-Bot dokáže být levnější pokud nakupujete více kusů pro celou třídu. Výrobce je [TTS Group z UK](http://www.tts-group.co.uk/primary/ict-computing/bee-bot-blue-bot-pro-bot/), ale je to paradoxně těžké od něj objednat v malých objemech. V Česku doporučuji objednávat např. od [vyuka-vzdelavani.cz](http://www.vyuka-vzdelavani.cz/vzdelavaci-pomucky/bee-bot.html).
 
-Velkou výhodou je, že Bee Bot a Cubetto má stejnou délku kroku, takže jejich podložky jsou zaměnitelné. Délka kroku je 20 cm. Takže velikost políčka je 20x20cm. Můžete si tak vlastní podložky nakreslit na balící papír.  Například na podložce Cubetta je možné s Bee Botem řešit tyto úlohy:
+Velkou výhodou je, že Bee Bot a Cubetto má stejnou délku kroku, takže jejich podložky jsou zaměnitelné. Délka kroku je 15 cm. Takže velikost políčka je 15x15 cm. Můžete si tak vlastní podložky nakreslit na balící papír. Je také možnost použít [pěnové puzzle](https://www.puzzle-puzzle.cz/baby-great-penove-puzzle-cislice-a-pismena-sx-15x15-d125013).
+
+Například na podložce Cubetta je možné s Bee Botem řešit tyto úlohy:
 
 <img src="./images/cubbeto-world-5.png" height="256">
 Tři včelky na jedné podložce musí vystartovat ve stejný čas. Dojít na příslušné políčko a přitom nesmí jet přes vodu nebo přes hory. A nesmí se srazit. Pokud žák hlásí, že on už má program hotový, ale jeho spolužáci ne, tak jim zdůrazněte, že záleží na celku a musí být všechny programy vpořádku. Ať poradí spolužákům (ale neprogramuje za ně). Tak aby celý tým splnil úkol. Nápověda: při tomto úkolu je vhodné použít pauzy. Jako výzvu je možné udělat stejné zadání, ale bez použití pauzy.
@@ -400,6 +402,12 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 [Slajdy Aktivní učitel](./AktivniUcitel.pdf) - Štěpánka Baierlová a Roman Podlena o tom kde berou inspiraci.
 
 [Akademie programování](https://www.akademieprogramovani.cz/kodovani-na-doma/) - kódování na doma.
+
+[UčímeSRoboty.cz](https://ucimesroboty.cz/) - další výukové materiály.
+
+[Učíme informatiku](https://www.facebook.com/groups/UcimeInformatiku/) - Facebooková skupina učitelů a učitelek informatiky.
+
+[Prázdninová škola Lipnice](https://ksvi.mff.cuni.cz/skola/) - určena učitelům informatiky na všech typech škol. Koná se v druhé polovině měsíce srpna na nějakém odlehlém místě (posledních čtyřiadvacet ročníků v Lipnici nad Sázavou).
 
 ### Bezpečnost na internetu
 
