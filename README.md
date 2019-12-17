@@ -203,6 +203,13 @@ Po dvou až třech lekcích se Scratch doporučuji zařadit následující aktiv
 
 Druhou aktivitou, kterou určitě doporučím je [programování na milimetrovém papíře](https://studio.code.org/s/course2/stage/1/puzzle/1). Tato aktivita málokdy vyjde. O to větší je to zážitek. Při zápisu děti velmi často vytvoří nové vlastní značky. Značky nezapisují po řádcích a zleva doprava. A pokud se to už někomu povede správně zapsat, tak druhý žák špatně zápis špatně interpretuje. Zde si žáci uvědomí, že to co je zřejmé pro ně. Nemusí být zřejmé pro druhé.
 
+Velmi oblíbenou aktivitou je "Přesné plnění instrukcí". Vše zřejmě odstartoval Josh Darnit. Doporučuji shlédnout jeho [playlist Exact Instructions Challenge](https://www.youtube.com/playlist?list=PL2tgThFV6OzlR3yFLtH1m8LAzzl-JVrFR). Já se inspiroval jeho [návodem jak vytvořit sendwitch](https://www.youtube.com/watch?v=cDA3_5982h8&list=PL2tgThFV6OzlR3yFLtH1m8LAzzl-JVrFR&index=2&t=0s) a natočil kousek mojí hodiny:
+
+[![Udělej mi sendvič](images/UdelejMiSendvicVideo.png)](https://www.youtube.com/watch?v=RO0Mj1eahw0 "Udělej mi sendvič video")
+
+Během jedné hodiny jsem vždy spotřeboval dvě balení chleba - nezáleží na tom, kolik máte dětí.
+
+
 ### Kurz 2 z Code.org
 
 V tuto chvíli se děti už mohou vrhnout na vlastní programování. Začněte s kurzy se [Studio.Code.org](https://studio.code.org/). Nyní záleží na tom, jak moc dobře děti umí číst. Pokud umí číst po písmenech, tak můžete začít rovnou u [kurzu 2](https://studio.code.org/s/course2). Zde je vyžadována znalost čtení, protože příkazy jsou napsané textově a děti je (jenom) přetahují. Ale příkazů není mnoho a děti mnohdy "podvádějí" a pamatují si, co příkaz dělá, podle prvního písmena. Pokud si myslíte, že děti by to čtení nezvládly, tak můžete zkusit začít s [kurzem 1](https://studio.code.org/s/course1), který využívá intuitivních ikonek, ale jinak jsou oba kurzy velmi podobné - po jejich dokončení by děti měly chápat posloupnost příkazů a cykly.
