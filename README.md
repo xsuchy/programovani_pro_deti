@@ -38,7 +38,7 @@ Ke Cubettovi se dodávají hrací plátna, po kterých se Cubetto může pohybov
 
 Cubetta je možno zakoupit buď od [vyuka-vzdelavani.cz](https://www.vyuka-vzdelavani.cz/cubetto.html). Existují i levnější hračky podobného principu, ale co jsem vyzkoušel, tak mají problémy s otočením o přesně 90°, takže po několika krocích jedou úplně mimo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JWHUiYpsbnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Cubetto video](http://img.youtube.com/vi/JWHUiYpsbnI/0.jpg)](http://www.youtube.com/watch?v=JWHUiYpsbnI "Cubetto video")
 
 Na kroužcích se mi osvědčila práce ve dvojcích. Několik příkladů:
 
@@ -73,7 +73,7 @@ Tři včelky na jedné podložce musí vystartovat ve stejný čas. Dojít na p�
 <img src="./images/cubbeto-world-6.png" height="256">
 Dvě včelky vyrazí ze svého místa a musí dojít na parník a zpět. Přitom se musí vyhnout vodě a samozřejmě do sebe nesmí narazit.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KAwW8uFiwKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![BeeBot video](http://img.youtube.com/vi/KAwW8uFiwKw/0.jpg)](http://www.youtube.com/watch?v=KAwW8uFiwKw "BeeBot video")
 
 ### Velikost třídy
 
