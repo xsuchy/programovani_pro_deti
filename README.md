@@ -490,6 +490,9 @@ Bez záruky kvality:
 * Brno
   * [Programování](http://www.krouzek-programovani.cz/)
   * [Robotárna](http://www.robotikabrno.cz/)
+  * [Step Akademie](https://brno.itstep.org/)
+* Praha
+  * [Step Akademie](https://praha.itstep.org/)
 * Lázně Toušeň
   * [Lázně Toušeň](https://www.programovanihrou.cz/)
 * Šumperk
