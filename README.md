@@ -32,6 +32,8 @@ Příručka pro pedagogy a rodiče o výuce programování dětí na prvním stu
   * [Pro školní děti](#pro-školní-děti)
 * [Další zdroje](#další-zdroje)
   * [Bezpečnost na internetu](#bezpečnost-na-internetu)
+  * [Konference](#konference)
+  * [Soutěže](#soutěže)
 * [Stručný přehled](#další-zdroje)
 * [Volnočasové kroužky](#volnočasové-kroužky)
 
@@ -365,6 +367,8 @@ Mnoho rodičů se mě ptá na "rozumné" hry na tablet či telefon. Nechtějí n
 
 A cokoliv od [Amanita Design](https://play.google.com/store/apps/dev?id=7745268094426388671).
 
+* na platformě uPlay je možné se učit ve hře [Rabbids Coding](https://otechnice.cz/ubisoft-prinese-hru-rabbids-coding-ktera-nauci-deti-programovat-k-dispozici-bude-zdarma/).
+
 ## Další zdroje
 
 Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
@@ -386,7 +390,7 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [MIT App Inventor](http://appinventor.mit.edu/explore/) - je webové aplikace vytvořená pomocí Blockly, která vám umožní vizuálním stylem vytvořit aplikace pro telefony a tablety s Androidem. Výslednou aplikaci je možné přenést do telefonu oskenováním QR kódu. Podobně vypadá i [AppLab](https://code.org/educate/applab), ale ten neumožňuje přenést výslednou aplikaci na české telefony.
 
-[Lego MindStorms](http://mindstorms.lego.com/) - vývojově navazuje Lego WeDo. Má více sensorů a motorů, lze jich zapojit a ovládat více najednou. Programování je už složitější a vhodné pro děti od 13 let.
+[Lego MindStorms](http://mindstorms.lego.com/) - vývojově navazuje Lego WeDo. Má více sensorů a motorů, lze jich zapojit a ovládat více najednou. Programování je už složitější a vhodné pro děti od 13 let. Pro mladší žáky existuje blocky [Make Code pro Lego EV3](https://makecode.mindstorms.com/) - stačí mít na EV3 kostce nejnovější firmware a když vložíte SD kartu, připojí se vám jako USB drive a program do kostky stačí stáhnout.
 
 [GEG](http://www.gug.cz/cs/geg) - skupina pedagogů kolem GoogleApps zaměřující se spíše na uživatelské ovládání počítačů (vytváření videií, dokumentů...).
 
@@ -422,7 +426,15 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [CGS Papírový počítač](http://mmm.webz.cz/pocitadla/cgs.html) - papírový simulátor registrů v počítači. Původně vyšel v ABC a později ve VTM. [Více informací](https://cs.wikipedia.org/wiki/Papírový_počítač_CGS).
 
-[Bobřík informatiky](https://www.ibobr.cz/) - informatická soutěž pro žáky základních a středních škol.
+[Rozcestník pro učitele informatiky](https://www.pedagogicke.info/2019/10/rozcestnik-pro-ucitele-informatiky.html)
+
+[junior.guru](https://junior.guru/) - Nauč se programovat a získej svou první práci v IT.
+
+[ITveSkole](http://www.itveskole.cz/) - Novinky a dění ve světě školních ICT.                                            
+
+[Binary Counter](https://www.youtube.com/watch?v=zELAfmp3fXY) - pomůcka na demostraci dvojkové soustavy.
+
+[Robotrain](http://robodoupe.cz/2019/robotrain-masinka/) - edukativní model robotizovaného skladu.
 
 ### Bezpečnost na internetu
 
@@ -444,7 +456,21 @@ Inspirující video o bezpečnosti na internetu a kyberšikaně:
 
 [OpenAlt](https://openalt.cz/) - Otevřeným přístupem k otevřené společnosti. Původně čistě informatická konference nyní obsahuje track věnovaný vzdělávání. Koná se na začátku listopadu.
 
-[Rozcestník pro učitele informatiky](https://www.pedagogicke.info/2019/10/rozcestnik-pro-ucitele-informatiky.html)
+### Soutěže 
+
+[Bobřík informatiky](https://www.ibobr.cz/) - informatická soutěž pro žáky základních a středních škol.
+
+[Soutěž v programování](https://soutez.github.io/)
+
+[Scratch CUP](http://www.scratchcup.cz/) - Soutěž v programování ve Scratchi.
+
+[Mladý programátor](https://soutez.tib.cz/souteze/mlady-programator) - soutěž programování v různých kategoriích: Baltík, Scratch a jazyk dle vlastní volby.
+
+[Robosoutěž](https://robosoutez.fel.cvut.cz/) - soutěž robotů Lego MindStorm. V únoru možno přihlašovat. V dubnu bývá soutěž samotná. V Praze.
+
+[Robotiáda](http://robotiada.cz/) - soutěž robotů Lego MindStorm. Na začátku února v Brně.
+
+[Robotický den](http://robotickyden.cz/) - v červnu v Praze.
 
 ## Stručný přehled
 
@@ -459,3 +485,5 @@ Bez záruky kvality:
   * [Robotárna](http://www.robotikabrno.cz/)
 * Lázně Toušeň
   * [Lázně Toušeň](https://www.programovanihrou.cz/)
+* Šumperk
+  * [Amavet](http://www.amavetsumperk.cz/index.php?vyber=430)
