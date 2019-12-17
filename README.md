@@ -1,6 +1,33 @@
 # Programování pro děti
 Příručka pro pedagogy a rodiče o výuce programování dětí na prvním stupni (tj. věk 6 až 11 let).
 
+## Obsah
+
+* [O příručce](#o-příručce)
+  * [Licence](#licence)
+* [Věk žáků](#věk-žáků)
+  * [Předškolní děti](#předškolní-děti)
+* [Cubetto](#cubetto)
+* [Bee Bot](#bee-bot)
+* [Velikost třídy](#velikost-třídy)
+* [Učebna a pomůcky](#učebna-a-pomůcky)
+* [GCompris](#gcompris)
+* [Kurz 2 z Code.org](#kurz-2-z-codeorg)
+  * [Bezpečnost na internetu](#bezpečnost-na-internetu)
+* [Scratch](#scratch)
+* [Lightbot](#lightbot)
+* [The Foos](#the-foos)
+* [Offline aktivity](#offline-aktivity)
+* [Kurz 3 z Code.org](#kurz-3-z-codeorg)
+* [Code Combat](#code-combat)
+* [Lego WeDo](#lego-wedo)
+* [BBC Micro:Bit](bbc-microbit)
+* [Hry na telefon](#hry-na-telefon)
+  * [Pro předškolní děti](#pro-předškolní-děti)
+  * [Pro školní děti](#pro-školní-děti)
+* [Další zdroje](#další-zdroje)
+* [Stručný přehled](#další-zdroje)
+
 ## O příručce
 
 Tento text není a nebude učebnicí programovaní a není pro děti. Slouží pro rodiče, vedoucí programátorských kroužků a pro učitele informatiky. Je o tom jak učit malé děti programovat, jak je naučit algoritmizovat a pochopit základní programátorské dovednosti. Není to ani příručka, podle které by se dalo postupovat krok za krokem, protože každé dítě a každá třída je vysoce individuální. Zkusím zde popsat různé možnosti výuky a jejich kombinace a uvést nezbytné detaily, které vám umožní vytvořit si vlastní učební plán. Jedná se zkušenosti mé i o zkušenosti dalších učitelů a rodičů. A samozřejmě uvítám, pokud se se mnou podělíte o svoje zkušenosti. Můžete mi psát na miroslav@suchy.cz. Stejně tak budu rád když mi dáte vědět, zda jste tuto příručku použili a jak se vám líbila.
@@ -223,7 +250,7 @@ Druhou aktivitou, kterou určitě doporučím je [programování na milimetrové
 
 [Kurz 3 z Code.org](https://studio.code.org/s/course3) navazuje na [kurzu 2](https://studio.code.org/s/course2), ale obsahuje 21 hodin. Což je docela hodně (2/3 školního roku) a děti to pravděpodobně nebude tak dlouho bavit. Proto je vhodné to prokládat i jinými aktivitami. Z toho vyplývá, že stihnete dodělat asi tak polovinu tohoto kurzu.
 
-### CodeCombat.com
+### Code Combat
 
 [CodeCombat](https://codecombat.com/) vypadá jako hra na hrdiny. Akorát neovládáte hrdinu přímo, ale jeho pohyb a souboje musíte naprogramovat. Už se neprogramuje přetahováním bloků jako ve Scratchi a Code.org, ale žáci píší příkazy přímo na klávesnici. Příkazy jsou anglicky, ale funguje tam automatické doplňování, která vyváží případnou nejistotu žáků. Prostředí, zadání a příklady jsou většinou česky (aktuálně je přeloženo 33% - [pomoc s překladem](http://codecombat.com/i18n/) je vítaná). Programuje se už v konkrétním jazyku. Doporučuji začít s jazykem Python, na který můžete [později snadno navázat](http://www.root.cz/knihy/make-games-with-python/). Kromě Pythonu je možné použít JavaScript, Lua, CoffeeScript, Clojure a Io. 
 
