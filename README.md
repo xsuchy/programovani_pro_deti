@@ -18,6 +18,7 @@ Příručka pro pedagogy a rodiče o výuce programování dětí na prvním stu
 * [1. rok]()
   * [Kurz 2 z Code.org](#kurz-2-z-codeorg)
     * [Něco o heslech](#něco-o-heslech)
+  * [Umíme Programovat](#umíme-programovat)
   * [Scratch](#scratch)
   * [Lightbot](#lightbot)
   * [The Foos](#the-foos)
@@ -242,6 +243,14 @@ Pokud chcete děti poučit o internetové bezpečnosti obecně, pak doporučuji 
 
 Pokud se chcete sami poučit o heslech, tak doporučuji shlédnout [prezentaci Radomíra Orkáče - Hesla? Hesla! Hesla?](https://youtu.be/RR9CMsae9d8).
 
+### Umíme Programovat
+
+Na [FI MUNI](https://www.fi.muni.cz/) - vznikl projekt [Robomise](https://robomise.cz/) využívají [adaptivní učení](https://www.em.muni.cz/tema/8538-vyuzivaji-se-moderni-technologie-ve-vyuce-naplno). Robomise je sada úloh, kde máte dovést do cíle raketku a vyhnout se meteoritům. Aplikace je zdarma a mám dojem, že stále slouží studentům FI jako testovací prostředí. Jako komerční spin-off vznikl projekt [Umíme to](https://www.umimeto.org/) pod který spadá i [Umíme Programovat](https://www.umimeprogramovat.cz/). Zdarma můžete projít 150 příkladů denně. To vám stačí na soukromé použití nebo na malý kroužek. Pokud potřebujete více tak musíte mít školní licenci.
+
+V rámci Umíme Programovat jsou dostupné různé druhy úloh. Já s dětmi začínám [Šipkovanou](https://www.umimeprogramovat.cz/sipkovana). Obrázek od Radka Pelánka, který vám pomůže s výběrem vhodné úlohy:
+
+![úlohy Umíme Programovat a vhodný věk](images/umimeprogramovat.jpg)]
+
 ### Scratch
 
 Jedno z nejlepších programátorských prostředí pro děti je bezesporu [Scratch](https://scratch.mit.edu/). Program se tvoří stejnou metodou skládání bloku jako v Code.org. Ovšem příkazy už jsou mnohem obecnější a pestřejší, takže lze vytvořit velkou škálu programů, které už mají i smysluplnou činnost.
@@ -384,7 +393,6 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [Blockly](https://developers.google.com/blockly/) - knihovna pro vizuální programování jako je Code.org a Scratch. Pomocí Blockly můžete vytvářet vlastní kurzy podobně jako na Code.org. Ale i složitější rozhraní jako je např. programování jednočipů nebo telefonů.
 
-[Robomise](https://robomise.cz/) - Podobné jako studio.code.org, akorát je tam méně úkolů a tudíž se náročnost mezi jednotlivými úrovněmi docela strmě stoupá.
 
 [Google Doodle Coding](https://www.google.com/doodles/celebrating-50-years-of-kids-coding) - Na oslavu výročí vytvořil Goodle [doodle](https://www.google.com/doodles/about), kde si mohou děti naprogramovat králička, aby sebral mrkvičky. Ta hrací plocha je hodně malá, ale je možné si ji zvětšit pomocí Ctrl +.
 
@@ -402,7 +410,6 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [CS First](https://csfirst.withgoogle.com) od Google - plány lekcí do Scratche od Google.
 
-[UmímeProgramovat](https://www.umimeprogramovat.cz/) - kurzy založené na adaptivním učení.
 
 [Učebnice informatiky](http://imysleni.cz/ucebnice-a-vyukove-materialy/)
 
