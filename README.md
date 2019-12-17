@@ -24,7 +24,8 @@ Příručka pro pedagogy a rodiče o výuce programování dětí na prvním stu
   * [Kurz 3 z Code.org](#kurz-3-z-codeorg)
   * [Code Combat](#code-combat)
   * [Lego WeDo](#lego-wedo)
-  * [BBC Micro:Bit](bbc-microbit)
+  * [BBC Micro:Bit](#bbc-microbit)
+  * [MeetEdison](#meetedison)
 * [Hry na telefon](#hry-na-telefon)
   * [Pro předškolní děti](#pro-předškolní-děti)
   * [Pro školní děti](#pro-školní-děti)
@@ -313,6 +314,14 @@ Moje příklady:
  * [Morseovka](https://makecode.microbit.org/_Yv6guE6UwWzj) [⭳](microbit-Morseovka.hex) - udělat z Micro:bita vysílač a přijímač morseovky. Co se stane když si změním "radio group"? Proč je na konci "clear screen"? Co když tam nebude a pošlu stejný kód za sebou? Jak daleko dokážete vysílat?
  * [Kdo je rychlejší?](https://makecode.microbit.org/_A91LEKbmycxz) - po náhodné době se zobrazí srdíčko. Kdo stiskne tlačítko první, dostane bod. Ale nesmí zmáčknout dříve než se ukáže (Pozn. tohle je těžké).
 
+## MeetEdison
+
+Robot [Edison](https://meetedison.com/) pochází z dílny australské společnosti Microbric. Edison je programovatelný robot. Podporuje tři programovací jazyky (EdBlocks, EdPy a EdScratch) vč. čárových kódů, obsahuje několik vestavných senzorů, dokáže komunikovat s ostatními roboty Edison a je kompatibilní s oblíbenou stavebnicí LEGO.
+
+Největší slabinou robota je způsob nahrávání kódu z počítače. V počítači se program přetvoří do zvuku. Do počítače musíte zasunout kabel který má na jedné straně jack a na druhé straně IR ledku. Zvuk je transformován na IR signály a ty jsou načteny robotem. To má několik úskalí. Jedna musí být zvuk vytažen na maximum. Jakékoliv ztišení může znamenat, že signál nebude dostatečný a přenos se nepodaří. A jelikož se signál na druhé straně kabelu transformuje na infra světlo (tj. neviditelné spektrum), tak nemáte jak ověřit, že kabel je vpořádku. Navíc na mnoha školách je zvuk zakázan administrátorem a děti nemusí mít právo ho zapnout.
+
+V Česku je možné navštívit [workshopy a domluvit si bezplatné zapůjčení](https://www.edhouse.cz/edison).
+
 ## Hry na telefon
 
 Mnoho rodičů se mě ptá na "rozumné" hry na tablet či telefon. Nechtějí nechat hrát děti bezduché střílečky nebo freemium hry jako je farmaření. Zde je seznam her s kterými mám dobré zkušenosti. V abecedním pořadí:
@@ -389,6 +398,8 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 [Dojo Resources](https://projects.raspberrypi.org/en/coderdojo) - zdroje z Coder Dojo
 
 [Slajdy Aktivní učitel](./AktivniUcitel.pdf) - Štěpánka Baierlová a Roman Podlena o tom kde berou inspiraci.
+
+[Akademie programování](https://www.akademieprogramovani.cz/kodovani-na-doma/) - kódování na doma.
 
 ### Bezpečnost na internetu
 
