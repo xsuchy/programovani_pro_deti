@@ -409,6 +409,10 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [Prázdninová škola Lipnice](https://ksvi.mff.cuni.cz/skola/) - určena učitelům informatiky na všech typech škol. Koná se v druhé polovině měsíce srpna na nějakém odlehlém místě (posledních čtyřiadvacet ročníků v Lipnici nad Sázavou).
 
+[Tello](https://www.heliguy.com/blog/2018/04/18/coding-with-the-ryze-tello/) - malý dron, který je možné [koupit](https://www.alza.cz/ryze-tello-d5256900.htm) v mnoha Českých obchodech. Je možné ho programovat pomocí Scratch nebo přes aplikaci v telefonu.
+
+[CGS Papírový počítač](http://mmm.webz.cz/pocitadla/cgs.html) - papírový simulátor registrů v počítači. Původně vyšel v ABC a později ve VTM. [Více informací](https://cs.wikipedia.org/wiki/Papírový_počítač_CGS).
+
 ### Bezpečnost na internetu
 
 Inspirující video o bezpečnosti na internetu a kyberšikaně:
