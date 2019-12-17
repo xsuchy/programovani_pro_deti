@@ -43,6 +43,8 @@ Nemám potřebu vytvářet nějaký nový učební systém na programovaní. Už
 
 Oficiální učebnice a výukové materiály pro ZŠ a SŠ najdete na [iMyšlení](http://imysleni.cz/ucebnice-a-vyukove-materialy/).
 
+Chtěl bych poděkovat mému zaměstnavateli, firmě [Red Hat](https://www.redhat.com/), díky jehož podpoře jsem měl dostatek času sepsat tuto příručku. Také bych chtěl poděkovat svým spolupracovníkům, kteří mi pomáhali na workshopech, které jsme pro děti a učitele pořádali.
+
 ### Licence
 
 [![Licence Creative Commons](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/) Toto dílo podléhá licenci [Creative Commons Uveďte původ 4.0 Mezinárodní License](http://creativecommons.org/licenses/by/4.0/).
