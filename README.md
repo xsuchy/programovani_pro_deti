@@ -73,7 +73,7 @@ Tři včelky na jedné podložce musí vystartovat ve stejný čas. Dojít na p�
 <img src="./images/cubbeto-world-6.png" height="256">
 Dvě včelky vyrazí ze svého místa a musí dojít na parník a zpět. Přitom se musí vyhnout vodě a samozřejmě do sebe nesmí narazit.
 
-[![BeeBot video](http://img.youtube.com/vi/KAwW8uFiwKw/0.jpg)](http://www.youtube.com/watch?v=KAwW8uFiwKw "BeeBot video")
+[![BeeBot video](images/BeeBotVideo.png)](http://www.youtube.com/watch?v=KAwW8uFiwKw "BeeBot video")
 
 ### Velikost třídy
 
