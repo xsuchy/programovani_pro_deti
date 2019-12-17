@@ -96,6 +96,8 @@ U druháků jsem narazil na to, že po 3 měsících už je jedno programovací 
 
 Ačkoliv dělím příručku pro různé věkové třídy, tak toto dělení rozhodně není závazné. A pokud to děti bude bavit, tak můžete samozřejmě používat úlohy určené jak pro mladší, tak i pro starší děti. Většinou to nebude vadit.
 
+Teoreticky je možné postavit celou výuku nad jedním programem. Například lekce v Code.org vám vystačí určitě na celé pololetí. Možná i na celý školní rok. I když se hádanky stupňují a jsou stále těžší, děti stejné prostředí přestane brzy bavit a chtějí zkusit něco jiného. Kdy se tak stane, záleží na konkrétní třídě. Někdy dříve, někdy později. Počítejte průměrně tak po druhé až třetí hodině. Doporučuji vnímat signály od třídy a zavčas zařadit do výuky něco jiného. Rozbít tak monotónost. Není problém se později opět vráti k tomu samému prostředí (např. zmiňované Code.org). Opět tam strávit dvě až tři hodiny a pak se zase přesunout jinam.
+
 ## 1. třída
 
 ### GCompris
@@ -103,19 +105,18 @@ Ačkoliv dělím příručku pro různé věkové třídy, tak toto dělení roz
 Program [GCompris](http://gcompris.net/index-cs.html) obsahuje mnoho edukačních úkolů pro děti ve věku od 2 do 10 let. Je ideální pro seznámení s počítačem a jeho ovládáním.
 
 Instalace:
-* Fedora: `dnf install gcompris gcompris-sound-cs`
-* Ubuntu: `apt-get install gcompris gcompris-sound-cs`
+* Fedora: `dnf install gcompris-qt`
+* Ubuntu: `apt-get install gcompris-qt`
 * Windows: http://gcompris.net/download/
 * MacOS: https://itunes.apple.com/us/app/gcompris-educational-game/id1019161041
 * Android: https://play.google.com/store/apps/details?id=net.gcompris
 
 Program je k dispozici zdarma.
 
-Počítejte s časovou dotací 8 minut na jednu úlohu. Tj. maximálně 5 úloh během jedné vyučovací hodiny.
-Vždy si zopakujte dvě starší lekce z předchozí hodiny (dle vlastního uvážení) a 3 nové.
+Počítejte s časovou dotací cca 5 minut na jednu úlohu. Vždy si zopakujte dvě starší lekce z předchozí hodiny (dle vlastního uvážení) a pak 3-5 nových.
 
 GCompris je možné využít i kdykoliv později při výuce programování - např. když čekáte až přijdou všichni žáci nebo když žák skončí dříve - v tomto případě dětem říkám, že si můžou zahrát něco z "tučnáka" (což je ikona programu GCompris) dle vlastní volby.
-Pokrytí všech vybraných lekcí z GComprisu byste měli zvládnout za 4,5 vyučovací hodiny.
+Pokrytí vybraných lekcí z GComprisu byste měli zvládnout za 2 vyučovací hodiny.
 
 GCompris má administrativní rozhraní, kde můžete nastavit, které úlohy budou žáci vidět a které jim zůstanou skryty. Osobně jsem ale nechával vše odemčené, a žáci si rychle našli úlohy, které odpovídaly jejich aktuálním znalostem a schopnostem.
 
