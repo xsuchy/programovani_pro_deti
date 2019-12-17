@@ -7,25 +7,29 @@ Příručka pro pedagogy a rodiče o výuce programování dětí na prvním stu
   * [Licence](#licence)
 * [Věk žáků](#věk-žáků)
   * [Předškolní děti](#předškolní-děti)
-* [Cubetto](#cubetto)
-* [Bee Bot](#bee-bot)
 * [Velikost třídy](#velikost-třídy)
 * [Učebna a pomůcky](#učebna-a-pomůcky)
-* [GCompris](#gcompris)
-* [Kurz 2 z Code.org](#kurz-2-z-codeorg)
-  * [Bezpečnost na internetu](#bezpečnost-na-internetu)
-* [Scratch](#scratch)
-* [Lightbot](#lightbot)
-* [The Foos](#the-foos)
+* [Začátky](#začátky)
+  * [Cubetto](#cubetto)
+  * [Bee Bot](#bee-bot)
+  * [GCompris](#gcompris)
 * [Offline aktivity](#offline-aktivity)
-* [Kurz 3 z Code.org](#kurz-3-z-codeorg)
-* [Code Combat](#code-combat)
-* [Lego WeDo](#lego-wedo)
-* [BBC Micro:Bit](bbc-microbit)
+* [1. rok]()
+  * [Kurz 2 z Code.org](#kurz-2-z-codeorg)
+    * [Něco o heslech](#něco-o-heslech)
+  * [Scratch](#scratch)
+  * [Lightbot](#lightbot)
+  * [The Foos](#the-foos)
+* [2. rok]()
+  * [Kurz 3 z Code.org](#kurz-3-z-codeorg)
+  * [Code Combat](#code-combat)
+  * [Lego WeDo](#lego-wedo)
+  * [BBC Micro:Bit](bbc-microbit)
 * [Hry na telefon](#hry-na-telefon)
   * [Pro předškolní děti](#pro-předškolní-děti)
   * [Pro školní děti](#pro-školní-děti)
 * [Další zdroje](#další-zdroje)
+  * [Bezpečnost na internetu](#bezpečnost-na-internetu)
 * [Stručný přehled](#další-zdroje)
 * [Volnočasové kroužky](#volnočasové-kroužky)
 
@@ -41,7 +45,7 @@ Oficiální učebnice a výukové materiály pro ZŠ a SŠ najdete na [iMyšlen�
 
 [![Licence Creative Commons](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/) Toto dílo podléhá licenci [Creative Commons Uveďte původ 4.0 Mezinárodní License](http://creativecommons.org/licenses/by/4.0/).
 
-### Věk žáků
+## Věk žáků
 
 Tento text je zaměřen na děti v prvních ročnících základních škol.
 
@@ -55,7 +59,31 @@ Pokud jste dospělák a hledáte jak začít sami, tak vám doporučuji spíše 
 
 U dětí ve věku 5 let a méně zřejmě nelze programování resp. algoritmizaci vyučovat, protože dle [Piageta](https://cs.wikipedia.org/wiki/Jean_Piaget) se nacházejí ve stádiu "názorového (prelogického) myšlení", kdy plně nerespektují logiku. Názorně to můžete vidět na tomto [experimentu](https://www.youtube.com/watch?v=tQLpysTbFso). Toto období dle Piageta trvá až do 7 let. Ale dle mé osobní zkušenosti je možné začít pracovat s nadanými žáky již kolem 5-6 roku. Je nutno dbát na použití pomůcek, které mají okamžitou vizuální vazbu. Např. GCompris pro seznámení se s ovládáním počítače (viz dále) nebo Cubetto či BeeBot.
 
-##### Cubetto
+## Velikost třídy
+
+Zatímco na střední škole lze zvládnout výuku s poloviční třídou (cca 15 dětí), tak menší děti jsou živější a osobně mi přišlo 8 dětí na třídu jako limitní množství. Optimum se mi zdá cca 6 dětí na třídu. Resp. na jednoho učitele. Jelikož děti zpracovávají úlohy samostatně, je možné postavit třídu o 30 dětech na které budou 4 učitelé (resp. kombinace učitel a asistent).
+
+Tato velikost byla ověřena mnoha lektory v různých třídách a kroužcích. Při více jak osmi dětech na lektora se výuka stává frontální. Musí se postupovat v jednotném tempu a čekat na nejslabšího žáka ve třídě a děti taková výuka nebaví.
+
+### Učebna a pomůcky
+ 
+Příručka počítá s počítačovou učebnou. Většinou stačí libovolný OS, protože se bude používat pouze internetový prohlížeč. Pokud se používá nějaká aplikace, tak jsem se snažil vybrat takovou, kterou lze nainstalovat jak na Linux, Apple, tak i na Windows.
+
+## Organizace výuky
+
+U každé úlohy se snažím uvádět časovou dotaci tak, abyste si mohli vytvořit vlastní učební plán. Časová dotace je uváděnná pro 6-8 leté žáky. Pro starší děti můžete tento čas podělit dvěma.
+Čerství prvňáci ještě nejsou zvyklí udržet pozornost delší dobu, takže první úlohy jsou extrémně krátké a často se střídají.
+U druháků jsem narazil na to, že po 3 měsících už je jedno programovací prostředí nudilo, ačkoliv ještě nevyčerpali jeho možnosti. Tomu je vhodné předcházet a raději častěji měnit programovací prostředí a později se k nim opět vracet.
+
+Ačkoliv dělím příručku pro různé věkové třídy, tak toto dělení rozhodně není závazné. A pokud to děti bude bavit, tak můžete samozřejmě používat úlohy určené jak pro mladší, tak i pro starší děti. Většinou to nebude vadit.
+
+Teoreticky je možné postavit celou výuku nad jedním programem. Například lekce v Code.org vám vystačí určitě na celé pololetí. Možná i na celý školní rok. I když se hádanky stupňují a jsou stále těžší, děti stejné prostředí přestane brzy bavit a chtějí zkusit něco jiného. Kdy se tak stane, záleží na konkrétní třídě. Někdy dříve, někdy později. Počítejte průměrně tak po druhé až třetí hodině. Doporučuji vnímat signály od třídy a zavčas zařadit do výuky něco jiného. Rozbít tak monotónost. Není problém se později opět vráti k tomu samému prostředí (např. zmiňované Code.org). Opět tam strávit dvě až tři hodiny a pak se zase přesunout jinam.
+
+## Začátky
+
+V této kapitolce jsou prvky, které zvládnou úplní začátečnící. Např. Cubetta jsem úspěšně vyzkoušel s předškolní skupinou v mateřské školce. Žákům na prvním stupni ZŠ zařazuji tyto prvky na zpestření během prvního pololetí. Jakkoliv se jedná o atraktivní věci, tak jsou velmi jednoduché a děti velmi rychle omrzí. Takže např. s Cubettem a dětmi z prvního stupně je vidět na začátku hodiny velké nadšení, ale na konci hodiny už mohou být viditelné příznaky blížící se nudy.
+
+### Cubetto
 
 [Cubetto](https://www.primotoys.com/) je robot-želva programovaný zasouváním fyzických kostiček do dřevěného rámu. Žádná obrazovka, žádna klávesnice. Jenom dřevo a plast. [Návody do hodin](https://www.primotoys.com/resources/).
 
@@ -67,7 +95,7 @@ Pro úplnost dodám, že existují dva další bloky (byli distribuovány jako p
 
 Ke Cubettovi se dodávají hrací plátna, po kterých se Cubetto může pohybovat - jeden jeho krok, je přesně jeden čtverece na plátně. V robotovi není žádné optické čidlo, které by rozpoznávalo něco na tomto plátně. Cubetto se může stejně dobře pohybovat po čisté zemi nebo po papíru, který si pokreslíte sami. Plátna od Primotoys vám akorát ulehčí vymýšlení příběhů. Můžete zadávat úlohy "dojdi ze zámku na kopec, ale vyhni se vodě", "dojdi od sfingy k pyramidě" nebo "dojdi z planety na hvězdu, ale vyhni se sopce a meteorům".
 
-Cubetta je možno zakoupit buď od [vyuka-vzdelavani.cz](https://www.vyuka-vzdelavani.cz/cubetto.html). Existují i levnější hračky podobného principu, ale co jsem vyzkoušel, tak mají problémy s otočením o přesně 90°, takže po několika krocích jedou úplně mimo.
+Cubetta je možno zakoupit buď od [vyuka-vzdelavani.cz](https://www.vyuka-vzdelavani.cz/cubetto.html). Je poměrně drahý. Pro základní školy bude asi vhodnější Bee Bot, ale pro mateřské školy, ale to zřejmě jediné rozumně fungující pomůcka. Existují i levnější hračky podobného principu, ale co jsem vyzkoušel, tak mají problémy s otočením o přesně 90°, takže po několika krocích jedou úplně mimo.
 
 [![Cubetto video](images/CubettoVideo.png)](http://www.youtube.com/watch?v=JWHUiYpsbnI "Cubetto video")
 
@@ -96,7 +124,7 @@ Ať děti zkusí obkroužit čtverec 4x4. Zjistí, že jim nestačí dílky a m�
 
 Osobně mi přijde vizuální zpětná vazba lepší u Cubetta, ale Bee-Bot dokáže být levnější pokud nakupujete více kusů pro celou třídu. Výrobce je [TTS Group z UK](http://www.tts-group.co.uk/primary/ict-computing/bee-bot-blue-bot-pro-bot/), ale je to paradoxně těžké od něj objednat v malých objemech. V Česku doporučuji objednávat např. od [vyuka-vzdelavani.cz](http://www.vyuka-vzdelavani.cz/vzdelavaci-pomucky/bee-bot.html).
 
-Velkou výhodou je, že Bee Bot a Cubetto má stejnou délku kroku, takže jejich podložky jsou zaměnitelné. Například na podložce Cubetta je možné s Bee Botem řešit tyto úlohy:
+Velkou výhodou je, že Bee Bot a Cubetto má stejnou délku kroku, takže jejich podložky jsou zaměnitelné. Délka kroku je 20 cm. Takže velikost políčka je 20x20cm. Můžete si tak vlastní podložky nakreslit na balící papír.  Například na podložce Cubetta je možné s Bee Botem řešit tyto úlohy:
 
 <img src="./images/cubbeto-world-5.png" height="256">
 Tři včelky na jedné podložce musí vystartovat ve stejný čas. Dojít na příslušné políčko a přitom nesmí jet přes vodu nebo přes hory. A nesmí se srazit. Pokud žák hlásí, že on už má program hotový, ale jeho spolužáci ne, tak jim zdůrazněte, že záleží na celku a musí být všechny programy vpořádku. Ať poradí spolužákům (ale neprogramuje za ně). Tak aby celý tým splnil úkol. Nápověda: při tomto úkolu je vhodné použít pauzy. Jako výzvu je možné udělat stejné zadání, ale bez použití pauzy.
@@ -106,25 +134,6 @@ Dvě včelky vyrazí ze svého místa a musí dojít na parník a zpět. Přitom
 
 [![BeeBot video](images/BeeBotVideo.png)](http://www.youtube.com/watch?v=KAwW8uFiwKw "BeeBot video")
 
-### Velikost třídy
-
-Zatímco na střední škole lze zvládnout výuku s poloviční třídou (cca 15 dětí), tak menší děti jsou živější a osobně mi přišlo 8 dětí na třídu jako limitní množství. Optimum se mi zdá cca 6 dětí na třídu. Resp. na jednoho učitele. Jelikož děti zpracovávají úlohy samostatně, je možné postavit třídu o 30 dětech na které budou 4 učitelé (resp. kombinace učitel a asistent).
-
-Tato velikost byla ověřena mnoha lektory v různých třídách a kroužcích. Při více jak osmi dětech na lektora se výuka stává frontální. Musí se postupovat v jednotném tempu a čekat na nejslabšího žáka ve třídě a děti taková výuka nebaví.
-
-### Učebna a pomůcky
-
-Příručka počítá s počítačovou učebnou. Většinou stačí libovolný OS, protože se bude používat pouze internetový prohlížeč. Pokud se používá nějaká aplikace, tak jsem se snažil vybrat takovou, kterou lze nainstalovat jak na Linux, Apple, tak i na Windows.
-
-### Organizace výuky
-
-U každé úlohy se snažím uvádět časovou dotaci tak, abyste si mohli vytvořit vlastní učební plán. Časová dotace je uváděnná pro 6-8 leté žáky. Pro starší děti můžete tento čas podělit dvěma.
-Čerství prvňáci ještě nejsou zvyklí udržet pozornost delší dobu, takže první úlohy jsou extrémně krátké a často se střídají.
-U druháků jsem narazil na to, že po 3 měsících už je jedno programovací prostředí nudilo, ačkoliv ještě nevyčerpali jeho možnosti. Tomu je vhodné předcházet a raději častěji měnit programovací prostředí a později se k nim opět vracet.
-
-Ačkoliv dělím příručku pro různé věkové třídy, tak toto dělení rozhodně není závazné. A pokud to děti bude bavit, tak můžete samozřejmě používat úlohy určené jak pro mladší, tak i pro starší děti. Většinou to nebude vadit.
-
-Teoreticky je možné postavit celou výuku nad jedním programem. Například lekce v Code.org vám vystačí určitě na celé pololetí. Možná i na celý školní rok. I když se hádanky stupňují a jsou stále těžší, děti stejné prostředí přestane brzy bavit a chtějí zkusit něco jiného. Kdy se tak stane, záleží na konkrétní třídě. Někdy dříve, někdy později. Počítejte průměrně tak po druhé až třetí hodině. Doporučuji vnímat signály od třídy a zavčas zařadit do výuky něco jiného. Rozbít tak monotónost. Není problém se později opět vráti k tomu samému prostředí (např. zmiňované Code.org). Opět tam strávit dvě až tři hodiny a pak se zase přesunout jinam.
 
 ## 1. třída
 
@@ -186,6 +195,14 @@ GCompris má administrativní rozhraní, kde můžete nastavit, které úlohy bu
 
 <img src="./images/gcompris-posouvani-bloku.png" height="120" alt="panda - autíčko"> *Posouvání bloků.* Jednoduchý problém k vyřešení. (8 minut)
 
+### Offline aktivity
+
+Je dobré občas proložit hodinu offline aktivitou. Zde naleznete [seznam nápadů na offline aktivity na Code.org](https://code.org/curriculum/unplugged). Je vhodné mít nastudovanou alespoň jednu aktivitu do zásoby, tak abyste mohli uskutečnit hodinu i když nenadále vypadne elektřina nebo internet. Některé aktivity obsahují velmi silný [aha zážitek](https://cs.wikipedia.org/wiki/Aha_efekt).
+
+Po dvou až třech lekcích se Scratch doporučuji zařadit následující aktivitu: Děti se postaví do řady do jednoho třídy. První bude dělat kocourka ze Scratche a bude poslouchat to co mu říká žák za ním a bude to přesně vykonávat. Druhý žák má za úkol zadávat povely a dovést prvního žáka do protilehlého rohu (diagonálně). Povely musí být jednoduché - krok vpřed, otoč se vpravo... Dohlédněte aby první student vykonával příkazy přesně. Pokud v důsledku povelu má narazit do židle nebo lavice, tak by do ní měl narazit. Při této aktivitě si žáci uvědomí, že počítač vykoná přesně to co mu zadáte a nic víc. Aktivitu můžete buď zjednodušit (přejít z bodu do bodu a mezi nimi je jenom jedna židle) nebo ztížit (více překážek, hodně otoček).
+
+Druhou aktivitou, kterou určitě doporučím je [programování na milimetrovém papíře](https://studio.code.org/s/course2/stage/1/puzzle/1). Tato aktivita málokdy vyjde. O to větší je to zážitek. Při zápisu děti velmi často vytvoří nové vlastní značky. Značky nezapisují po řádcích a zleva doprava. A pokud se to už někomu povede správně zapsat, tak druhý žák špatně zápis špatně interpretuje. Zde si žáci uvědomí, že to co je zřejmé pro ně. Nemusí být zřejmé pro druhé.
+
 ### Kurz 2 z Code.org
 
 V tuto chvíli se děti už mohou vrhnout na vlastní programování. Začněte s kurzy se [Studio.Code.org](https://studio.code.org/). Nyní záleží na tom, jak moc dobře děti umí číst. Pokud umí číst po písmenech, tak můžete začít rovnou u [kurzu 2](https://studio.code.org/s/course2). Zde je vyžadována znalost čtení, protože příkazy jsou napsané textově a děti je (jenom) přetahují. Ale příkazů není mnoho a děti mnohdy "podvádějí" a pamatují si, co příkaz dělá, podle prvního písmena. Pokud si myslíte, že děti by to čtení nezvládly, tak můžete zkusit začít s [kurzem 1](https://studio.code.org/s/course1), který využívá intuitivních ikonek, ale jinak jsou oba kurzy velmi podobné - po jejich dokončení by děti měly chápat posloupnost příkazů a cykly.
@@ -200,7 +217,7 @@ Kurzy na Code.org umožnují sledovat váš postup (které úlohy jste úspěšn
 
 A jak postupovat s přihlašováním ve školní třídě? Nejjednodušší je zřídit každému dítěti školní email. Pokud byste zřídili email na nějakém freemailu, tak narazíte na to, že děti relativně často zapomenou své heslo a vy mu ho musíte obnovit. Což je jednak časově náročné a také musíte porušit bezpečností pravidlo (např. znáte jeho bezpečností otázku/odpověď). Pokud vaše škola nemá vlastní emaily, tak doporučuji [Google Apps for Education](https://www.google.com/edu/products/productivity-tools/), které vám umožní zprovoznit email (kalendář a další služby) na vaší školní doméně. Vy jako učitel můžete kdykoliv vytvářet libovolný počet uživatelů a lehce jim resetovat hesla. Celé to poskytuje Google zdarma a nastavení nevyžaduje velké technické dovednosti.
 
-#### Bezpečnost na internetu
+#### Něco o heslech
 
 K emailu si děti musí vymyslet heslo. Nejlepší je, když si vymyslí krátkou větu ze čtyř slov - např. "Moje heslo je silne", "Nas dum je zeleny". Bez diakritiky a bez speciálních znamének. Takové heslo je jednodušší k zapamatování a těžší k uhodnutí (viz [XKCD](https://xkcd.com/936/)).
 
@@ -236,14 +253,6 @@ Můžete také použít [projekty](http://projects.codeclubworld.org/) z [Code C
 ### The Foos
 
 Z podobného soudku jako Lightbot je i [The Foos](http://thefoos.com/). Odlehčenou verzi je možné hrát přímo v internetovém prohlížeči, ale plnohodnotnou verzi je nutné hrát na tabletu (iPad nebo Android). Hra je zdarma, ale obsahuje možná až moc gamifikace, takže se dle mého názoru na školní výuku nehodí a opět je to spíše vhodný doplněk na domácí hraní-programování.
-
-### Offline aktivity
-
-Je dobré občas proložit hodinu offline aktivitou. Zde naleznete [seznam nápadů na offline aktivity na Code.org](https://code.org/curriculum/unplugged). Je vhodné mít nastudovanou alespoň jednu aktivitu do zásoby, tak abyste mohli uskutečnit hodinu i když nenadále vypadne elektřina nebo internet. Některé aktivity obsahují velmi silný [aha zážitek](https://cs.wikipedia.org/wiki/Aha_efekt).
-
-Po dvou až třech lekcích se Scratch doporučuji zařadit následující aktivitu: Děti se postaví do řady do jednoho třídy. První bude dělat kocourka ze Scratche a bude poslouchat to co mu říká žák za ním a bude to přesně vykonávat. Druhý žák má za úkol zadávat povely a dovést prvního žáka do protilehlého rohu (diagonálně). Povely musí být jednoduché - krok vpřed, otoč se vpravo... Dohlédněte aby první student vykonával příkazy přesně. Pokud v důsledku povelu má narazit do židle nebo lavice, tak by do ní měl narazit. Při této aktivitě si žáci uvědomí, že počítač vykoná přesně to co mu zadáte a nic víc. Aktivitu můžete buď zjednodušit (přejít z bodu do bodu a mezi nimi je jenom jedna židle) nebo ztížit (více překážek, hodně otoček).
-
-Druhou aktivitou, kterou určitě doporučím je [programování na milimetrovém papíře](https://studio.code.org/s/course2/stage/1/puzzle/1). Tato aktivita málokdy vyjde. O to větší je to zážitek. Při zápisu děti velmi často vytvoří nové vlastní značky. Značky nezapisují po řádcích a zleva doprava. A pokud se to už někomu povede správně zapsat, tak druhý žák špatně zápis špatně interpretuje. Zde si žáci uvědomí, že to co je zřejmé pro ně. Nemusí být zřejmé pro druhé.
 
 ## 2. třída
 
@@ -373,6 +382,16 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 [Dojo Resources](https://projects.raspberrypi.org/en/coderdojo) - zdroje z Coder Dojo
 
 [Slajdy Aktivní učitel](./AktivniUcitel.pdf) - Štěpánka Baierlová a Roman Podlena o tom kde berou inspiraci.
+
+### Bezpečnost na internetu
+
+Inspirující video o bezpečnosti na internetu a kyberšikaně:
+
+[Řekni NE!](https://www.youtube.com/watch?v=UKvnhqSOr4g) - Celoevropská kampaň Evropského policejního úřadu proti zneužívání dětí online. Dle expertů se jedná o příběh, který je relativně běžný ve skutečném světě.
+
+[#martyisdead](https://www.mall.tv/martyisdead) - 8dílný seriál o kyberšikaně, která skončila smrtí.
+
+[Shut Up and Dance](https://en.wikipedia.org/wiki/Shut_Up_and_Dance_(Black_Mirror)) - třetí díl třetí série seriálu Black Mirror. Více brutálnější. Pro první stupeň nevhodné. Pro druhý stupeň vhodné pokud bude doprovázený společnou diskusí.
 
 ## Stručný přehled
 
