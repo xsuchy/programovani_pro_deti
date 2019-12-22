@@ -39,8 +39,6 @@ Příručka pro pedagogy a rodiče o výuce programování dětí na prvním stu
 * [Stručný přehled](#další-zdroje)
 * [Volnočasové kroužky](#volnočasové-kroužky)
 
-{:toc max_level=3 }
-
 ## O příručce
 
 Tento text není a nebude učebnicí programovaní a není pro děti. Slouží pro rodiče, vedoucí programátorských kroužků a pro učitele informatiky. Je o tom jak učit malé děti programovat, jak je naučit algoritmizovat a pochopit základní programátorské dovednosti. Není to ani příručka, podle které by se dalo postupovat krok za krokem, protože každé dítě a každá třída je vysoce individuální. Zkusím zde popsat různé možnosti výuky a jejich kombinace a uvést nezbytné detaily, které vám umožní vytvořit si vlastní učební plán. Jedná se zkušenosti mé i o zkušenosti dalších učitelů a rodičů. A samozřejmě uvítám, pokud se se mnou podělíte o svoje zkušenosti. Můžete mi psát na miroslav@suchy.cz. Stejně tak budu rád když mi dáte vědět, zda jste tuto příručku použili a jak se vám líbila.
