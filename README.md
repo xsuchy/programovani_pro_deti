@@ -15,14 +15,15 @@ Příručka pro pedagogy a rodiče o výuce programování dětí na prvním stu
   * [Bee Bot](#bee-bot)
   * [GCompris](#gcompris)
 * [Offline aktivity](#offline-aktivity)
-* [1. rok]()
+  * [Deskové hry](#deskové-hry)
+* [1. rok](#1-rok)
   * [Kurz 2 z Code.org](#kurz-2-z-codeorg)
     * [Něco o heslech](#něco-o-heslech)
   * [Umíme Programovat](#umíme-programovat)
   * [Scratch](#scratch)
   * [Lightbot](#lightbot)
   * [The Foos](#the-foos)
-* [2. rok]()
+* [2. rok](#2-rok)
   * [Kurz 3 z Code.org](#kurz-3-z-codeorg)
   * [Code Combat](#code-combat)
   * [Lego WeDo](#lego-wedo)
@@ -217,6 +218,12 @@ Velmi oblíbenou aktivitou je "Přesné plnění instrukcí". Vše zřejmě odst
 
 Během jedné hodiny jsem vždy spotřeboval dvě balení chleba - nezáleží na tom, kolik máte dětí.
 
+### Deskové hry
+
+[RoboRally](http://www.zatrolene-hry.cz/spolecenska-hra/roborally-111/) - desková hra, kde plánujete pohyb svého robota, ale je třeba brát v úvahu pohyby robotů ostatních hráčů. Hra je sice uvedena jako 12+, ale děti, které si vyzkoušeli nějaké programování (např. Hour of Code) ji zvládají. Já ji obvykle hrávám ve zjednodušené formě, kdy ponechávám pouze pohyby po ploše a vynechávám dobíjení apod.
+                                                                                                                       
+[Ricochet Robots](http://www.zatrolene-hry.cz/spolecenska-hra/ricochet-robots-315/) - desková hra, která je naprosto úžasná do kroužků. Může ji hrát libovolný počet hráčů (kolik se jich vleze kolem jednoho stolu) a všichni hrají současně, takže nevzniká prostoj, kdy se děti nudí. Na začátku se náhodně rozestaví roboti na hrací ploše (takže je spoustu herních konfigurací) a pak se losuje který robot se má kam dostat. Roboti nemají brzdu, takže se mohou zastavit jenom o zeď, okraj plochy nebo o jiného robota. Takže cesta k cíli není přímočará a někdy dost komplikovaná a existuje mnoho možných cest. Hráči se všichni najednou snaží najít (nejkratší) cestu do cíle (už jsem říkal, že je to tichá hra?). Až někdo zahlásí, že našel cestu (např. na 5 tahů), tak se spustí přesípací hodiny a ještě minutu mají ostatní hráči šanci najít cestu. Buď kratší, nebo i delší pro případ, že první hráč nakonec neprokáže, že by se jednalo o správnou cestu (což se s dětmi dost často stává).
+
 ## 1. rok
 
 V této části jsou aktivity, které dělám s dětmi během jejich prvního roku výuky. Nezáleží jestli mají 7 let. Nebo zda mají 11 roků. Je to prostě jejich první seznámení s algoritmizací.
@@ -381,11 +388,6 @@ A cokoliv od [Amanita Design](https://play.google.com/store/apps/dev?id=77452680
 ## Další zdroje
 
 Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
-
-
-[RoboRally](http://www.zatrolene-hry.cz/spolecenska-hra/roborally-111/) - desková hra, kde plánujete pohyb svého robota, ale je třeba brát v úvahu pohyby robotů ostatních hráčů. Hra je sice uvedena jako 12+, ale děti, které si vyzkoušeli nějaké programování (např. Hour of Code) ji zvládají.
-
-[Ricochet Robots](http://www.zatrolene-hry.cz/spolecenska-hra/ricochet-robots-315/) - desková hra, která je naprosto úžasná do kroužků. Může ji hrát libovolný počet hráčů (kolik se jich vleze kolem jednoho stolu) a všichni hrají současně, takže nevzniká prostoj, kdy se děti nudí. Na začátku se náhodně rozestaví roboti na hrací ploše (takže je spoustu herních konfigurací) a pak se losuje který robot se má kam dostat. Roboti nemají brzdu, takže se mohou zastavit jenom o zeď, okraj plochy nebo o jiného robota. Takže cesta k cíli není přímočará a někdy dost komplikovaná a existuje mnoho možných cest. Hráči se všichni najednou snaží najít (nejkratší) cestu do cíle (už jsem říkal, že je to tichá hra?). Až někdo zahlásí, že našel cestu (např. na 5 tahů), tak se spustí přesípací hodiny a ještě minutu mají ostatní hráči šanci najít cestu. Buď kratší, nebo i delší pro případ, že první hráč nakonec neprokáže, že by se jednalo o správnou cestu (což se s dětmi dost často stává).
 
 [Baltík](http://www.sgpsys.com/cz/) - program, který byl vzorem pro Scratch. Bohužel je dostupný jenom pro Windows. Jeho ovládání je mnohem složitější a licence je poměrně drahá.
 
