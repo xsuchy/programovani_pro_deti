@@ -33,6 +33,7 @@ Příručka pro pedagogy a rodiče o výuce programování dětí na prvním stu
   * [Pro předškolní děti](#pro-předškolní-děti)
   * [Pro školní děti](#pro-školní-děti)
 * [Další zdroje](#další-zdroje)
+  * [Lego](#lego)
   * [Bezpečnost na internetu](#bezpečnost-na-internetu)
   * [Konference](#konference)
   * [Soutěže](#soutěže)
@@ -400,8 +401,6 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [MIT App Inventor](http://appinventor.mit.edu/explore/) - je webové aplikace vytvořená pomocí Blockly, která vám umožní vizuálním stylem vytvořit aplikace pro telefony a tablety s Androidem. Výslednou aplikaci je možné přenést do telefonu oskenováním QR kódu. Podobně vypadá i [AppLab](https://code.org/educate/applab), ale ten neumožňuje přenést výslednou aplikaci na české telefony.
 
-[Lego MindStorms](http://mindstorms.lego.com/) - vývojově navazuje Lego WeDo. Má více sensorů a motorů, lze jich zapojit a ovládat více najednou. Programování je už složitější a vhodné pro děti od 13 let. Pro mladší žáky existuje blocky [Make Code pro Lego EV3](https://makecode.mindstorms.com/) - stačí mít na EV3 kostce nejnovější firmware a když vložíte SD kartu, připojí se vám jako USB drive a program do kostky stačí stáhnout.
-
 [GEG](http://www.gug.cz/cs/geg) - skupina pedagogů kolem GoogleApps zaměřující se spíše na uživatelské ovládání počítačů (vytváření videií, dokumentů...).
 
 [Cube Composer](http://david-peter.de/cube-composer/) - úvod do funkcionálního programování formou hádanek. Anglicky, spíše pro starší.
@@ -412,10 +411,7 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [CS First](https://csfirst.withgoogle.com) od Google - plány lekcí do Scratche od Google.
 
-
 [Učebnice informatiky](http://imysleni.cz/ucebnice-a-vyukove-materialy/)
-
-[Lego Coding Express](https://www.zive.cz/clanky/lego-chce-s-vlackem-coding-express-naucit-nejmensi-deti-zakladum-kodovani/sc-3-a-194812/default.aspx)
 
 [NÚV: Návrh revizí rámcových vzdělávacích programů v oblasti informatiky a informačních a komunikačních technologií ](http://www.pedagogicke.info/2018/08/nuv-navrh-revizi-ramcovych-vzdelavacich.html)
 
@@ -444,6 +440,14 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 [Binary Counter](https://www.youtube.com/watch?v=zELAfmp3fXY) - pomůcka na demostraci dvojkové soustavy.
 
 [Robotrain](http://robodoupe.cz/2019/robotrain-masinka/) - edukativní model robotizovaného skladu.
+
+### Lego
+
+[Lego Coding Express](https://www.zive.cz/clanky/lego-chce-s-vlackem-coding-express-naucit-nejmensi-deti-zakladum-kodovani/sc-3-a-194812/default.aspx) - možno zakoupit v [Eduxe](https://www.eduxe.cz/p/352/45025-coding-express).
+
+[Lego MindStorms](http://mindstorms.lego.com/) - vývojově navazuje Lego WeDo. Má více sensorů a motorů, lze jich zapojit a ovládat více najednou. Programování je už složitější a vhodné pro děti od 13 let. Pro mladší žáky existuje blocky [Make Code pro Lego EV3](https://makecode.mindstorms.com/) - stačí mít na EV3 kostce nejnovější firmware a když vložíte SD kartu, připojí se vám jako USB drive a program do kostky stačí stáhnout.
+
+[Lego Boost](https://www.lego.com/cs-cz/themes/boost) - stavebnice rozkročena mezi WeDo a MindStorm. Určena pro děti ve věku 7-12 let. Má více sensorů a motorů než WeDo. Ovládá se blokovým jazykem z aplikace Lega. Ale možno pomocí Scratch Link programovat i ve Scratchi. Oproti WeDo obsahuje i velké množství základních kostiček.
 
 ### Bezpečnost na internetu
 
