@@ -23,6 +23,7 @@ Příručka pro pedagogy a rodiče o výuce programování dětí na prvním stu
   * [Scratch](#scratch)
   * [Lightbot](#lightbot)
   * [The Foos](#the-foos)
+  * [Ozobot](#ozobot)
 * [2. rok](#2-rok)
   * [Kurz 3 z Code.org](#kurz-3-z-codeorg)
   * [Code Combat](#code-combat)
