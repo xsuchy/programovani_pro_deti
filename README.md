@@ -211,7 +211,11 @@ Po dvou až třech lekcích se Scratch doporučuji zařadit následující aktiv
 
 Druhou aktivitou, kterou určitě doporučím je [programování na milimetrovém papíře](https://studio.code.org/s/course2/stage/1/puzzle/1). Tato aktivita málokdy vyjde. O to větší je to zážitek. Při zápisu děti velmi často vytvoří nové vlastní značky. Značky nezapisují po řádcích a zleva doprava. A pokud se to už někomu povede správně zapsat, tak druhý žák špatně zápis špatně interpretuje. Zde si žáci uvědomí, že to co je zřejmé pro ně. Nemusí být zřejmé pro druhé.
 
+Podobné je i [How Computers Work](http://cse4k12.org/how_computers_work/index.html) kde si žáci rozdělí úlohy displeje, CPU a ALU a společně interpretují program.
+
 Velkým zdrojem inspirace je i kniha [Computer Science Unplugged](https://classic.csunplugged.org/books/), jejíž [český překlad](http://www.ceskaskola.cz/2014/09/e-kniha-pro-vas-computer-science.html) je zdarma ke stažení.
+
+Pro pobavení si můžete složit a hrát na [papírovém modelu počítače Zenit](http://www.papirovaarcheologie.cz/minipocitac-zenit/). Nebo [Papírový počítač CGS](http://mmm.webz.cz/pocitadla/cgs.html) - papírový simulátor registrů v počítači. Ten původně vyšel v ABC a později ve VTM. [Více informací](https://cs.wikipedia.org/wiki/Papírový_počítač_CGS).
 
 Velmi oblíbenou aktivitou je "Přesné plnění instrukcí". Vše zřejmě odstartoval Josh Darnit. Doporučuji shlédnout jeho [playlist Exact Instructions Challenge](https://www.youtube.com/playlist?list=PL2tgThFV6OzlR3yFLtH1m8LAzzl-JVrFR). Já se inspiroval jeho [návodem jak vytvořit sendwitch](https://www.youtube.com/watch?v=cDA3_5982h8&list=PL2tgThFV6OzlR3yFLtH1m8LAzzl-JVrFR&index=2&t=0s) a natočil kousek mojí hodiny:
 
@@ -224,6 +228,7 @@ Během jedné hodiny jsem vždy spotřeboval dvě balení chleba - nezáleží n
 [RoboRally](http://www.zatrolene-hry.cz/spolecenska-hra/roborally-111/) - desková hra, kde plánujete pohyb svého robota, ale je třeba brát v úvahu pohyby robotů ostatních hráčů. Hra je sice uvedena jako 12+, ale děti, které si vyzkoušeli nějaké programování (např. Hour of Code) ji zvládají. Já ji obvykle hrávám ve zjednodušené formě, kdy ponechávám pouze pohyby po ploše a vynechávám dobíjení apod.
                                                                                                                        
 [Ricochet Robots](http://www.zatrolene-hry.cz/spolecenska-hra/ricochet-robots-315/) - desková hra, která je naprosto úžasná do kroužků. Může ji hrát libovolný počet hráčů (kolik se jich vleze kolem jednoho stolu) a všichni hrají současně, takže nevzniká prostoj, kdy se děti nudí. Na začátku se náhodně rozestaví roboti na hrací ploše (takže je spoustu herních konfigurací) a pak se losuje který robot se má kam dostat. Roboti nemají brzdu, takže se mohou zastavit jenom o zeď, okraj plochy nebo o jiného robota. Takže cesta k cíli není přímočará a někdy dost komplikovaná a existuje mnoho možných cest. Hráči se všichni najednou snaží najít (nejkratší) cestu do cíle (už jsem říkal, že je to tichá hra?). Až někdo zahlásí, že našel cestu (např. na 5 tahů), tak se spustí přesípací hodiny a ještě minutu mají ostatní hráči šanci najít cestu. Buď kratší, nebo i delší pro případ, že první hráč nakonec neprokáže, že by se jednalo o správnou cestu (což se s dětmi dost často stává).
+
 
 ## 1. rok
 
@@ -413,8 +418,6 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 [Binary Counter](https://www.youtube.com/watch?v=zELAfmp3fXY) - pomůcka na demostraci dvojkové soustavy.
 
 [Blockly](https://developers.google.com/blockly/) - knihovna pro vizuální programování jako je Code.org a Scratch. Pomocí Blockly můžete vytvářet vlastní kurzy podobně jako na Code.org. Ale i složitější rozhraní jako je např. programování jednočipů nebo telefonů.
-
-[CGS Papírový počítač](http://mmm.webz.cz/pocitadla/cgs.html) - papírový simulátor registrů v počítači. Původně vyšel v ABC a později ve VTM. [Více informací](https://cs.wikipedia.org/wiki/Papírový_počítač_CGS).
 
 [CS First](https://csfirst.withgoogle.com) od Google - plány lekcí do Scratche od Google.
 
