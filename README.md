@@ -343,6 +343,7 @@ K dispozici je i mnoho rozšíření:
  * [Inventor sada](http://www.megarobot.cz/index.php?route=product/product&path=118&product_id=418) - extension board s nepájivým polem a vynikající příručkou plnou příkladů a s potřebnými elektronickými součástky v krabici
  * [různé](http://www.megarobot.cz/index.php?route=product/product&path=118&product_id=429) [bugginy](http://www.megarobot.cz/index.php?route=product/product&path=118&product_id=425) - ale nemám s nimi moc dobré zkušenosti. Ta [první](http://www.megarobot.cz/index.php?route=product/product&path=118&product_id=429) vyžaduje pájení a u obou je netriviální zvládnout otočení o přesný úhel.
  * [mnoho různých senzorů a displejů](https://www.kitronik.co.uk/microbit.html?cat=199&limit=30) od Kitroniku. A různě po internetech i od jiných výrobců.
+ * [Experiment Kit](https://www.hwkitchen.cz/bbc-microbit-experiment-kit/)
 
 <a href="https://www.codeclubprojects.org/en-GB/microbit/">Výukové projekty</a> od CodeClub.
 
