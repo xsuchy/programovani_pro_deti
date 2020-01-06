@@ -290,6 +290,12 @@ Můžete také použít [projekty](http://projects.codeclubworld.org/) z [Code C
 
 Z podobného soudku jako Lightbot je i [The Foos](http://thefoos.com/). Odlehčenou verzi je možné hrát přímo v internetovém prohlížeči, ale plnohodnotnou verzi je nutné hrát na tabletu (iPad nebo Android). Hra je zdarma, ale obsahuje možná až moc gamifikace, takže se dle mého názoru na školní výuku nehodí a opět je to spíše vhodný doplněk na domácí hraní-programování.
 
+### Ozobot
+
+[OzoBot](http://ozobot.com/) je robůtek, který sleduje čáru. Různé vzory barev na čáře fungují jako příkazy, takže robůtka můžete programovat čistě tužkou a papírem. [Rezenze](https://www.youtube.com/watch?v=Aw_qJp6jm8I). [Materiály pro učitele](http://ozobot.com/stem-education/stem-lessons). Pomocí [OzoBlockly](http://ozoblockly.com/) můžete robůtka naprogramovat podobně jako ve Scratchi a program do něj flashnout blikáním přes obrazovku. B ([howto](https://www.youtube.com/watch?v=fwIrAzZfvRc)) - [materiály do hodin](https://portal.ozobot.com/lessons), [puzzle](https://edu-sense.com/pl/produkty#cat-puzzle), [české materiály](http://ozobot.sandofky.cz/), upravené [začínáme s Ozoboty](ozobot/BitEvo_edit.pdf) se zvýrazněným textem pro lepší tisk. Lze koupit ve dvou variantách: [Ozobot 2.0 Bit](https://www.vyuka-vzdelavani.cz/ozobot-bit-2-0-titanove-cerny.html), který základním modelem. Z mé zkušenosti funguje jenom pomocí kreslení čar. Programování přes OzoBlockly mi fungovalo jenom na iPadu. Kdekoliv jinde (Androdidy, monitory, laptopy) přenos po pár sekundách spadnul. Pokročilejší - a dražší - je [Ozobot Evo](https://www.vyuka-vzdelavani.cz/ozobot-evo-bily.html), který umí komunikovat přes Bluetooth, má více sensorů na sledování čar a dva infračervené sensory vpředu na detekci překážek. K dostání je bezproblému v mnoha českých obchodech. 
+
+V praxi je třeba vychytat jaké fixy vám budou sedět. Nejjistější jsou originální fixy dodávané pro Ozobota, ale Centropeny se šikmou špičkou fungují velmi dobře. K dostání je i [dřevěné puzzle](https://www.vyuka-vzdelavani.cz/ozobot-drevene-puzzle.html) s nekreslenými čarami.
+
 ## 2. třída
 
 Toto jsou aktivity, které s nimi dělám během jejich druhého roku seznamování s algoritmizací. Dle úvážení lektora můžete aktivitu nasadit i dříve. Zejména pokud se jedná o věkově starší žáky.
@@ -321,6 +327,16 @@ Lego WeDo je nutné mít připojeno k počítači USB kabelem. Tohle omezení u�
 ### BBC Micro:Bit
 
 [BBC Micro:Bit](http://microbit.org/) - je jednočipový počítač specialně navržený pro 10+ děti. Ve Velké Británii je distribuován zdarma všem dětem v 7. třídě (odpovídá naší 5-6. třídě). Počítač vypadá jako malá destička a stojí 12 liber (cca 350 Kč). Je vybaven procesorem ARM. Obsahuje pole 5x5 diod na kterém je možné zobrazovat piktogramy nebo text. Má dvě tlačítka a 22 elektrických pinů. Navíc ještě kompas, akcelerometr, USB a bluetooth rozhraní. K počítači se připojí pomocí USB kabelu a operační systém ho vidí jako disk (mass-storage). Ve <a href="http://microbit.org/code/">webovém editoru</a> (doporučuji začít s CK Javascript nebo Microsoft Block Editor) vytvoříte program a po kompilaci si můžete stáhnout HEX soubor. Ten uložíte na ten disk (micro:bitu). Micro:bit si automaticky načte nový firmware z tohoto souboru a restartuje se. Aplikace je možné vytvářet i z mobilu (<a href="https://play.google.com/store/apps/details?id=com.samsung.microbit">GooglePlay</a>) a nahrávat bezdrátově přes bluetooth - ovšem není to moc komfortní. K dostání je v <a href="https://kitronik.co.uk/bbc-micro-bit-accessories/bbc-micro-bit.html">Kitronik</a> nebo v Česku u [Raselu](https://www.rasel.cz/qx69D/micro%3Abit), [MegaRobot](http://www.megarobot.cz/index.php?route=product/category&path=118) nebo [RPishop](http://rpishop.cz/194-bbc-microbit).
+
+K dispozici je i mnoho rozšíření:
+
+ * [SnapBit](https://snapbit.org/) - ovládání [Bofina](http://www.boffin.cz/) pomocí Micro:bit
+ * [Qdee](https://www.hiwonder.hk/collections/microbit/products/qdee) - pásové auto ovládané Micro:bitem
+ * [AlienBot](https://www.hiwonder.hk/collections/microbit/products/alienbot) - čtyřnohý pavouk ovládaný Micro:bitem
+ * [uHandbit](https://www.hiwonder.hk/collections/microbit/products/uhandbit-micro-bit-programmable-robotic-hand-for-ai-learning) - mechanická ruka ovládaná Micro:bitem
+ * [Inventor sada](http://www.megarobot.cz/index.php?route=product/product&path=118&product_id=418) - extension board s nepájivým polem a vynikající příručkou plnou příkladů a s potřebnými elektronickými součástky v krabici
+ * [různé](http://www.megarobot.cz/index.php?route=product/product&path=118&product_id=429) [bugginy](http://www.megarobot.cz/index.php?route=product/product&path=118&product_id=425) - ale nemám s nimi moc dobré zkušenosti. Ta [první](http://www.megarobot.cz/index.php?route=product/product&path=118&product_id=429) vyžaduje pájení a u obou je netriviální zvládnout otočení o přesný úhel.
+ * [mnoho různých senzorů a displejů](https://www.kitronik.co.uk/microbit.html?cat=199&limit=30) od Kitroniku. A různě po internetech i od jiných výrobců.
 
 <a href="https://www.codeclubprojects.org/en-GB/microbit/">Výukové projekty</a> od CodeClub.
 
