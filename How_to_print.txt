@@ -1,0 +1,3 @@
+Vytisknout možno pomocí příkazu
+
+  pandoc --pdf-engine=xelatex README.md -f markdown+smart -s -o file.pdf
