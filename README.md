@@ -1,5 +1,8 @@
 # Programování pro děti
+
 Příručka pro pedagogy a rodiče o výuce programování dětí na prvním stupni (tj. věk 6 až 11 let).
+
+Ke stažení na https://github.com/xsuchy/programovani_pro_deti
 
 ## Obsah
 
