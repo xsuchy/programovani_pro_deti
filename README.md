@@ -491,17 +491,19 @@ Inspirující video o bezpečnosti na internetu a kyberšikaně:
 
 [Bobřík informatiky](https://www.ibobr.cz/) - informatická soutěž pro žáky základních a středních škol.
 
-[Soutěž v programování](https://soutez.github.io/)
-
-[Scratch CUP](http://www.scratchcup.cz/) - Soutěž v programování ve Scratchi.
-
 [Mladý programátor](https://soutez.tib.cz/souteze/mlady-programator) - soutěž programování v různých kategoriích: Baltík, Scratch a jazyk dle vlastní volby.
 
 [Robosoutěž](https://robosoutez.fel.cvut.cz/) - soutěž robotů Lego MindStorm. V únoru možno přihlašovat. V dubnu bývá soutěž samotná. V Praze.
 
+[Robotický den](http://robotickyden.cz/) - v červnu v Praze.
+
 [Robotiáda](http://robotiada.cz/) - soutěž robotů Lego MindStorm. Na začátku února v Brně.
 
-[Robotický den](http://robotickyden.cz/) - v červnu v Praze.
+[Scratch CUP](http://www.scratchcup.cz/) - Soutěž v programování ve Scratchi.
+
+[Soutěž v programování](https://soutez.github.io/)
+
+[nvias Future Factory](https://www.nvias.org/futurefactory/) - soutěž v Minecraftu.
 
 ## Stručný přehled
 
