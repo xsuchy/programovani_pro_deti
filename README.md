@@ -292,15 +292,17 @@ Můžete také použít [projekty](http://projects.codeclubworld.org/) z [Code C
 
 [Lightbot](https://lightbot.com/) jednoduše ovládané programování, kde nepotřebujete ani číst ani psát. Takže je vhodné i pro předškolní děti. [Na webu je dostupné](https://lightbot.com/hocflash.html) jenom několik úrovní v rámci projektu [Hour of Code](https://hourofcode.com/cz) - zbytek je dostupný především na iPadu a Androidu. Základní úrovně zdarma, pokročilé za cenu cca 90 Kč. Takže je to spíše vhodnější pro rodiče, kteří si Lightbota mohou nainstalovat na svůj telefon a nabídnout dětem jako hru při čekání u lékaře, na vlak apod.
 
-### The Foos
+### Run Marco!
 
-Z podobného soudku jako Lightbot je i [The Foos](http://thefoos.com/). Odlehčenou verzi je možné hrát přímo v internetovém prohlížeči, ale plnohodnotnou verzi je nutné hrát na tabletu (iPad nebo Android). Hra je zdarma, ale obsahuje možná až moc gamifikace, takže se dle mého názoru na školní výuku nehodí a opět je to spíše vhodný doplněk na domácí hraní-programování.
+Velmi podobné jako Code.org je i [Run Marco!](https://runmarco.allcancode.com/) - byť trochu chudší, ale o to barevnější. Přeloženo kompletně do češtiny, ale bohužel musíte začínat vždy od začátku, takže se k tomu lze jen těžko vracet. Materiál na jednu hodinu.
 
 ### Ozobot
 
 [OzoBot](http://ozobot.com/) je robůtek, který sleduje čáru. Různé vzory barev na čáře fungují jako příkazy, takže robůtka můžete programovat čistě tužkou a papírem. [Rezenze](https://www.youtube.com/watch?v=Aw_qJp6jm8I). [Materiály pro učitele](http://ozobot.com/stem-education/stem-lessons). Pomocí [OzoBlockly](http://ozoblockly.com/) můžete robůtka naprogramovat podobně jako ve Scratchi a program do něj flashnout blikáním přes obrazovku. B ([howto](https://www.youtube.com/watch?v=fwIrAzZfvRc)) - [materiály do hodin](https://portal.ozobot.com/lessons), [puzzle](https://edu-sense.com/pl/produkty#cat-puzzle), [české materiály](http://ozobot.sandofky.cz/), upravené [začínáme s Ozoboty](ozobot/BitEvo_edit.pdf) se zvýrazněným textem pro lepší tisk. Lze koupit ve dvou variantách: [Ozobot 2.0 Bit](https://www.vyuka-vzdelavani.cz/ozobot-bit-2-0-titanove-cerny.html), který základním modelem. Z mé zkušenosti funguje jenom pomocí kreslení čar. Programování přes OzoBlockly mi fungovalo jenom na iPadu. Kdekoliv jinde (Androdidy, monitory, laptopy) přenos po pár sekundách spadnul. Pokročilejší - a dražší - je [Ozobot Evo](https://www.vyuka-vzdelavani.cz/ozobot-evo-bily.html), který umí komunikovat přes Bluetooth, má více sensorů na sledování čar a dva infračervené sensory vpředu na detekci překážek. K dostání je bezproblému v mnoha českých obchodech. 
 
 V praxi je třeba vychytat jaké fixy vám budou sedět. Nejjistější jsou originální fixy dodávané pro Ozobota, ale Centropeny se šikmou špičkou fungují velmi dobře. K dostání je i [dřevěné puzzle](https://www.vyuka-vzdelavani.cz/ozobot-drevene-puzzle.html) s nekreslenými čarami.
+
+### Run Marco!
 
 ## 2. třída
 
@@ -462,7 +464,7 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 ### Lego
 
-[Lego Coding Express](https://www.zive.cz/clanky/lego-chce-s-vlackem-coding-express-naucit-nejmensi-deti-zakladum-kodovani/sc-3-a-194812/default.aspx) - možno zakoupit v [Eduxe](https://www.eduxe.cz/p/352/45025-coding-express).
+[Lego Coding Express](https://www.zive.cz/clanky/lego-chce-s-vlackem-coding-express-naucit-nejmensi-deti-zakladum-kodovani/sc-3-a-194812/default.aspx) - možno zakoupit v [Eduxe](https://www.eduxe.cz/p/352/45025-coding-express). Podrobný [popis komponent](https://racingbrick.com/lego-powered-up-summary/) a [dokumentace protokolu](https://lego.github.io/lego-ble-wireless-protocol-docs/).
 
 [Lego MindStorms](http://mindstorms.lego.com/) - vývojově navazuje Lego WeDo. Má více sensorů a motorů, lze jich zapojit a ovládat více najednou. Programování je už složitější a vhodné pro děti od 13 let. Pro mladší žáky existuje blocky [Make Code pro Lego EV3](https://makecode.mindstorms.com/) - stačí mít na EV3 kostce nejnovější firmware a když vložíte SD kartu, připojí se vám jako USB drive a program do kostky stačí stáhnout.
 
