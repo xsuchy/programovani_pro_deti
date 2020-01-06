@@ -462,6 +462,8 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 ### Lego
 
+Kromě již zmíněného [WeDo](#lego-wedo) existují i další edice Lega:
+
 [Lego Coding Express](https://www.zive.cz/clanky/lego-chce-s-vlackem-coding-express-naucit-nejmensi-deti-zakladum-kodovani/sc-3-a-194812/default.aspx) - možno zakoupit v [Eduxe](https://www.eduxe.cz/p/352/45025-coding-express). Podrobný [popis komponent](https://racingbrick.com/lego-powered-up-summary/) a [dokumentace protokolu](https://lego.github.io/lego-ble-wireless-protocol-docs/).
 
 [Lego MindStorms](http://mindstorms.lego.com/) - vývojově navazuje Lego WeDo. Má více sensorů a motorů, lze jich zapojit a ovládat více najednou. Programování je už složitější a vhodné pro děti od 13 let. Pro mladší žáky existuje blocky [Make Code pro Lego EV3](https://makecode.mindstorms.com/) - stačí mít na EV3 kostce nejnovější firmware a když vložíte SD kartu, připojí se vám jako USB drive a program do kostky stačí stáhnout.
