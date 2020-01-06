@@ -406,56 +406,55 @@ A cokoliv od [Amanita Design](https://play.google.com/store/apps/dev?id=77452680
 
 Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
-[Baltík](http://www.sgpsys.com/cz/) - program, který byl vzorem pro Scratch. Bohužel je dostupný jenom pro Windows. Jeho ovládání je mnohem složitější a licence je poměrně drahá.
-
-[Kano](http://kano.me/) - Počítač postavený na RaspberryPi. Přijde rozložený a dítě si ho musí samo složit (8 letá dcera to zvládla). K počítači je přiložená speciální Linuxová distribuce, která se umí sama aktualizovat. Je tam několik her, které si mohou děti zahrát. A také průvodci, kteří je povedou k tomu si tu hru naprogramovat. Samozřejmě obsahuje i např. Scratch a internetový prohlížeč a je možné ho používat jako normální počítač.
-
-[Blockly](https://developers.google.com/blockly/) - knihovna pro vizuální programování jako je Code.org a Scratch. Pomocí Blockly můžete vytvářet vlastní kurzy podobně jako na Code.org. Ale i složitější rozhraní jako je např. programování jednočipů nebo telefonů.
-
-
-[Google Doodle Coding](https://www.google.com/doodles/celebrating-50-years-of-kids-coding) - Na oslavu výročí vytvořil Goodle [doodle](https://www.google.com/doodles/about), kde si mohou děti naprogramovat králička, aby sebral mrkvičky. Ta hrací plocha je hodně malá, ale je možné si ji zvětšit pomocí Ctrl +.
-
-[MIT App Inventor](http://appinventor.mit.edu/explore/) - je webové aplikace vytvořená pomocí Blockly, která vám umožní vizuálním stylem vytvořit aplikace pro telefony a tablety s Androidem. Výslednou aplikaci je možné přenést do telefonu oskenováním QR kódu. Podobně vypadá i [AppLab](https://code.org/educate/applab), ale ten neumožňuje přenést výslednou aplikaci na české telefony.
-
-[GEG](http://www.gug.cz/cs/geg) - skupina pedagogů kolem GoogleApps zaměřující se spíše na uživatelské ovládání počítačů (vytváření videií, dokumentů...).
-
-[Cube Composer](http://david-peter.de/cube-composer/) - úvod do funkcionálního programování formou hádanek. Anglicky, spíše pro starší.
-
-[OzoBot](http://ozobot.com/) - robůtek, který sleduje čáru. Různé vzory barev na čáře fungují jako příkazy, takže robůtka můžete programovat čistě tužkou a papírem. [Rezenze](https://www.youtube.com/watch?v=Aw_qJp6jm8I). [Materi8lály pro učitele](http://ozobot.com/stem-education/stem-lessons). Pomocí [OzoBlockly](http://ozoblockly.com/) můžete robůtka naprogramovat podobně jako ve Scratchi a program do něj flashnout blikáním přes obrazovku ([howto](https://www.youtube.com/watch?v=fwIrAzZfvRc)) - [materiály do hodin](https://portal.ozobot.com/lessons), [puzzle](https://edu-sense.com/pl/produkty#cat-puzzle), [české materiály](http://ozobot.sandofky.cz/).
-
-[Swift Playgroung](https://www.apple.com/swift/playgrounds/) - zábavná výuka programování postavená nad jazykem [Swift](https://cs.wikipedia.org/wiki/Swift_(programovac%C3%AD_jazyk)). Bohužel je to dostupné jenom pro Apple.
-
-[CS First](https://csfirst.withgoogle.com) od Google - plány lekcí do Scratche od Google.
-
-[Učebnice informatiky](http://imysleni.cz/ucebnice-a-vyukove-materialy/)
-
-[NÚV: Návrh revizí rámcových vzdělávacích programů v oblasti informatiky a informačních a komunikačních technologií ](http://www.pedagogicke.info/2018/08/nuv-navrh-revizi-ramcovych-vzdelavacich.html)
-
-[Dojo Resources](https://projects.raspberrypi.org/en/coderdojo) - zdroje z Coder Dojo
-
-[Slajdy Aktivní učitel](./AktivniUcitel.pdf) - Štěpánka Baierlová a Roman Podlena o tom kde berou inspiraci.
-
 [Akademie programování](https://www.akademieprogramovani.cz/kodovani-na-doma/) - kódování na doma.
 
-[UčímeSRoboty.cz](https://ucimesroboty.cz/) - další výukové materiály.
-
-[Učíme informatiku](https://www.facebook.com/groups/UcimeInformatiku/) - Facebooková skupina učitelů a učitelek informatiky.
-
-[Prázdninová škola Lipnice](https://ksvi.mff.cuni.cz/skola/) - určena učitelům informatiky na všech typech škol. Koná se v druhé polovině měsíce srpna na nějakém odlehlém místě (posledních čtyřiadvacet ročníků v Lipnici nad Sázavou).
-
-[Tello](https://www.heliguy.com/blog/2018/04/18/coding-with-the-ryze-tello/) - malý dron, který je možné [koupit](https://www.alza.cz/ryze-tello-d5256900.htm) v mnoha Českých obchodech. Je možné ho programovat pomocí Scratch nebo přes aplikaci v telefonu.
-
-[CGS Papírový počítač](http://mmm.webz.cz/pocitadla/cgs.html) - papírový simulátor registrů v počítači. Původně vyšel v ABC a později ve VTM. [Více informací](https://cs.wikipedia.org/wiki/Papírový_počítač_CGS).
-
-[Rozcestník pro učitele informatiky](https://www.pedagogicke.info/2019/10/rozcestnik-pro-ucitele-informatiky.html)
-
-[junior.guru](https://junior.guru/) - Nauč se programovat a získej svou první práci v IT.
-
-[ITveSkole](http://www.itveskole.cz/) - Novinky a dění ve světě školních ICT.                                            
+[Baltík](http://www.sgpsys.com/cz/) - program, který byl vzorem pro Scratch. Bohužel je dostupný jenom pro Windows. Jeho ovládání je mnohem složitější a licence je poměrně drahá.
 
 [Binary Counter](https://www.youtube.com/watch?v=zELAfmp3fXY) - pomůcka na demostraci dvojkové soustavy.
 
+[Blockly](https://developers.google.com/blockly/) - knihovna pro vizuální programování jako je Code.org a Scratch. Pomocí Blockly můžete vytvářet vlastní kurzy podobně jako na Code.org. Ale i složitější rozhraní jako je např. programování jednočipů nebo telefonů.
+
+[CGS Papírový počítač](http://mmm.webz.cz/pocitadla/cgs.html) - papírový simulátor registrů v počítači. Původně vyšel v ABC a později ve VTM. [Více informací](https://cs.wikipedia.org/wiki/Papírový_počítač_CGS).
+
+[CS First](https://csfirst.withgoogle.com) od Google - plány lekcí do Scratche od Google.
+
+[Cube Composer](http://david-peter.de/cube-composer/) - úvod do funkcionálního programování formou hádanek. Anglicky, spíše pro starší.
+
+[DigiKompas](http://digikompas.cz.webx4.d2.cz/knihovna-materialu/) - knihovna různých materiálů.
+
+[Dojo Resources](https://projects.raspberrypi.org/en/coderdojo) - zdroje z Coder Dojo
+
+[GEG](http://www.gug.cz/cs/geg) - skupina pedagogů kolem GoogleApps zaměřující se spíše na uživatelské ovládání počítačů (vytváření videií, dokumentů...).
+
+[Google Doodle Coding](https://www.google.com/doodles/celebrating-50-years-of-kids-coding) - Na oslavu výročí vytvořil Goodle [doodle](https://www.google.com/doodles/about), kde si mohou děti naprogramovat králička, aby sebral mrkvičky. Ta hrací plocha je hodně malá, ale je možné si ji zvětšit pomocí Ctrl +.
+
+[ITveSkole](http://www.itveskole.cz/) - Novinky a dění ve světě školních ICT.                                            
+
+[Kano](http://kano.me/) - Počítač postavený na RaspberryPi. Přijde rozložený a dítě si ho musí samo složit (8 letá dcera to zvládla). K počítači je přiložená speciální Linuxová distribuce, která se umí sama aktualizovat. Je tam několik her, které si mohou děti zahrát. A také průvodci, kteří je povedou k tomu si tu hru naprogramovat. Samozřejmě obsahuje i např. Scratch a internetový prohlížeč a je možné ho používat jako normální počítač.
+
+[MIT App Inventor](http://appinventor.mit.edu/explore/) - je webové aplikace vytvořená pomocí Blockly, která vám umožní vizuálním stylem vytvořit aplikace pro telefony a tablety s Androidem. Výslednou aplikaci je možné přenést do telefonu oskenováním QR kódu. Podobně vypadá i [AppLab](https://code.org/educate/applab), ale ten neumožňuje přenést výslednou aplikaci na české telefony.
+
+[NÚV: Návrh revizí rámcových vzdělávacích programů v oblasti informatiky a informačních a komunikačních technologií ](http://www.pedagogicke.info/2018/08/nuv-navrh-revizi-ramcovych-vzdelavacich.html)
+
+[Prázdninová škola Lipnice](https://ksvi.mff.cuni.cz/skola/) - určena učitelům informatiky na všech typech škol. Koná se v druhé polovině měsíce srpna na nějakém odlehlém místě (posledních čtyřiadvacet ročníků v Lipnici nad Sázavou).
+
 [Robotrain](http://robodoupe.cz/2019/robotrain-masinka/) - edukativní model robotizovaného skladu.
+
+[Rozcestník pro učitele informatiky](https://www.pedagogicke.info/2019/10/rozcestnik-pro-ucitele-informatiky.html)
+
+[Slajdy Aktivní učitel](./AktivniUcitel.pdf) - Štěpánka Baierlová a Roman Podlena o tom kde berou inspiraci.
+
+[Swift Playgroung](https://www.apple.com/swift/playgrounds/) - zábavná výuka programování postavená nad jazykem [Swift](https://cs.wikipedia.org/wiki/Swift_(programovac%C3%AD_jazyk)). Bohužel je to dostupné jenom pro Apple.
+
+[Tello](https://www.heliguy.com/blog/2018/04/18/coding-with-the-ryze-tello/) - malý dron, který je možné [koupit](https://www.alza.cz/ryze-tello-d5256900.htm) v mnoha Českých obchodech. Je možné ho programovat pomocí Scratch nebo přes aplikaci v telefonu.
+
+[Učebnice informatiky](http://imysleni.cz/ucebnice-a-vyukove-materialy/)
+
+[Učíme informatiku](https://www.facebook.com/groups/UcimeInformatiku/) - Facebooková skupina učitelů a učitelek informatiky.
+
+[UčímeSRoboty.cz](https://ucimesroboty.cz/) - další výukové materiály.
+
+[junior.guru](https://junior.guru/) - Nauč se programovat a získej svou první práci v IT.
 
 ### Lego
 
