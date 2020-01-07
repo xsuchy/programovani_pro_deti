@@ -272,7 +272,7 @@ V rámci Umíme Programovat jsou dostupné různé druhy úloh. Já s dětmi za�
 
 Jedno z nejlepších programátorských prostředí pro děti je bezesporu [Scratch](https://scratch.mit.edu/). Program se tvoří stejnou metodou skládání bloku jako v Code.org. Ovšem příkazy už jsou mnohem obecnější a pestřejší, takže lze vytvořit velkou škálu programů, které už mají i smysluplnou činnost.
 
-Programy můžete vytvářet přímo na stránce na adrese [scratch.mit.edu/projects/editor/](https://scratch.mit.edu/projects/editor/). Bohužel webová verze vyžaduje nainstalovaný Flash, který se v dnešní době nedoporučuje mít nainstalovaný, protože je s ním spojeno mnoho bezpečnostních problémů. Je možné si stáhnout a nainstalovat [offline editor](https://scratch.mit.edu/scratch2download/). Starší verze (1.4) jsou běžně součástí většiny linuxových distribucí.
+Programy můžete vytvářet přímo na stránce na adrese [scratch.mit.edu/projects/editor/](https://scratch.mit.edu/projects/editor/). Nejnovější webová verze (3.0) běží ve všech moderních prohlížečích a nevyžaduje žádnou instalaci. Je možné si stáhnout a nainstalovat [offline editor](https://scratch.mit.edu/download/) včetně předchozích verzí. [Zde](https://en.scratch-wiki.info/wiki/Compatibility_of_Versions_of_Scratch) jsou oficiální systémové požadavky pro použití všech verzí. 
 
 Na stránkách [ScratchEd](http://scratched.gse.harvard.edu/) je mnoho příkladů a materiálů pro učitele.
 
