@@ -462,6 +462,8 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [UčímeSRoboty.cz](https://ucimesroboty.cz/) - další výukové materiály.
 
+[Web kroužek](https://webkrouzek.github.io) - Materiály pro výuku programování webu (World Wide Web, WWW) - HTML, CSS a JavaScipt, se zaměřením na děti.
+
 [junior.guru](https://junior.guru/) - Nauč se programovat a získej svou první práci v IT.
 
 ### Lego
