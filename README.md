@@ -500,7 +500,7 @@ Inspirující video o bezpečnosti na internetu a kyberšikaně:
 
 [OpenAlt](https://openalt.cz/) - Otevřeným přístupem k otevřené společnosti. Původně čistě informatická konference nyní obsahuje track věnovaný vzdělávání. Koná se na začátku listopadu.
 
-[GEG fest](http://www.gegfest.cz/) - Konference s mnoha různými workshopy pro učitele základních i středních škol, organizuje GEG ČR.
+[GEG fest](http://www.gegfest.cz/) - Konference s mnoha různými workshopy a přednáškami o výuce informatiky pro učitele základních i středních škol, organizuje GEG ČR.
 
 ### Soutěže 
 
