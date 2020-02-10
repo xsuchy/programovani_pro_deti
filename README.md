@@ -12,7 +12,7 @@ Ke stažení na https://github.com/xsuchy/programovani_pro_deti
   * [Předškolní děti](#předškolní-děti)
 * [Velikost třídy](#velikost-třídy)
 * [Učebna a pomůcky](#učebna-a-pomůcky)
-* [Organizace výuky](#organizace-vyuky)
+* [Organizace výuky](#organizace-výuky)
 * [Začátky](#začátky)
   * [Cubetto](#cubetto)
   * [Bee Bot](#bee-bot)
@@ -464,6 +464,8 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [Web kroužek](https://webkrouzek.github.io) - Materiály pro výuku programování webu (World Wide Web, WWW) - HTML, CSS a JavaScipt, se zaměřením na děti.
 
+[ZŠ Dobřichovice](http://old.zsdobrichovice.cz/informatika.htm) - Materiály pro výuku informatiky, rozcestník k další inspiraci.
+
 [junior.guru](https://junior.guru/) - Nauč se programovat a získej svou první práci v IT.
 
 ### Lego
@@ -486,6 +488,8 @@ Inspirující video o bezpečnosti na internetu a kyberšikaně:
 
 [Shut Up and Dance](https://en.wikipedia.org/wiki/Shut_Up_and_Dance_(Black_Mirror)) - třetí díl třetí série seriálu Black Mirror. Více brutálnější. Pro první stupeň nevhodné. Pro druhý stupeň vhodné pokud bude doprovázený společnou diskusí.
 
+[Digitální stopa](https://moodle.nic.cz/mod/page/view.php?id=345) - Dvouhodinová webová aktivita od CZ.NIC, příběh Báry Bezhlavé a jejích spolužáků, věnuje se tématům soukromí na internetu, digitální stopě a kyberšikaně. Pro žáky 5. a 6. tříd ZŠ.
+
 ### Konference
 
 [didinfo](http://www.didinfo.net/) - mezinárodní konference o vyučování informatiky
@@ -495,6 +499,8 @@ Inspirující video o bezpečnosti na internetu a kyberšikaně:
 [učIT jinak](https://www.ucit-jinak.cz/) - konference nejen pro učitele informatiky. Koná se na konci března v Praze.
 
 [OpenAlt](https://openalt.cz/) - Otevřeným přístupem k otevřené společnosti. Původně čistě informatická konference nyní obsahuje track věnovaný vzdělávání. Koná se na začátku listopadu.
+
+[GEG fest](http://www.gegfest.cz/) - Konference s mnoha různými workshopy pro učitele základních i středních škol, organizuje GEG ČR.
 
 ### Soutěže 
 
