@@ -468,6 +468,8 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [junior.guru](https://junior.guru/) - Nauč se programovat a získej svou první práci v IT.
 
+[Banter bloguje](https://blog.zvestov.cz/tag/krou%C5%BEek-programov%C3%A1n%C3%AD/) - Ověřené úlohy v kroužku programování při ZŠ Louňovice pod Blaníkem.
+
 ### Lego
 
 Kromě již zmíněného [WeDo](#lego-wedo) existují i další edice Lega:
