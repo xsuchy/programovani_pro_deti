@@ -452,7 +452,7 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [Slajdy Aktivní učitel](./AktivniUcitel.pdf) - Štěpánka Baierlová a Roman Podlena o tom kde berou inspiraci.
 
-[Swift Playgroung](https://www.apple.com/swift/playgrounds/) - zábavná výuka programování postavená nad jazykem [Swift](https://cs.wikipedia.org/wiki/Swift_(programovac%C3%AD_jazyk)). Bohužel je to dostupné jenom pro Apple.
+[Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - zábavná výuka programování postavená nad jazykem [Swift](https://cs.wikipedia.org/wiki/Swift_(programovac%C3%AD_jazyk)). Bohužel je to dostupné jenom pro Apple.
 
 [Tello](https://www.heliguy.com/blog/2018/04/18/coding-with-the-ryze-tello/) - malý dron, který je možné [koupit](https://www.alza.cz/ryze-tello-d5256900.htm) v mnoha Českých obchodech. Je možné ho programovat pomocí Scratch nebo přes aplikaci v telefonu.
 
