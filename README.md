@@ -474,6 +474,8 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [Banter bloguje](https://blog.zvestov.cz/tag/krou%C5%BEek-programov%C3%A1n%C3%AD/) - Ověřené úlohy v kroužku programování při ZŠ Louňovice pod Blaníkem.
 
+[Naše třída - ICT ve výuce](https://www.nase-trida.cz/kategorie/ict-ve-vyuce/) - Nepravidelné tipy a triky do výuky ICT.
+
 ### Lego
 
 Kromě již zmíněného [WeDo](#lego-wedo) existují i další edice Lega:
@@ -509,6 +511,9 @@ Inspirující video o bezpečnosti na internetu a kyberšikaně:
 [GEG fest](http://www.gegfest.cz/) - Konference s mnoha různými workshopy a přednáškami o výuce informatiky pro učitele základních i středních škol, organizuje GEG ČR.
 
 ### Soutěže 
+[Učitel-Inovace-Výuka](https://ucimemoderne.cz/)
+
+### Soutěže
 
 [Bobřík informatiky](https://www.ibobr.cz/) - informatická soutěž pro žáky základních a středních škol.
 
