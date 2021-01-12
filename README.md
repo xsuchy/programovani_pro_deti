@@ -485,7 +485,9 @@ Kromě již zmíněného [WeDo](#lego-wedo) existují i další edice Lega:
 
 [Lego MindStorms](http://mindstorms.lego.com/) - vývojově navazuje Lego WeDo. Má více sensorů a motorů, lze jich zapojit a ovládat více najednou. Programování je už složitější a vhodné pro děti od 13 let. Pro mladší žáky existuje blocky [Make Code pro Lego EV3](https://makecode.mindstorms.com/) - stačí mít na EV3 kostce nejnovější firmware a když vložíte SD kartu, připojí se vám jako USB drive a program do kostky stačí stáhnout.
 
-[Lego Boost](https://www.lego.com/cs-cz/themes/boost) - stavebnice rozkročena mezi WeDo a MindStorm. Určena pro děti ve věku 7-12 let. Má více sensorů a motorů než WeDo. Ovládá se blokovým jazykem z aplikace Lega. Ale možno pomocí Scratch Link programovat i ve Scratchi. Oproti WeDo obsahuje i velké množství základních kostiček.
+Od poloviny roku 2020 je dostupná nová platforma Lego Mindstorms - [Robor Inventor (51515)](https://www.lego.com/en-sk/product/robot-inventor-51515) se software [Lego Mindstorms Inventor](https://play.google.com/store/apps/details?id=com.lego.retail.mindstorms) a jeho školská alternativa [Lego Education SPIKE Prime Set (45678)](https://www.lego.com/en-sk/product/lego-education-spike-prime-set-45678) se software [Lego Education SPIKE](https://play.google.com/store/apps/details?id=com.lego.education.spike). Robot Inventor a Spike mají novou kostku a nový firmware, nekompatibilní s EV3.
+
+[Lego Boost](https://www.lego.com/cs-cz/themes/boost) - stavebnice rozkročena mezi WeDo a MindStorms. Určena pro děti ve věku 7-12 let. Má více sensorů a motorů než WeDo. Ovládá se blokovým jazykem z aplikace Lega. Ale možno pomocí Scratch Link programovat i ve Scratchi. Oproti WeDo obsahuje i velké množství základních kostiček. Alternativní software je [Lego PoweredUp](https://play.google.com/store/apps/details?id=com.lego.common.poweredup) s přístupem k low-level funkcím motorů a sensorů.
 
 ### Bezpečnost na internetu
 
