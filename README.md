@@ -407,6 +407,10 @@ Mnoho rodičů se mě ptá na "rozumné" hry na tablet či telefon. Nechtějí n
 * [TileStorm](https://play.google.com/store/apps/details?id=com.jakyl.tilestormhd)
 * [Where's My Water](https://play.google.com/store/apps/details?id=com.disney.WMW)
 * [Wold of Goo](https://play.google.com/store/apps/details?id=com.twodboy.worldofgoofull)
+* [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
+* [7 Bilion Humans](https://tomorrowcorporation.com/7billionhumans)
+* [Lightbot](https://lightbot.com/index.html)
+* [Run Marco](https://runmarco.allcancode.com/)
 
 A cokoliv od [Amanita Design](https://play.google.com/store/apps/dev?id=7745268094426388671).
 
@@ -470,6 +474,8 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [Banter bloguje](https://blog.zvestov.cz/tag/krou%C5%BEek-programov%C3%A1n%C3%AD/) - Ověřené úlohy v kroužku programování při ZŠ Louňovice pod Blaníkem.
 
+[Naše třída - ICT ve výuce](https://www.nase-trida.cz/kategorie/ict-ve-vyuce/) - Nepravidelné tipy a triky do výuky ICT.
+
 ### Lego
 
 Kromě již zmíněného [WeDo](#lego-wedo) existují i další edice Lega:
@@ -504,7 +510,9 @@ Inspirující video o bezpečnosti na internetu a kyberšikaně:
 
 [GEG fest](http://www.gegfest.cz/) - Konference s mnoha různými workshopy a přednáškami o výuce informatiky pro učitele základních i středních škol, organizuje GEG ČR.
 
-### Soutěže 
+[Učitel-Inovace-Výuka](https://ucimemoderne.cz/)
+
+### Soutěže
 
 [Bobřík informatiky](https://www.ibobr.cz/) - informatická soutěž pro žáky základních a středních škol.
 
