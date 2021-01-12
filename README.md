@@ -510,7 +510,6 @@ Inspirující video o bezpečnosti na internetu a kyberšikaně:
 
 [GEG fest](http://www.gegfest.cz/) - Konference s mnoha různými workshopy a přednáškami o výuce informatiky pro učitele základních i středních škol, organizuje GEG ČR.
 
-### Soutěže 
 [Učitel-Inovace-Výuka](https://ucimemoderne.cz/)
 
 ### Soutěže
