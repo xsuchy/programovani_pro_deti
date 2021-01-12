@@ -406,11 +406,12 @@ Mnoho rodičů se mě ptá na "rozumné" hry na tablet či telefon. Nechtějí n
 * [The Room](https://play.google.com/store/apps/details?id=com.FireproofStudios.TheRoom) a jeho pokračování.
 * [TileStorm](https://play.google.com/store/apps/details?id=com.jakyl.tilestormhd)
 * [Where's My Water](https://play.google.com/store/apps/details?id=com.disney.WMW)
-* [Wold of Goo](https://play.google.com/store/apps/details?id=com.twodboy.worldofgoofull)
+* [World of Goo](https://play.google.com/store/apps/details?id=com.twodboy.worldofgoofull)
 * [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
 * [7 Bilion Humans](https://tomorrowcorporation.com/7billionhumans)
 * [Lightbot](https://lightbot.com/index.html)
 * [Run Marco](https://runmarco.allcancode.com/)
+* [Leo's Fortune](https://play.google.com/store/apps/details?id=com.leosfortune)
 
 A cokoliv od [Amanita Design](https://play.google.com/store/apps/dev?id=7745268094426388671).
 
