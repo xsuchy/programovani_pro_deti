@@ -409,9 +409,9 @@ Mnoho rodičů se mě ptá na "rozumné" hry na tablet či telefon. Nechtějí n
 * [World of Goo](https://play.google.com/store/apps/details?id=com.twodboy.worldofgoofull)
 * [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
 * [7 Bilion Humans](https://tomorrowcorporation.com/7billionhumans)
-* [Lightbot](https://lightbot.com/index.html)
+* [Lightbot](https://lightbot.com/index.html) - detailnější popis je výše. Hodí se i do výuky.
 * [Run Marco](https://runmarco.allcancode.com/)
-* [Leo's Fortune](https://play.google.com/store/apps/details?id=com.leosfortune)
+* [Leo's Fortune](https://play.google.com/store/apps/details?id=com.leosfortune) - horizontální skákačka s fyzikálními puzzle: páky, houpačky, kameny na zatížení apod.
 
 A cokoliv od [Amanita Design](https://play.google.com/store/apps/dev?id=7745268094426388671).
 
