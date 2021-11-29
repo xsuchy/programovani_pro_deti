@@ -46,9 +46,9 @@ Ke stažení na https://github.com/xsuchy/programovani_pro_deti
 
 ## O příručce
 
-Tento text není a nebude učebnicí programovaní a není pro děti. Slouží pro rodiče, vedoucí programátorských kroužků a pro učitele informatiky. Je o tom jak učit malé děti programovat, jak je naučit algoritmizovat a pochopit základní programátorské dovednosti. Není to ani příručka, podle které by se dalo postupovat krok za krokem, protože každé dítě a každá třída je vysoce individuální. Zkusím zde popsat různé možnosti výuky a jejich kombinace a uvést nezbytné detaily, které vám umožní vytvořit si vlastní učební plán. Jedná se zkušenosti mé i o zkušenosti dalších učitelů a rodičů. A samozřejmě uvítám, pokud se se mnou podělíte o svoje zkušenosti. Můžete mi psát na miroslav@suchy.cz. Stejně tak budu rád když mi dáte vědět, zda jste tuto příručku použili a jak se vám líbila.
+Tento text není a nebude učebnicí programování a není pro děti. Slouží pro rodiče, vedoucí programátorských kroužků a pro učitele informatiky. Je o tom jak učit malé děti programovat, jak je naučit algoritmizovat a pochopit základní programátorské dovednosti. Není to ani příručka, podle které by se dalo postupovat krok za krokem, protože každé dítě a každá třída je vysoce individuální. Zkusím zde popsat různé možnosti výuky a jejich kombinace a uvést nezbytné detaily, které vám umožní vytvořit si vlastní učební plán. Jedná se o zkušenosti mé i o zkušenosti dalších učitelů a rodičů. A samozřejmě uvítám, pokud se se mnou podělíte o svoje zkušenosti. Můžete mi psát na miroslav@suchy.cz. Stejně tak budu rád když mi dáte vědět, zda jste tuto příručku použili a jak se vám líbila.
 
-Nemám potřebu vytvářet nějaký nový učební systém na programovaní. Už jich existuje plno. Budu zde na ně uvádět odkazy. A budu je také odstraňovat tak jak budou některé z nich zanikat a jiné místo nich vznikat. Pokud naleznete nějaký skvělý výukový program, tak budu rád když mi dáte vědět.
+Nemám potřebu vytvářet nějaký nový učební systém na programování. Už jich existuje plno. Budu zde na ně uvádět odkazy. A budu je také odstraňovat tak jak budou některé z nich zanikat a jiné místo nich vznikat. Pokud naleznete nějaký skvělý výukový program, tak budu rád když mi dáte vědět.
 
 Oficiální učebnice a výukové materiály pro ZŠ a SŠ najdete na [iMyšlení](http://imysleni.cz/ucebnice-a-vyukove-materialy/).
 
@@ -84,7 +84,7 @@ Příručka počítá s počítačovou učebnou. Většinou stačí libovolný O
 
 ## Organizace výuky
 
-U každé úlohy se snažím uvádět časovou dotaci tak, abyste si mohli vytvořit vlastní učební plán. Časová dotace je uváděnná pro 6-8 leté žáky. Pro starší děti můžete tento čas podělit dvěma.
+U každé úlohy se snažím uvádět časovou dotaci tak, abyste si mohli vytvořit vlastní učební plán. Časová dotace je uváděná pro 6-8 leté žáky. Pro starší děti můžete tento čas podělit dvěma.
 Čerství prvňáci ještě nejsou zvyklí udržet pozornost delší dobu, takže první úlohy jsou extrémně krátké a často se střídají.
 U druháků jsem narazil na to, že po 3 měsících už je jedno programovací prostředí nudilo, ačkoliv ještě nevyčerpali jeho možnosti. Tomu je vhodné předcházet a raději častěji měnit programovací prostředí a později se k nim opět vracet.
 
@@ -94,37 +94,37 @@ Teoreticky je možné postavit celou výuku nad jedním programem. Například l
 
 ## Začátky
 
-V této kapitolce jsou prvky, které zvládnou úplní začátečnící. Např. Cubetta jsem úspěšně vyzkoušel s předškolní skupinou v mateřské školce. Žákům na prvním stupni ZŠ zařazuji tyto prvky na zpestření během prvního pololetí. Jakkoliv se jedná o atraktivní věci, tak jsou velmi jednoduché a děti velmi rychle omrzí. Takže např. s Cubettem a dětmi z prvního stupně je vidět na začátku hodiny velké nadšení, ale na konci hodiny už mohou být viditelné příznaky blížící se nudy.
+V této kapitolce jsou prvky, které zvládnou úplní začátečníci. Např. Cubetta jsem úspěšně vyzkoušel s předškolní skupinou v mateřské školce. Žákům na prvním stupni ZŠ zařazuji tyto prvky na zpestření během prvního pololetí. Jakkoliv se jedná o atraktivní věci, tak jsou velmi jednoduché a děti velmi rychle omrzí. Takže např. s Cubettem a dětmi z prvního stupně je vidět na začátku hodiny velké nadšení, ale na konci hodiny už mohou být viditelné příznaky blížící se nudy.
 
 ### Cubetto
 
-[Cubetto](https://www.primotoys.com/) je robot-želva programovaný zasouváním fyzických kostiček do dřevěného rámu. Žádná obrazovka, žádna klávesnice. Jenom dřevo a plast. [Návody do hodin](https://www.primotoys.com/resources/).
+[Cubetto](https://www.primotoys.com/) je robot-želva programovaný zasouváním fyzických kostiček do dřevěného rámu. Žádná obrazovka, žádná klávesnice. Jenom dřevo a plast. [Návody do hodin](https://www.primotoys.com/resources/).
 
-Do dřevěné ovládací desky se vkládají plastové bloky (malé destičky), které mají tvar šipek (rovně/vlevo/vpravo) a po jejich vložení a zmáčknutí tlačítka Start se robot Cubetto vydá zadaným směrem. Neexistují zde podmínky ani cykly. Vše je maximálně intuitivní. Robot vykonává příkazy postupně a na ovládácí desce vždy svítí světélko pod blokem, který je zrovna robotem vykonáván.
+Do dřevěné ovládací desky se vkládají plastové bloky (malé destičky), které mají tvar šipek (rovně/vlevo/vpravo) a po jejich vložení a zmáčknutí tlačítka Start se robot Cubetto vydá zadaným směrem. Neexistují zde podmínky ani cykly. Vše je maximálně intuitivní. Robot vykonává příkazy postupně a na ovládací desce vždy svítí světélko pod blokem, který je zrovna robotem vykonáván.
 
 Na ovládací desce je místo na 12 příkazů. Plus funkční blok na 4 příkazy. Na vyvolání funkce slouží modré bloky. Při spuštění funkce svítí světlo pod modrým blokem i pod právě vykonávaným blokem v té funkci, což umožní dětem vizuálně pochopit jak fungují funkce nebo dokonce rekurze. Funkční blok samozřejmě není vhodný pro předškolní věk, ale je možné se ke Cubettovi vráti později během prvního stupně ZŠ.
 
-Pro úplnost dodám, že existují dva další bloky (byli distribuovány jako prémie za financování na Kickstarteru): blok negace a blok náhodného příkazu.
+Pro úplnost dodám, že existují dva další bloky (byly distribuovány jako prémie za financování na Kickstarteru): blok negace a blok náhodného příkazu.
 
-Ke Cubettovi se dodávají hrací plátna, po kterých se Cubetto může pohybovat - jeden jeho krok, je přesně jeden čtverece na plátně. V robotovi není žádné optické čidlo, které by rozpoznávalo něco na tomto plátně. Cubetto se může stejně dobře pohybovat po čisté zemi nebo po papíru, který si pokreslíte sami. Plátna od Primotoys vám akorát ulehčí vymýšlení příběhů. Můžete zadávat úlohy "dojdi ze zámku na kopec, ale vyhni se vodě", "dojdi od sfingy k pyramidě" nebo "dojdi z planety na hvězdu, ale vyhni se sopce a meteorům".
+Ke Cubettovi se dodávají hrací plátna, po kterých se Cubetto může pohybovat - jeden jeho krok je přesně jeden čtverec na plátně. V robotovi není žádné optické čidlo, které by rozpoznávalo něco na tomto plátně. Cubetto se může stejně dobře pohybovat po čisté zemi nebo po papíru, který si pokreslíte sami. Plátna od Primotoys vám akorát ulehčí vymýšlení příběhů. Můžete zadávat úlohy "dojdi ze zámku na kopec, ale vyhni se vodě", "dojdi od sfingy k pyramidě" nebo "dojdi z planety na hvězdu, ale vyhni se sopce a meteorům".
 
 Cubetta je možno zakoupit buď od [vyuka-vzdelavani.cz](https://www.vyuka-vzdelavani.cz/cubetto.html). Je poměrně drahý. Pro základní školy bude asi vhodnější Bee Bot, ale pro mateřské školy, ale to zřejmě jediné rozumně fungující pomůcka. Existují i levnější hračky podobného principu, ale co jsem vyzkoušel, tak mají problémy s otočením o přesně 90°, takže po několika krocích jedou úplně mimo.
 
 [![Cubetto video](images/CubettoVideo.png)](http://www.youtube.com/watch?v=JWHUiYpsbnI "Cubetto video")
 
-Na kroužcích se mi osvědčila práce ve dvojcích. Několik příkladů:
+Na kroužcích se mi osvědčila práce ve dvojicích. Několik příkladů:
 
 <img src="./images/cubbeto-world-1.png" height="256">
 Jednoduchý posun, otočení a posun. Zde si děti obvykle ujasní, že otočení je na místě a neznamená to úkrok.
 
 <img src="./images/cubbeto-world-2.png" height="256">
-Přesuň se z "G" na "hory", ale vyhni se "vodě". Děti si musí najít vlastní cestu a zjistí, že je více než jedna možná cesta. Po této úloze je obykle nechám vzájmně si zadávat úkoly: kam se mají dostat a čemu se vyhnout nebo přes co musí projet.
+Přesuň se z "G" na "hory", ale vyhni se "vodě". Děti si musí najít vlastní cestu a zjistí, že je více než jedna možná cesta. Po této úloze je obvykle nechám vzájemně si zadávat úkoly: kam se mají dostat a čemu se vyhnout nebo přes co musí projet.
 
 <img src="./images/cubbeto-world-3.png" height="256">
 Rébus: mají dostat Cubetta z "P" na "Y", ale takovým způsobem, že až tam Cubetto dojede, tak po zmáčknutí modrého tlačítka se (bez lidského zásahu) dostane na "G". Zde si musí přijít na to, že ačkoliv se jedná o stejný program, tak Cubetto musí být i ve stejné startovní pozici (tj. po dojetí se musí ještě natočit).
 
 <img src="./images/cubbeto-world-4.png" height="256"> 
-Ať děti zkusí obkroužit čtverec 4x4. Zjistí, že jim nestačí dílky a místo na ovládácím panelu. Super přiležitost ukázat funkční blok a ukázat jak uspoří místo.
+Ať děti zkusí obkroužit čtverec 4x4. Zjistí, že jim nestačí dílky a místo na ovládacím panelu. Super příležitost ukázat funkční blok a ukázat jak uspoří místo.
 
 
 ### Bee Bot
@@ -164,7 +164,7 @@ Program je k dispozici zdarma.
 
 Počítejte s časovou dotací cca 5 minut na jednu úlohu. Vždy si zopakujte dvě starší lekce z předchozí hodiny (dle vlastního uvážení) a pak 3-5 nových.
 
-GCompris je možné využít i kdykoliv později při výuce programování - např. když čekáte až přijdou všichni žáci nebo když žák skončí dříve - v tomto případě dětem říkám, že si můžou zahrát něco z "tučnáka" (což je ikona programu GCompris) dle vlastní volby.
+GCompris je možné využít i kdykoliv později při výuce programování - např. když čekáte až přijdou všichni žáci nebo když žák skončí dříve - v tomto případě dětem říkám, že si můžou zahrát něco z "tučňáka" (což je ikona programu GCompris) dle vlastní volby.
 Pokrytí vybraných lekcí z GComprisu byste měli zvládnout za 2 vyučovací hodiny.
 
 GCompris má administrativní rozhraní, kde můžete nastavit, které úlohy budou žáci vidět a které jim zůstanou skryty. Osobně jsem ale nechával vše odemčené, a žáci si rychle našli úlohy, které odpovídaly jejich aktuálním znalostem a schopnostem.
@@ -185,13 +185,13 @@ GCompris má administrativní rozhraní, kde můžete nastavit, které úlohy bu
 
 #### Práce s klávesnicí
 
-<img src="./images/gcompris-pismena.png" height="80" alt="kočička - klávesníce - jednotlivá písmena"> *Jednotlivá písmena.* Základy orientace na alfanumerické klávesnici. (8 minut)
+<img src="./images/gcompris-pismena.png" height="80" alt="kočička - klávesnice - jednotlivá písmena"> *Jednotlivá písmena.* Základy orientace na alfanumerické klávesnici. (8 minut)
 
-<img src="./images/gcompris-cisla.png" height="80" alt="kočička - klávesníce - čísla na kostce"> *Čísla na kostce.* Základy orientace na numerické klávesnici. (8 minut)
+<img src="./images/gcompris-cisla.png" height="80" alt="kočička - klávesnice - čísla na kostce"> *Čísla na kostce.* Základy orientace na numerické klávesnici. (8 minut)
 
-#### Pamětové aktivity
+#### Paměťové aktivity
 
-<img src="./images/gcompris-pamet.png" height="80" alt="tučňák - slon - mašinka"> *Pamětová hra s vláčky.* Rozlišování vzorů a trénink krátkodobé paměti. (8 minut)
+<img src="./images/gcompris-pamet.png" height="80" alt="tučňák - slon - mašinka"> *Paměťová hra s vláčky.* Rozlišování vzorů a trénink krátkodobé paměti. (8 minut)
 
 #### Prostorová orientace
 
@@ -231,7 +231,7 @@ Během jedné hodiny jsem vždy spotřeboval dvě balení chleba - nezáleží n
 
 [RoboRally](http://www.zatrolene-hry.cz/spolecenska-hra/roborally-111/) - desková hra, kde plánujete pohyb svého robota, ale je třeba brát v úvahu pohyby robotů ostatních hráčů. Hra je sice uvedena jako 12+, ale děti, které si vyzkoušeli nějaké programování (např. Hour of Code) ji zvládají. Já ji obvykle hrávám ve zjednodušené formě, kdy ponechávám pouze pohyby po ploše a vynechávám dobíjení apod.
                                                                                                                        
-[Ricochet Robots](http://www.zatrolene-hry.cz/spolecenska-hra/ricochet-robots-315/) - desková hra, která je naprosto úžasná do kroužků. Může ji hrát libovolný počet hráčů (kolik se jich vleze kolem jednoho stolu) a všichni hrají současně, takže nevzniká prostoj, kdy se děti nudí. Na začátku se náhodně rozestaví roboti na hrací ploše (takže je spoustu herních konfigurací) a pak se losuje který robot se má kam dostat. Roboti nemají brzdu, takže se mohou zastavit jenom o zeď, okraj plochy nebo o jiného robota. Takže cesta k cíli není přímočará a někdy dost komplikovaná a existuje mnoho možných cest. Hráči se všichni najednou snaží najít (nejkratší) cestu do cíle (už jsem říkal, že je to tichá hra?). Až někdo zahlásí, že našel cestu (např. na 5 tahů), tak se spustí přesípací hodiny a ještě minutu mají ostatní hráči šanci najít cestu. Buď kratší, nebo i delší pro případ, že první hráč nakonec neprokáže, že by se jednalo o správnou cestu (což se s dětmi dost často stává).
+[Ricochet Robots](http://www.zatrolene-hry.cz/spolecenska-hra/ricochet-robots-315/) - desková hra, která je naprosto úžasná do kroužků. Může ji hrát libovolný počet hráčů (kolik se jich vleze kolem jednoho stolu) a všichni hrají současně, takže nevzniká prostoj, kdy se děti nudí. Na začátku se náhodně rozestaví roboti na hrací ploše (takže je spoustu herních konfigurací) a pak se losuje který robot se má kam dostat. Roboti nemají brzdu, takže se mohou zastavit jenom o zeď, okraj plochy nebo o jiného robota. Takže cesta k cíli není přímočará a někdy dost komplikovaná a existuje mnoho možných cest. Hráči se všichni najednou snaží najít (nejkratší) cestu do cíle (už jsem říkal, že je to tichá hra?). Až někdo zahlásí, že našel cestu (např. na 5 tahů), tak se spustí přesýpací hodiny a ještě minutu mají ostatní hráči šanci najít cestu. Buď kratší, nebo i delší pro případ, že první hráč nakonec neprokáže, že by se jednalo o správnou cestu (což se s dětmi dost často stává).
 
 
 ## 1. rok
@@ -301,13 +301,13 @@ Velmi podobné jako Code.org je i [Run Marco!](https://runmarco.allcancode.com/)
 
 ### Ozobot
 
-[OzoBot](http://ozobot.com/) je robůtek, který sleduje čáru. Různé vzory barev na čáře fungují jako příkazy, takže robůtka můžete programovat čistě tužkou a papírem. [Rezenze](https://www.youtube.com/watch?v=Aw_qJp6jm8I). [Materiály pro učitele](http://ozobot.com/stem-education/stem-lessons). Pomocí [OzoBlockly](http://ozoblockly.com/) můžete robůtka naprogramovat podobně jako ve Scratchi a program do něj flashnout blikáním přes obrazovku. ([Howto](https://www.youtube.com/watch?v=fwIrAzZfvRc)) - [materiály do hodin](https://portal.ozobot.com/lessons), [puzzle](https://edu-sense.com/pl/produkty#cat-puzzle), [české materiály](http://ozobot.sandofky.cz/), upravené [začínáme s Ozoboty](ozobot/BitEvo_edit.pdf) se zvýrazněným textem pro lepší tisk, [sbírka úloh](https://ema.rvp.cz/material/59676). Lze koupit ve dvou variantách: [Ozobot 2.0 Bit](https://www.vyuka-vzdelavani.cz/ozobot-bit-2-0-titanove-cerny.html), který základním modelem. Z mé zkušenosti funguje jenom pomocí kreslení čar. Programování přes OzoBlockly mi fungovalo jenom na iPadu. Kdekoliv jinde (Androdidy, monitory, laptopy) přenos po pár sekundách spadnul. Pokročilejší - a dražší - je [Ozobot Evo](https://www.vyuka-vzdelavani.cz/ozobot-evo-bily.html), který umí komunikovat přes Bluetooth, má více sensorů na sledování čar a dva infračervené sensory vpředu na detekci překážek. K dostání je bezproblému v mnoha českých obchodech. 
+[OzoBot](http://ozobot.com/) je robůtek, který sleduje čáru. Různé vzory barev na čáře fungují jako příkazy, takže robůtka můžete programovat čistě tužkou a papírem. [Recenze](https://www.youtube.com/watch?v=Aw_qJp6jm8I). [Materiály pro učitele](http://ozobot.com/stem-education/stem-lessons). Pomocí [OzoBlockly](http://ozoblockly.com/) můžete robůtka naprogramovat podobně jako ve Scratchi a program do něj flashnout blikáním přes obrazovku. ([Howto](https://www.youtube.com/watch?v=fwIrAzZfvRc)) - [materiály do hodin](https://portal.ozobot.com/lessons), [puzzle](https://edu-sense.com/pl/produkty#cat-puzzle), [české materiály](http://ozobot.sandofky.cz/), upravené [začínáme s Ozoboty](ozobot/BitEvo_edit.pdf) se zvýrazněným textem pro lepší tisk, [sbírka úloh](https://ema.rvp.cz/material/59676). Lze koupit ve dvou variantách: [Ozobot 2.0 Bit](https://www.vyuka-vzdelavani.cz/ozobot-bit-2-0-titanove-cerny.html), který základním modelem. Z mé zkušenosti funguje jenom pomocí kreslení čar. Programování přes OzoBlockly mi fungovalo jenom na iPadu. Kdekoliv jinde (Androdidy, monitory, laptopy) přenos po pár sekundách spadnul. Pokročilejší - a dražší - je [Ozobot Evo](https://www.vyuka-vzdelavani.cz/ozobot-evo-bily.html), který umí komunikovat přes Bluetooth, má více sensorů na sledování čar a dva infračervené sensory vpředu na detekci překážek. K dostání je bez problémů v mnoha českých obchodech. 
 
 V praxi je třeba vychytat jaké fixy vám budou sedět. Nejjistější jsou originální fixy dodávané pro Ozobota, ale Centropeny se šikmou špičkou fungují velmi dobře. K dostání je i [dřevěné puzzle](https://www.vyuka-vzdelavani.cz/ozobot-drevene-puzzle.html) s nekreslenými čarami.
 
 ## 2. třída
 
-Toto jsou aktivity, které s nimi dělám během jejich druhého roku seznamování s algoritmizací. Dle úvážení lektora můžete aktivitu nasadit i dříve. Zejména pokud se jedná o věkově starší žáky.
+Toto jsou aktivity, které s nimi dělám během jejich druhého roku seznamování s algoritmizací. Dle uvážení lektora můžete aktivitu nasadit i dříve. Zejména pokud se jedná o věkově starší žáky.
 
 ### Kurz 3 z Code.org
 
@@ -329,7 +329,7 @@ Programovat toto Lego lze buď z proprietárního WeDo software - což stojí da
 
 K dispozici je [8 návodů zdarma](http://www.eduxe.cz/download/wedo-aktivity/).
 
-Pozn: i když je fyzicky možné připojit k počítači více prvků, tak použitý protokol neumožnuje pracovat s více než dvěma prvky. Takže např. motor a jeden sensor nebo dva sensory, ale už ne motor a dva sensory.
+Pozn: i když je fyzicky možné připojit k počítači více prvků, tak použitý protokol neumožňuje pracovat s více než dvěma prvky. Takže např. motor a jeden sensor nebo dva sensory, ale už ne motor a dva sensory.
 
 Lego WeDo je nutné mít připojeno k počítači USB kabelem. Tohle omezení už neplatí pro [Lego WeDo 2.0](https://education.lego.com/en-us/products/lego-education-wedo-2-0-core-set/45300), které se připojuje pomocí Bluetooth LE. Je sice asi o 12 dolarů dražší, ale v dodávce je i ovládací SW od Lega a 40 hodin kurikula pro učitele. Možno zakoupit u [Eduxe](http://www.eduxe.cz/mladsi-skolni-vek/robotika-wedo-20/)
 
@@ -361,7 +361,7 @@ Moje příklady:
  * [Zobrazení ikon](https://makecode.microbit.org/_8dfAyLWpH6mX) - po stisknutí tlačítka se zobrazí ikona, text, číslo. Žáci si můžou vyzkoušet různé ikony a vytvořit vlastní obrazce. Vyzkouší si jak se nahrává program na Micro:bit.
  * [Elektronická kostka](https://makecode.microbit.org/_bit5bTWak43m) - po zatřesení z Micro:bite zobrazí číslo od 1 do 6. Výzva: Jak zajistit aby se neukazovala nula? Pro starší: Jak místo čísla zobrazit tečky jako na kostce?
  * [Temploměr](https://makecode.microbit.org/_JX3Cs63dqYVR) - po nahrání kódu do Micro:bitu, ho žáci mohou odpojit od počítače a napojit na baterky a zjisti jak se teplota bude měnit, pokud ho zahřejí dechem. Jaká je teplota venku a jaká v ledničce.
- * [Animace](https://makecode.microbit.org/_K84UV2cqiegM) - zobrazit animaci padajících kapek. Žáci si mohou vytvořit vlastní animaci: auto, skakajicí míč...
+ * [Animace](https://makecode.microbit.org/_K84UV2cqiegM) - zobrazit animaci padajících kapek. Žáci si mohou vytvořit vlastní animaci: auto, skákajicí míč...
  * [Krokoměr](https://makecode.microbit.org/_U50gtMc89a14) - práce s proměnnou. Co se stane pokud zobrazím proměnnou hned po té co ji inkrementuji? (začnu ztrácet kroky po dosažení desítky, protože další otřes se bude počítat až po dorolování čísla). Opět je možno přepojit na baterie a zkoušet přesnost měření.
  * [Měření světla](https://makecode.microbit.org/_1raTgrEF9fDP) - práce s podmínkou. Jaké je vhodné číslo aby se smajlík změnil při pouhém zakrytí světla? Výzva: zobraz různé obrázky pro různou intenzitu světla nebo tmy.
  * Stopky - TBD
@@ -374,7 +374,7 @@ Moje příklady:
 
 Robot [Edison](https://meetedison.com/) pochází z dílny australské společnosti Microbric. Edison je programovatelný robot. Podporuje tři programovací jazyky (EdBlocks, EdPy a EdScratch) vč. čárových kódů, obsahuje několik vestavných senzorů, dokáže komunikovat s ostatními roboty Edison a je kompatibilní s oblíbenou stavebnicí LEGO.
 
-Největší slabinou robota je způsob nahrávání kódu z počítače. V počítači se program přetvoří do zvuku. Do počítače musíte zasunout kabel který má na jedné straně jack a na druhé straně IR ledku. Zvuk je transformován na IR signály a ty jsou načteny robotem. To má několik úskalí. Jedna musí být zvuk vytažen na maximum. Jakékoliv ztišení může znamenat, že signál nebude dostatečný a přenos se nepodaří. A jelikož se signál na druhé straně kabelu transformuje na infra světlo (tj. neviditelné spektrum), tak nemáte jak ověřit, že kabel je vpořádku. Navíc na mnoha školách je zvuk zakázan administrátorem a děti nemusí mít právo ho zapnout.
+Největší slabinou robota je způsob nahrávání kódu z počítače. V počítači se program přetvoří do zvuku. Do počítače musíte zasunout kabel který má na jedné straně jack a na druhé straně IR ledku. Zvuk je transformován na IR signály a ty jsou načteny robotem. To má několik úskalí. Jednak musí být zvuk vytažen na maximum. Jakékoliv ztišení může znamenat, že signál nebude dostatečný a přenos se nepodaří. A jelikož se signál na druhé straně kabelu transformuje na infra světlo (tj. neviditelné spektrum), tak nemáte jak ověřit, že kabel je vpořádku. Navíc na mnoha školách je zvuk zakázán administrátorem a děti nemusí mít právo ho zapnout.
 
 V Česku je možné navštívit [workshopy a domluvit si bezplatné zapůjčení](https://www.edhouse.cz/edison).
 
@@ -401,7 +401,7 @@ Mnoho rodičů se mě ptá na "rozumné" hry na tablet či telefon. Nechtějí n
 * [Monument Valley](https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley)
 * [Shadowmatic](https://play.google.com/store/apps/details?id=com.triadastudio.shadowmatic)
 * [SpacePhysics](https://play.google.com/store/apps/details?id=com.rottzgames.comet.android)
-* [Tablexia](https://www.tablexia.cz/cs/) - hra na telefon/tablet. Je primárně určena pro dyslektiky. Obsahuje několik her, které rozvíjejí kognitívní schopnosti. Hra "Potmě" je zaměřena na schopnost serializovat. Ve hře potmě se dostáváme do role lupiče, který si musí předem přesně naplánovat průchod domem až k trezoru plného peněz.
+* [Tablexia](https://www.tablexia.cz/cs/) - hra na telefon/tablet. Je primárně určena pro dyslektiky. Obsahuje několik her, které rozvíjejí kognitivní schopnosti. Hra "Potmě" je zaměřena na schopnost serializovat. Ve hře potmě se dostáváme do role lupiče, který si musí předem přesně naplánovat průchod domem až k trezoru plného peněz.
 * [The Foos](https://play.google.com/store/apps/details?id=org.codespark.thefoos) - Viz popis výše. Hodí se i do výuky.
 * [The Room](https://play.google.com/store/apps/details?id=com.FireproofStudios.TheRoom) a jeho pokračování.
 * [TileStorm](https://play.google.com/store/apps/details?id=com.jakyl.tilestormhd)
@@ -425,7 +425,7 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [Baltík](http://www.sgpsys.com/cz/) - program, který byl vzorem pro Scratch. Bohužel je dostupný jenom pro Windows. Jeho ovládání je mnohem složitější a licence je poměrně drahá.
 
-[Binary Counter](https://www.youtube.com/watch?v=zELAfmp3fXY) - pomůcka na demostraci dvojkové soustavy.
+[Binary Counter](https://www.youtube.com/watch?v=zELAfmp3fXY) - pomůcka na demonstraci dvojkové soustavy.
 
 [Blockly](https://developers.google.com/blockly/) - knihovna pro vizuální programování jako je Code.org a Scratch. Pomocí Blockly můžete vytvářet vlastní kurzy podobně jako na Code.org. Ale i složitější rozhraní jako je např. programování jednočipů nebo telefonů.
 
@@ -437,9 +437,9 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [Dojo Resources](https://projects.raspberrypi.org/en/coderdojo) - zdroje z Coder Dojo
 
-[GEG](http://www.gug.cz/cs/geg) - skupina pedagogů kolem GoogleApps zaměřující se spíše na uživatelské ovládání počítačů (vytváření videií, dokumentů...).
+[GEG](http://www.gug.cz/cs/geg) - skupina pedagogů kolem GoogleApps zaměřující se spíše na uživatelské ovládání počítačů (vytváření videí, dokumentů...).
 
-[Google Doodle Coding](https://www.google.com/doodles/celebrating-50-years-of-kids-coding) - Na oslavu výročí vytvořil Goodle [doodle](https://www.google.com/doodles/about), kde si mohou děti naprogramovat králička, aby sebral mrkvičky. Ta hrací plocha je hodně malá, ale je možné si ji zvětšit pomocí Ctrl +.
+[Google Doodle Coding](https://www.google.com/doodles/celebrating-50-years-of-kids-coding) - Na oslavu výročí vytvořil Google [doodle](https://www.google.com/doodles/about), kde si mohou děti naprogramovat králíčka, aby sebral mrkvičky. Ta hrací plocha je hodně malá, ale je možné si ji zvětšit pomocí Ctrl +.
 
 [ITveSkole](http://www.itveskole.cz/) - Novinky a dění ve světě školních ICT.                                            
 
@@ -467,7 +467,7 @@ Odkazy na další zdroje, na které jsem narazil, s mým krátkým komentářem.
 
 [UčímeSRoboty.cz](https://ucimesroboty.cz/) - další výukové materiály.
 
-[Web kroužek](https://webkrouzek.github.io) - Materiály pro výuku programování webu (World Wide Web, WWW) - HTML, CSS a JavaScipt, se zaměřením na děti.
+[Web kroužek](https://webkrouzek.github.io) - Materiály pro výuku programování webu (World Wide Web, WWW) - HTML, CSS a JavaScript, se zaměřením na děti.
 
 [ZŠ Dobřichovice](http://old.zsdobrichovice.cz/informatika.htm) - Materiály pro výuku informatiky, rozcestník k další inspiraci.
 
@@ -485,7 +485,7 @@ Kromě již zmíněného [WeDo](#lego-wedo) existují i další edice Lega:
 
 [Lego MindStorms](http://mindstorms.lego.com/) - vývojově navazuje Lego WeDo. Má více sensorů a motorů, lze jich zapojit a ovládat více najednou. Programování je už složitější a vhodné pro děti od 13 let. Pro mladší žáky existuje blocky [Make Code pro Lego EV3](https://makecode.mindstorms.com/) - stačí mít na EV3 kostce nejnovější firmware a když vložíte SD kartu, připojí se vám jako USB drive a program do kostky stačí stáhnout.
 
-Od poloviny roku 2020 je dostupná nová platforma Lego Mindstorms - [Robor Inventor (51515)](https://www.lego.com/en-sk/product/robot-inventor-51515) se software [Lego Mindstorms Inventor](https://play.google.com/store/apps/details?id=com.lego.retail.mindstorms) a jeho školská alternativa [Lego Education SPIKE Prime Set (45678)](https://www.lego.com/en-sk/product/lego-education-spike-prime-set-45678) se software [Lego Education SPIKE](https://play.google.com/store/apps/details?id=com.lego.education.spike). Robot Inventor a Spike mají novou kostku a nový firmware, nekompatibilní s EV3.
+Od poloviny roku 2020 je dostupná nová platforma Lego Mindstorms - [Robot Inventor (51515)](https://www.lego.com/en-sk/product/robot-inventor-51515) se software [Lego Mindstorms Inventor](https://play.google.com/store/apps/details?id=com.lego.retail.mindstorms) a jeho školská alternativa [Lego Education SPIKE Prime Set (45678)](https://www.lego.com/en-sk/product/lego-education-spike-prime-set-45678) se software [Lego Education SPIKE](https://play.google.com/store/apps/details?id=com.lego.education.spike). Robot Inventor a Spike mají novou kostku a nový firmware, nekompatibilní s EV3.
 
 [Lego Boost](https://www.lego.com/cs-cz/themes/boost) - stavebnice rozkročena mezi WeDo a MindStorms. Určena pro děti ve věku 7-12 let. Má více sensorů a motorů než WeDo. Ovládá se blokovým jazykem z aplikace Lega. Ale možno pomocí Scratch Link programovat i ve Scratchi. Oproti WeDo obsahuje i velké množství základních kostiček. Alternativní software je [Lego PoweredUp](https://play.google.com/store/apps/details?id=com.lego.common.poweredup) s přístupem k low-level funkcím motorů a sensorů.
 
